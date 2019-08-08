@@ -31,6 +31,13 @@ The fields are as follows:
  4. Year.
  5. Event title.
 
+## Scripts
+
+The script `rewritehtml.perl` can be used to rewrite links in HTML pages.
+Run it from the database directory and pass the names of the files you wish
+to rewrite as parameters. It will update all known links, leaving any
+links not mapped in the database alone.
+
 ## Author
 
  * Peter Krefting
