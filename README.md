@@ -13,9 +13,7 @@ The list is far from complete. Additions are welcome.
 
 Known issues:
 
- * Some events have the wrong caption; a number of weekly episodes of Raw,
-   SmackDown and other shows are listed under PPV names, usually because
-   they contain events leading up to these events.
+ * Some events have the wrong caption.
  * A lot of the stuff hasn't been filled in yet.
 
 ## File format
