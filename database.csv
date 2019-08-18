@@ -131,7 +131,7 @@ Old ID,New ID,Promotion,Year,Title
 32293847,Clash-of-the-Champions-2-5691,WCW,1988,Clash of the Champions II - "Miami Mayhem"
 32288533,Clash-of-the-Champions-3-7099,WCW,1988,Clash of the Champions III - "Fall Brawl"
 32289815,Clash-of-the-Champions-4-7104,WCW,1988,Clash of the Champions IV - "Season's beatings"
-31367855,Starrcade-1983-9538,WCW,1989,Starrcade 1989 - Future Shock
+31367855,Starrcade-1989-9738,WCW,1989,Starrcade 1989 - Future Shock
 31572841,Chi-Town-Rumble-1989-10991,WCW,1989,The Chi-Town Rumble
 31588987,Halloween-Havoc-1989-10217,WCW,1989,Halloween Havoc 1989 - "Settling the Score"
 31589169,WCW-The-Great-American-Bash-1989-10285,WCW,1989,The Great American Bash 1989 - "The Glory Days"
@@ -280,7 +280,7 @@ Old ID,New ID,Promotion,Year,Title
 33484001,Saturday-Nights-Main-Event-4108,WWE,1986,Saturday Night's Main Event, March 1986
 33484097,Saturday-Nights-Main-Event-4147,WWE,1986,Saturday Night's Main Event, November 1986
 33484247,Saturday-Nights-Main-Event-4134,WWE,1986,Saturday Night's Main Event, October 1986
-31348409,WrestleMania-3-5523,WWE,1987,Wrestlemania III
+31348409,WrestleMania-4-5539,WWE,1987,Wrestlemania III
 31355077,Survivor-Series-1987-9886,WWE,1987,Survivor Series I
 33481033,Saturday-Nights-Main-Event-4901,WWE,1987,Saturday Night's Main Event, November 1987
 33481347,Saturday-Nights-Main-Event-4887,WWE,1987,Saturday Night's Main Event, May 1987
@@ -506,7 +506,7 @@ Old ID,New ID,Promotion,Year,Title
 31336869,Judgment-Day-2001-11845,WWE,2001,Judgment Day 2001
 31336871,No-Mercy-2001-11795,WWE,2001,No Mercy 2001
 31339179,King-of-the-Ring-2001-11883,WWE,2001,King of the Ring 2001
-31345263,Royal-Rumble-2000-11778,WWE,2001,Royal Rumble 2001
+31345263,Royal-Rumble-2001-11802,WWE,2001,Royal Rumble 2001
 31348415,Backlash-2001-11882,WWE,2001,Backlash 2001
 31353599,Invasion-2001-10165,WWE,2001,WWE Invasion
 31355123,Unforgiven-2001-11743,WWE,2001,Unforgiven 2001
@@ -634,7 +634,7 @@ Old ID,New ID,Promotion,Year,Title
 31294289,Survivor-Series-2008-11844,WWE,2008,Survivor Series 2008
 31296015,Night-of-Champions-2008-9740,WWE,2008,Night of Champions 2008
 31331003,Cyber-Sunday-2008-11891,WWE,2008,Cyber Sunday
-31356693,Judgment-Day-2008-9374,WWE,2008,Judgment Day 2008
+31356693,Judgment-Day-2009-9470,WWE,2008,Judgment Day 2008
 33595447,Saturday-Nights-Main-Event-7213,WWE,2008,Saturday Night's Main Event, August 2008
 1181286983,,WWE,2008,RAW 2008-04-21
 31275277,Hell-in-a-Cell-2009-5547,WWE,2009,Hell in a Cell 2009
@@ -692,7 +692,7 @@ Old ID,New ID,Promotion,Year,Title
 31303275,Elimination-Chamber-2012-11904,WWE,2012,Elimination Chamber 2012
 31340257,Night-of-Champions-2012-9940,WWE,2012,Night of Champions 2012
 31342173,Hell-in-a-Cell-2012-5579,WWE,2012,Hell in a Cell 2012
-31345257,Money-in-the-Bank-2011-7146,WWE,2012,Money in the Bank
+31345257,Money-in-the-Bank-2012-7156,WWE,2012,Money in the Bank
 31277145,Night-of-Champions-2013-10066,WWE,2013,Night of Champions 2013
 31280129,SummerSlam-2013-10406,WWE,2013,Summerslam 2013
 31284675,WWE-Battleground-2013-6808,WWE,2013,Battleground
@@ -743,7 +743,7 @@ Old ID,New ID,Promotion,Year,Title
 224466983,,WWE,2015,The Beast in the East
 263552183,,WWE,2015,Battleground 2015 pre-show
 274459983,WWE-Battleground-2015-7383,WWE,2015,Battleground
-406459383,SummerSlam-2014-11203,WWE,2015,Summerslam 2015
+406459383,SummerSlam-2015-11208,WWE,2015,Summerslam 2015
 487217383,Night-of-Champions-2015-10274,WWE,2015,Night of Champions 2015
 513773583,,WWE,2015,Live from MSG
 525510283,,WWE,2015,Hell in a Cell 2015 pre-show
@@ -817,7 +817,7 @@ Old ID,New ID,Promotion,Year,Title
 1451563483,,WWE,2017,Extreme Rules pre-show
 1451569383,WWE-Extreme-Rules-2017-11867,WWE,2017,Extreme Rules (Raw)
 1501343683,,WWE,2017,Money In The Bank pre-show
-1501435583,Money-in-the-Bank-2016-7370,WWE,2017,Money in the Bank (SmackDown)
+1501435583,Money-in-the-Bank-2017-7399,WWE,2017,Money in the Bank (SmackDown)
 1579575483,,WWE,2017,Great Balls of Fire pre-show
 1579578383,Great-Balls-of-Fire-2017-10034,WWE,2017,Great Balls of Fire (Raw)
 1627366883,WWE-Battleground-2017-5721,WWE,2017,Battleground (SmackDown)
