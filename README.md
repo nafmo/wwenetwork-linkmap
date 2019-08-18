@@ -26,7 +26,8 @@ The fields are as follows:
  1. Old video ID. This is just the numerical ID, the initial link part
    (often `http://network.wwe.com/video/`) is omitted.
  2. New video ID. This is with the prefix
-   (`http://watch.wwe.com/episode/`) omitted.
+   (`https://watch.wwe.com/episode/`) omitted. If starting with a /,
+    relative to `https://watch.wwe.com/`.
  3. Promotion (WWE, WCW, ECW, NXT, NXT UK)
  4. Year.
  5. Event title.

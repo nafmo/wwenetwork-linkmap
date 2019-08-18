@@ -73,7 +73,15 @@ sub process
             if (defined $map{$videoid})
             {
                 # Rewrite to new video
-                substr($line, $match, 30 + length($videoid)) = "https://watch.wwe.com/episode/" . $map{$videoid};
+                my $newstr = $map{$videoid};
+                if (substr($newstr, 0, 1) eq '/')
+                {
+                    substr($line, $match, 30 + length($videoid)) = "https://watch.wwe.com" . $map{$videoid};
+                }
+                else
+                {
+                    substr($line, $match, 30 + length($videoid)) = "https://watch.wwe.com/episode/" . $map{$videoid};
+                }
                 ++ $found;
             }
             $pos = $match + 30;
