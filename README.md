@@ -9,12 +9,8 @@ migrate their pages.
 
 ## Current state
 
-The list is far from complete. Additions are welcome.
-
-Known issues:
-
- * Some events have the wrong caption.
- * A lot of the stuff hasn't been filled in yet.
+The list is far from complete, it only contains the events that I had linked
+in my database. Additions are welcome.
 
 ## File format
 
