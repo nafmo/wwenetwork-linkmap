@@ -1,8 +1,20 @@
 Old ID,New ID,Promotion,Year,Title
 31356101,ECW-Hardcore-TV-9412,ECW,1994,ECW Hardcore TV 1994-08-30
+2525724183,/program/When-Worlds-Collide-1994-95213,ECW,1994,When Worlds Collide
+2525724483,/program/The-Night-The-Line-Was-Crossed-1994-95211,ECW,1994,The Night The Line Was Crossed
+2525727883,/program/Hardcore-Heaven-1994-100065,ECW,1994,Hardcore Heaven 1994
+2525727983,/program/Hostile-City-Showdown-1994-99438,ECW,1994,Hostile City Showdown 1994
+2525728783,/program/November-to-Remember-1994-99445,ECW,1994,November to Remember 1994
 36902959,November-to-Remember-1995-10360,ECW,1995,November To Remember 1995
 1038862683,Hardcore-Heaven-1995-10446,ECW,1995,Hardcore Heaven 1995
+2525728083,/program/Gangstas-Paradise-1995-95214,ECW,1995,Gangstas Paradise
+2525728483,/program/Holiday-Hell-1995-99444,ECW,1995,Holiday Hell 1995
+2525728583,3-Way-Dance-1995-95208,ECW,1995,Three Way Dance
 36902951,CyberSlam-1996-10413,ECW,1996,Cyberslam 1996
+2525724583,/program/Massacre-on-Queens-BLVD-1996-99433,ECW,1996,Massacre on Queens Boulevard
+2525728383,/program/House-Party-1996-99450,ECW,1996,House Party 1996
+2525728683,/program/Big-Apple-Blizzard-Blast-1996-99449,ECW,1996,Big Apple Blizzard Blast 1996
+2525728883,/program/Hostile-City-Showdown-1996-99440,ECW,1996,Hostile City Showdown 1996
 31537443,Hardcore-Heaven-1997-10461,ECW,1997,Hardcore Heaven 1997
 31538707,Barely-Legal-1997-10724,ECW,1997,Barely Legal 1997
 31682041,November-to-Remember-1997-10382,ECW,1997,November to Remember 1997
@@ -46,6 +58,7 @@ Old ID,New ID,Promotion,Year,Title
 32889461,WWE-NXT-9797,NXT,2014,NXT 2014-05-15
 33093209,WWE-NXT-9812,NXT,2014,NXT 2014-05-22
 33396365,WWE-NXT-TakeOver-9896,NXT,2014,NXT Takeover
+36370549,/program/WWE-NXT-TakeOver-Fatal-4-Way-Pre-Show-12217,NXT,2014,NXT Takeover: Fatal 4-Way pre-show
 36153085,WWE-NXT-TakeOver-Fatal-4-Way-9835,NXT,2014,NXT Takeover: Fatal 4-Way
 37044989,WWE-NXT-TakeOver-R-Evolution-9985,NXT,2014,NXT Takeover: REvolution
 37226855,WWE-NXT-TakeOver-Rival-10038,NXT,2015,NXT Takeover: Rival
@@ -121,8 +134,11 @@ Old ID,New ID,Promotion,Year,Title
 31355209,Starrcade-1983-9538,WCW,1983,Starrcade 1983 - A Flair for the Gold
 31345625,Starrcade-1984-9573,WCW,1984,Starrcade 1984 - The Million Dollar Challenge
 31355197,Starrcade-1985-9605,WCW,1985,Starrcade 1985 - The Gathering
+531550783,WCW-World-Championship-Wrestling-5499,WCW,1985,World Championship Wrestling 1985-12-07
 31348257,Starrcade-1986-9640,WCW,1986,Starrcade 1986 - The Skywalkers
-2525609383,,WCW,1986,Jim Crockett Sr. Memorial Cup
+2525609383,/program/Legendary-teams-clash-in-Crockett-Cup-1986-99439,WCW,1986,Jim Crockett Sr. Memorial Cup
+2525697683,The-Great-American-Bash-1986-Charlotte-100135,WCW,1986,Great American Bash 1986-07-05
+2525697783,The-Great-American-Bash-1986-Greensboro-100080,WCW,1986,Great American Bash 1986-07-26
 31662471,Starrcade-1987-9677,WCW,1987,Starrcade 1987 - Chi-Town Heat
 31355097,Bunkhouse-Stampede-1988-10665,WCW,1988,The Bunkhouse Stampede
 31355167,WCW-The-Great-American-Bash-1988-10248,WCW,1988,The Great American Bash 1988
@@ -264,7 +280,7 @@ Old ID,New ID,Promotion,Year,Title
 31360371,Halloween-Havoc-2000-10426,WCW,2000,Halloween Havoc 2000
 31367883,Fall-Brawl-2000-9372,WCW,2000,Fall Brawl 2000
 32835081,Spring-Stampede-2000-9857,WCW,2000,Spring Stampede 2000
-1797357983,,WCW,2000,Millennium Final - Sting vs. Kevin Nash
+1797357983,,WCW,2000,Millennium Final: European Cup - Sting vs. Kevin Nash
 31360457,Greed-2001-9924,WCW,2001,Greed
 31365289,Sin-2001-9615,WCW,2001,Sin
 31367885,Superbrawl-Revenge-10757,WCW,2001,Superbrawl: Revenge 2001
@@ -493,6 +509,7 @@ Old ID,New ID,Promotion,Year,Title
 31363931,Armageddon-2000-5701,WWE,2000,Armageddon 2000
 31367907,Fully-Loaded-2000-10181,WWE,2000,Fully Loaded 2000
 31379323,Insurrextion-UK-2000-10016,WWE,2000,Insurrextion
+535821583,Raw-5948,WWE,2000,RAW 2000-06-26
 535827383,Raw-6020,WWE,2000,RAW 2000-06-19
 535827683,Raw-6004,WWE,2000,RAW 2000-06-12
 536599083,Raw-5992,WWE,2000,RAW 2000-06-05
@@ -619,8 +636,10 @@ Old ID,New ID,Promotion,Year,Title
 31336875,No-Way-Out-2007-11832,WWE,2007,No Way Out 2007 (SmackDown)
 31352107,Cyber-Sunday-2007-11884,WWE,2007,Cyber Sunday
 31371411,WrestleMania-23-5608,WWE,2007,WrestleMania 23: All Grown Up
+31371427,SmackDown-4579,WWE,2007,SmackDown 2007-05-11
 33595325,Saturday-Nights-Main-Event-4017,WWE,2007,Saturday Night's Main Event, June 2007
 33598607,Saturday-Nights-Main-Event-4031,WWE,2007,Saturday Night's Main Event, August 2007
+981590783,Raw-5401,WWE,2007,RAW 2007-05-07
 31273127,Backlash-2008-11900,WWE,2008,Backlash 2008
 31277487,No-Mercy-2008-9408,WWE,2008,No Mercy 2008
 31284707,Armageddon-2008-5678,WWE,2008,Armageddon 2008
@@ -637,6 +656,7 @@ Old ID,New ID,Promotion,Year,Title
 31356693,Judgment-Day-2009-9470,WWE,2008,Judgment Day 2008
 33595447,Saturday-Nights-Main-Event-7213,WWE,2008,Saturday Night's Main Event, August 2008
 1181286983,Raw-5973,WWE,2008,RAW 2008-04-21
+1181318283,Raw-7140,WWE,2008,RAW 2008-06-30
 31275277,Hell-in-a-Cell-2009-5547,WWE,2009,Hell in a Cell 2009
 31277141,Judgment-Day-2008-9374,WWE,2009,Judgment Day 2009
 31277561,WWE-Extreme-Rules-2009-11899,WWE,2009,Extreme Rules
@@ -666,6 +686,7 @@ Old ID,New ID,Promotion,Year,Title
 31362289,Royal-Rumble-2010-11804,WWE,2010,Royal Rumble 2010
 1214293183,Raw-6693,WWE,2010,RAW 2010-11-22
 1214294883,Raw-6092,WWE,2010,RAW 2010-11-29
+1223585983,SmackDown-4482,WWE,2010,SmackDown 2010-04-02
 1224094583,SmackDown-5013,WWE,2010,SmackDown 2010-11-26
 31274229,WWE-Capitol-Punishment-2011-11854,WWE,2011,Capitol Punishment
 31274231,Elimination-Chamber-2011-11909,WWE,2011,Elimination Chamber 2011
@@ -690,6 +711,7 @@ Old ID,New ID,Promotion,Year,Title
 31294291,Royal-Rumble-2012-11822,WWE,2012,Royal Rumble 2012
 31294293,SummerSlam-2012-10226,WWE,2012,Summerslam 2012
 31303275,Elimination-Chamber-2012-11904,WWE,2012,Elimination Chamber 2012
+31319249,Raw-6754,WWE,2012,RAW 2012-07-23
 31340257,Night-of-Champions-2012-9940,WWE,2012,Night of Champions 2012
 31342173,Hell-in-a-Cell-2012-5579,WWE,2012,Hell in a Cell 2012
 31345257,Money-in-the-Bank-2012-7156,WWE,2012,Money in the Bank
@@ -702,6 +724,8 @@ Old ID,New ID,Promotion,Year,Title
 31289579,WrestleMania-29-5589,WWE,2013,WrestleMania XXIX
 31313017,Hell-in-a-Cell-2013-5592,WWE,2013,Hell in a Cell 2013
 31316163,TLC-Tables-Ladders-and-Chairs-2013-6739,WWE,2013,TLC - Tables, Ladders and Chairs 2013
+31324299,Raw-6801,WWE,2013,RAW 2013-04-08
+31326699,Raw-6795,WWE,2013,RAW 2013-10-28
 31345243,Money-in-the-Bank-2013-5657,WWE,2013,Money in the Bank
 31350177,Elimination-Chamber-2013-11908,WWE,2013,Elimination Chamber 2013
 31357435,WWE-Extreme-Rules-2013-11189,WWE,2013,Extreme Rules
@@ -818,11 +842,14 @@ Old ID,New ID,Promotion,Year,Title
 1451569383,WWE-Extreme-Rules-2017-11867,WWE,2017,Extreme Rules (Raw)
 1501343683,/program/Money-in-the-Bank-2017-Kickoff-Show-12198,WWE,2017,Money In The Bank pre-show
 1501435583,Money-in-the-Bank-2017-7399,WWE,2017,Money in the Bank (SmackDown)
+1556080283,SmackDown-4826,WWE,2017,SmackDown 2017-06-20
 1579575483,/program/Great-Balls-of-Fire-2017-Kickoff-Show-12232,WWE,2017,Great Balls of Fire pre-show
 1579578383,Great-Balls-of-Fire-2017-10034,WWE,2017,Great Balls of Fire (Raw)
 1627366883,WWE-Battleground-2017-5721,WWE,2017,Battleground (SmackDown)
+1645320483,SmackDown-4777,WWE,2017,SmackDown 2017-06-27
 1738080783,/program/SummerSlam-2017-Kickoff-Show-12188,WWE,2017,Summerslam 2017 pre-show
 1738089083,SummerSlam-2017-10389,WWE,2017,Summerslam 2017
+1794133283,SmackDown-4774,WWE,2017,SmackDown 2017-08-15
 1769459783,Episode-2-7495,WWE,2017,Mae Young Classic 2017:2
 1769459983,Episode-1-7492,WWE,2017,Mae Young Classic 2017:1
 1773350183,Episode-3-7498,WWE,2017,Mae Young Classic 2017:3
@@ -864,6 +891,7 @@ Old ID,New ID,Promotion,Year,Title
 1907368883,/program/WrestleMania-34-Kickoff-12176,WWE,2018,Wrestlemania 34 pre-show
 1907375883,WrestleMania-34-1775,WWE,2018,WrestleMania XXXIV
 1978048883,Greatest-Royal-Rumble-2018-9307,WWE,2018,Greatest Royal Rumble
+1992299983,SmackDown-4035,WWE,2018,SmackDown 2018-04-10
 2003142383,/program/Backlash-2018-Kickoff-Show-12068,WWE,2018,Backlash 2018 pre-show
 2003143783,Backlash-2018-11892,WWE,2018,Backlash 2018
 2154517683,/program/Money-in-the-Bank-2018-Kickoff-Show-12199,WWE,2018,Money In The Bank pre-show
