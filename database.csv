@@ -50,7 +50,7 @@ Old ID,New ID,Promotion,Year,Title
 1244538483,WWE-NXT-10091,NXT,2013,NXT 2013-06-26
 1244539083,WWE-NXT-10164,NXT,2013,NXT 2013-07-24
 1244539183,WWE-NXT-10109,NXT,2013,NXT 2013-07-03
-1244539383,WWE-NXT-10164,NXT,2013,NXT 2013-07-24
+1244539383,WWE-NXT-10128,NXT,2013,NXT 2013-07-10
 31442535,WWE-NXT-Arrival-10103,NXT,2014,NXT ArRIVAL
 32343803,WWE-NXT-10563,NXT,2014,NXT 2014-04-23
 32513821,WWE-NXT-9742,NXT,2014,NXT 2014-05-01
@@ -114,9 +114,9 @@ Old ID,New ID,Promotion,Year,Title
 2414680083,WWE-NXT-10837,NXT,2018,NXT 2018-08-22
 2519363083,WWE-NXT-TakeOver-WarGames-II-10155,NXT,2018,NXT Takeover: War Games II
 2519856483,WWE-NXT-10776,NXT,2018,NXT 2018-11-21
-2522322383,WWE-NXT-10776,NXT,2019,NXT Takeover: Phoenix
+2522322383,WWE-NXT-9930,NXT,2019,NXT Takeover: Phoenix
 2522438283,WWE-NXT-10974,NXT,2019,NXT 2019-01-30
-2523374083,WWE-NXT-10974,NXT,2019,NXT 2019-03-06
+2523374083,WWE-NXT-11060,NXT,2019,NXT 2019-03-06
 2523597783,WWE-NXT-9778,NXT,2019,NXT 2019-03-13
 2523965883,WWE-NXT-11069,NXT,2019,NXT 2019-03-27
 2524134083,WWE-NXT-TakeOver-New-York-9873,NXT,2019,NXT Takeover: New York
@@ -360,7 +360,7 @@ Old ID,New ID,Promotion,Year,Title
 31345323,Royal-Rumble-1993-11792,WWE,1993,Royal Rumble 1993
 31347991,WrestleMania-9-5524,WWE,1993,Wrestlemania IX
 1873630483,/program/UK-Rampage-93-12412,WWE,1993,UK Rampage 1993
-2524102483,/episode/Jim-Ross-calls-Papa-Shango-vs-El-Matador-in-debut-103473?startPoint=1.133,WWE,1993,Wrestlemania IX dark match: El Matador vs. Papa Shango
+2524102483,/episode/Jim-Ross-calls-Papa-Shango-vs-El-Matador-in-debut-103473,WWE,1993,Wrestlemania IX dark match: El Matador vs. Papa Shango
 31288939,SummerSlam-1994-11835,WWE,1994,Summerslam 1994
 31288945,King-of-the-Ring-1994-9734,WWE,1994,King of the Ring 1994
 31303601,Survivor-Series-1994-11784,WWE,1994,Survivor Series 1994
@@ -779,8 +779,8 @@ Old ID,New ID,Promotion,Year,Title
 532896183,Raw-7025,WWE,2015,RAW 2015-11-16
 534075383,/program/TLC-Tables-Ladders-and-Chairs-2015-Kickoff-12213,WWE,2015,TLC 2015 pre-show
 534076683,TLC-Tables-Ladders-and-Chairs-2015-6303,WWE,2015,"TLC - Tables, Ladders and Chairs 2015"
-638566583,/program/Payback-2015-Kickoff-Show-12508,WWE,2015,Payback pre-show
-539767183,/program/Royal-Rumble-2015-Kickoff-Show-95202,WWE,2016,Royal Rumble pre-show
+638566583,/program/Payback-2016-Kickoff-Show-11963,WWE,2016,Payback pre-show
+539767183,/program/Royal-Rumble-2016-Kickoff-Show-12239,WWE,2016,Royal Rumble pre-show
 539767983,Royal-Rumble-2016-1776,WWE,2016,Royal Rumble 2016
 543568683,/program/Fastlane-2016-Kickoff-Show-12170,WWE,2016,Fastlane pre-show
 543568883,WWE-Fastlane-2016-1773,WWE,2016,Fastlane
@@ -869,7 +869,7 @@ Old ID,New ID,Promotion,Year,Title
 1867592783,Survivor-Series-2017-11863,WWE,2017,Survivor Series 2017
 1870047783,/program/Clash-of-Champions-2017-Kickoff-Show-12098,WWE,2017,Clash of Champions 2017 pre-show
 1870048783,Clash-of-Champions-2017-11846,WWE,2017,Clash of Champions 2017 (Raw)
-1875257183,/program/Elimination-Chamber-2017-Kickoff-Show-12201,WWE,2017,Elimination Chamber pre-show
+1875257183,/program/Elimination-Chamber-2018-Kickoff-Show-12207,WWE,2018,Elimination Chamber pre-show
 1872705983,SmackDown-3881,WWE,2017,SmackDown 2017-12-19
 1873177483,SmackDown-3896,WWE,2017,SmackDown 2017-12-26
 1873176683,SmackDown-3907,WWE,2018,SmackDown 2018-01-02
