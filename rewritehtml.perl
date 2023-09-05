@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 #
-# This script rewrites old WWE Network links in HTML files list on its
-# command-line to the new style, using the mappings in database.csv
+# This script rewrites WWE Network v1 or v2 links in HTML files list on its
+# command-line to the v3 style, using the mappings in database.csv
 #
 # Usage:  rewritehtml.perl a.html b.html ...
 #
@@ -9,6 +9,7 @@
 #   rewritehtml.perl $(grep http://network.wwe.com/video/ *.html)
 
 use strict;
+use Text::CSV;
 
 if ($#ARGV < 0)
 {
@@ -17,7 +18,7 @@ if ($#ARGV < 0)
     exit 1;
 }
 
-my %map;
+my (%map, %mapv2);
 &readdatabase('database.csv');
 
 foreach my $file (@ARGV)
@@ -30,6 +31,7 @@ exit 0;
 sub readdatabase
 {
     my $fn = shift;
+    my $csv = Text::CSV->new;
     open my $db, '<', $fn
         or die "Unable to open $fn: $!\n";
     print "Reading $fn ...\n";
@@ -37,13 +39,33 @@ sub readdatabase
     while (my $line = <$db>)
     {
         chomp $line;
-        my @tokens = split(/,/, $line, 5);
+        $csv->parse($line) or die "Unable to parse $line";
+        my @tokens = $csv->fields();
         # Map if we have something to map to
-        my $videoid = int($tokens[0]);
-        if ($tokens[1] ne '')
+        if ($tokens[0] ne '-')
         {
-            die "Duplicate mapping for $tokens[0]" if defined $map{$videoid};
-            $map{$videoid} = $tokens[1];
+            my $videoid = int($tokens[0]);
+            if ($tokens[1] ne '')
+            {
+                die "Duplicate mapping for $tokens[0]" if defined $map{$videoid};
+                if ($tokens[5] ne '')
+                {
+                    $map{$videoid} = $tokens[5];
+                }
+            }
+        }
+        my $v2id = 0;
+        if ($tokens[1] =~ /-([1-9][0-9]+)$/)
+        {
+            $v2id = $1;
+        }
+        if ($v2id != 0)
+        {
+            die "Duplicate mapping for $v2id" if defined $mapv2{$v2id};
+            if ($tokens[5] ne '')
+            {
+                $mapv2{$v2id} = $tokens[5];
+            }
         }
     }
     print "... done\n";
@@ -65,6 +87,7 @@ sub process
     {
         my $pos = 0;
         # Find all old video links
+        # FIXME: http://network.wwe.com/share/video/2519716183
         while ((my $match = index($line, 'http://network.wwe.com/video/v', $pos)) != -1)
         {
             # Find the video number
@@ -73,18 +96,29 @@ sub process
             if (defined $map{$videoid})
             {
                 # Rewrite to new video
-                my $newstr = $map{$videoid};
-                if (substr($newstr, 0, 1) eq '/')
-                {
-                    substr($line, $match, 30 + length($videoid)) = "https://watch.wwe.com" . $map{$videoid};
-                }
-                else
-                {
-                    substr($line, $match, 30 + length($videoid)) = "https://watch.wwe.com/episode/" . $map{$videoid};
-                }
+                substr($line, $match, 30 + length($videoid)) = "https://network.wwe.com/video/" . $map{$videoid};
                 ++ $found;
             }
             $pos = $match + 30;
+        }
+        while ((my $match = index($line, 'https://watch.wwe.com/', $pos)) != -1)
+        {
+            # Find the video number
+            my $videoid = 0;
+            my $videoidlen = 0;
+            if (substr($line, $match + 22) =~ /((episode|program)\/[A-Za-z0-9-]+-([1-9][0-9]+))/)
+            {
+                my $videoidstr = $3;
+                $videoidlen = length($1);
+                $videoid = int($videoidstr);
+            }
+            if (defined $mapv2{$videoid})
+            {
+                # Rewrite to new video
+                substr($line, $match, 22 + $videoidlen) = "https://network.wwe.com/video/" . $mapv2{$videoid};
+                ++ $found;
+            }
+            $pos = $match + 22;
         }
         # Write to output
         print $out $line;
