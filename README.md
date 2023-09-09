@@ -25,7 +25,8 @@ The fields are as follows:
 
  1. Version 1 ID. This is just the numerical ID, the initial link part
    (often `http://network.wwe.com/video/v`) is omitted.
-    If this field is `-` the video did not exist in version 1.
+    If this field is `-` the video did not exist in version 1, or if I
+    do not have the version 1 video ID available.
  2. Version 2 ID. This is with the prefix
    (`https://watch.wwe.com/episode/`) omitted. If starting with a /,
     relative to `https://watch.wwe.com/`.
