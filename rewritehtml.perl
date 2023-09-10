@@ -48,7 +48,7 @@ sub readdatabase
             if ($tokens[1] ne '')
             {
                 die "Duplicate mapping for $tokens[0]" if defined $map{$videoid};
-                if ($tokens[5] ne '')
+                if ($tokens[5] ne '' && $tokens[5] ne '-')
                 {
                     $map{$videoid} = $tokens[5];
                 }
@@ -62,7 +62,7 @@ sub readdatabase
         if ($v2id != 0)
         {
             die "Duplicate mapping for $v2id" if defined $mapv2{$v2id};
-            if ($tokens[5] ne '')
+            if ($tokens[5] ne '' && $tokens[5] ne '-')
             {
                 $mapv2{$v2id} = $tokens[5];
             }
