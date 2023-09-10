@@ -261,6 +261,7 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID
 2525609383,/program/Legendary-teams-clash-in-Crockett-Cup-1986-99439,WCW,1986,Jim Crockett Sr. Memorial Cup,236309/crockett-cup-86
 2525697683,The-Great-American-Bash-1986-Charlotte-100135,WCW,1986,Great American Bash 1986-07-05,87467/jul-5-1986
 2525697783,The-Great-American-Bash-1986-Greensboro-100080,WCW,1986,Great American Bash 1986-07-26,86368/jul-26-1986
+-,Crockett-Cup-86-166831,WCW,1986,Crockett Cup 86,236309/crockett-cup-86
 31662471,Starrcade-1987-9677,WCW,1987,Starrcade 1987 - Chi-Town Heat,74799/starrcade-1987
 31355097,Bunkhouse-Stampede-1988-10665,WCW,1988,The Bunkhouse Stampede,74731/wcw-bunkhouse-stampede-1988
 31355167,WCW-The-Great-American-Bash-1988-10248,WCW,1988,The Great American Bash 1988,70762/wcw-the-great-american-bash-1988
@@ -756,6 +757,9 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID
 31365159,Vengeance-2005-9698,WWE,2005,Vengeance 2005 (Raw),72213/vengeance-2005
 31368967,Unforgiven-2005-11787,WWE,2005,Unforgiven 2005 (Raw),70789/unforgiven-2005
 31370753,ECW-One-Night-Stand-2005-9402,WWE,2005,ECW One Night Stand,70625/ecw-one-night-stand-2005
+-,SmackDown-3845,WWE,2005,SmackDown 2005-02-03,https://network.wwe.com/video/54452/smackdown-feb-03-2005
+-,SmackDown-3861,WWE,2005,SmackDown 2005-02-10,https://network.wwe.com/video/23969/smackdown-feb-10-2005
+-,SmackDown-3868,WWE,2005,SmackDown 2005-02-17,https://network.wwe.com/video/23971/smackdown-feb-17-2005
 31288927,No-Way-Out-2006-11827,WWE,2006,No Way Out 2006 (SmackDown),70618/no-way-out-2006
 31289551,Cyber-Sunday-2006-11839,WWE,2006,Cyber Sunday (Raw),70399/cyber-sunday-2006
 31290969,Judgment-Day-2006-9187,WWE,2006,Judgment Day 2006 (SmackDown),70501/judgment-day-2006
@@ -1140,6 +1144,7 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID
 -,/program/WWE-Money-in-the-Bank-2020-Kickoff-Show-136363,WWE,2020,Money In The Bank pre-show,144789/wwe-money-in-the-bank-2020-kickoff-show-2020-05-10
 -,WWE-Money-in-the-Bank-2020-136533,WWE,2020,Money in the Bank,144803/money-in-the-bank-2020
 -,Raw-136842,WWE,2020,RAW 2020-05-11,152834/raw-may-11-2020
+-,Raw-155881,WWE,2020,RAW 2020-12-28,196831/raw-dec-28-2020
 -,SmackDown-136843,WWE,2020,SmackDown 2020-05-15,153502/smackdown-may-15-2020
 -,SmackDown-137165,WWE,2020,SmackDown 2020-05-22,153909/smackdown-may-22-2020
 -,SmackDown-137725,WWE,2020,SmackDown 2020-05-29,154559/smackdown-may-29-2020
@@ -1189,6 +1194,9 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID
 -,WWE-Crown-Jewel-2021-171159,WWE,2021,WWE Crown Jewel,261167/wwe-crown-jewel-2021
 -,/program/Survivor-Series-2021-Kickoff-172377,WWE,2021,Survivor Series 2021 pre-show,269773/survivor-series-2021-kickoff-2021-11-21
 -,Survivor-Series-2021-172405,WWE,2021,Survivor Series 2021,269802/survivor-series-2021
+-,Raw-169604,WWE,2021,RAW 2021-09-13,257510/raw-sep-13-2021
+-,Raw-167062,WWE,2021,RAW 2021-07-19,242580/raw-jul-19-2021
+-,SmackDown-161855,WWE,2021,SmackDown 2021-04-09,219680/smackdown-apr-09-2021
 -,/program/WWE-Day-1-2022-Kickoff-174479,WWE,2022,Day 1 pre-show,279840/wwe-day-1-2022-kickoff-2022-01-01
 -,WWE-Day-1-2022-174482,WWE,2022,WWE Day 1,279869/wwe-day-1-2022
 -,/program/Royal-Rumble-2022-Kickoff-175952,WWE,2022,Royal Rumble pre-show,289823/royal-rumble-2022-01-29
@@ -1225,6 +1233,8 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID
 -,Survivor-Series-WarGames-2022-188350,WWE,2022,Survivor Series 2022 - War Games,421194/survivor-series-wargames-2022
 -,SmackDown-188598,WWE,2022,SmackDown 2022-12-02,428108/smackdown-dec-02-2022
 -,/program/Survivor-Series-WarGames-2022-Kickoff-188603,WWE,2022,Survivor Series 2022 pre-show,421140/wwe-premium-live-events-kickoff
+-,Raw-187886,WWE,2022,RAW 2022-11-07,421822/raw-nov-07-2022
+-,SmackDown-178555,2022,WWE,SmackDown 2022-04-01,350258/smackdown-apr-01-2022
 -,Royal-Rumble-2023-192184,WWE,2023,Royal Rumble 2023,439364/royal-rumble-2023
 -,/program/Royal-Rumble-2023-Kickoff-192543,WWE,2023,Royal Rumble pre-show,439293/royal-rumble-2023-kickoff-2023-01-28
 -,Elimination-Chamber-2023-193090,WWE,2023,Elimination Chamber 2023,446337/elimination-chamber-2023
@@ -1234,3 +1244,4 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID
 -,Backlash-2023-196250,WWE,2023,Backlash,475255/backlash-2023
 -,Night-of-Champions-2023-196987,WWE,2023,Night of Champions,483069/night-of-champions-2023
 -,Money-in-the-Bank-2023-198280,WWE,2023,Money in the Bank,495654/money-in-the-bank-2023
+-,SmackDown-194807,WWE,2023,SmackDown 2023-03-31,468113/smackdown-mar-31-2023
