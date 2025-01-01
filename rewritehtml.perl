@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 #
-# This script rewrites WWE Network v1 or v2 links in HTML files list on its
-# command-line to the v3 style, using the mappings in database.csv
+# This script rewrites WWE Network v1, v2 or v3 links in HTML files list on its
+# command-line to Netflix, using the mappings in database.csv
 #
 # Usage:  rewritehtml.perl a.html b.html ...
 #
@@ -18,7 +18,7 @@ if ($#ARGV < 0)
     exit 1;
 }
 
-my (%map, %mapv2);
+my (%map, %mapv2, %mapv3);
 &readdatabase('database.csv');
 
 foreach my $file (@ARGV)
@@ -41,6 +41,9 @@ sub readdatabase
         chomp $line;
         $csv->parse($line) or die "Unable to parse $line";
         my @tokens = $csv->fields();
+        # TODO: Add commmand-line switch to rewrite to v3 links, we might
+        # need this if the Netflix deal expires and they go back again...
+        my $target = $tokens[6];
         # Map if we have something to map to
         if ($tokens[0] ne '-')
         {
@@ -48,23 +51,42 @@ sub readdatabase
             if ($tokens[1] ne '')
             {
                 die "Duplicate mapping for $tokens[0]" if defined $map{$videoid};
-                if ($tokens[5] ne '' && $tokens[5] ne '-')
+                if ($target ne '' && $target ne '-')
                 {
-                    $map{$videoid} = $tokens[5];
+                    $map{$videoid} = $target;
                 }
             }
         }
-        my $v2id = 0;
-        if ($tokens[1] =~ /-([1-9][0-9]+)$/)
+        if ($tokens[1] ne '-')
         {
-            $v2id = $1;
-        }
-        if ($v2id != 0)
-        {
-            die "Duplicate mapping for $v2id" if defined $mapv2{$v2id};
-            if ($tokens[5] ne '' && $tokens[5] ne '-')
+            my $v2id = 0;
+            if ($tokens[1] =~ /-([1-9][0-9]+)$/)
             {
-                $mapv2{$v2id} = $tokens[5];
+                $v2id = $1;
+            }
+            if ($v2id != 0)
+            {
+                die "Duplicate mapping for $v2id" if defined $mapv2{$v2id};
+                if ($target ne '' && $target ne '-')
+                {
+                    $mapv2{$v2id} = $target;
+                }
+            }
+        }
+        if ($tokens[5] ne '-')
+        {
+            my $v3id = 0;
+            if ($tokens[5] =~ /([1-9][0-9]+)(\/[-a-z0-9]*)?$/)
+            {
+                $v3id = $1;
+            }
+            if ($v3id != 0)
+            {
+                die "Duplicate mapping for $v3id" if defined $mapv3{$v3id};
+                if ($target ne '' && $target ne '-')
+                {
+                    $mapv3{$v3id} = $target;
+                }
             }
         }
     }
@@ -87,6 +109,8 @@ sub process
     {
         my $pos = 0;
         # Find all old video links
+
+        # Version 1 ---
         # FIXME: http://network.wwe.com/share/video/2519716183
         while ((my $match = index($line, 'http://network.wwe.com/video/v', $pos)) != -1)
         {
@@ -96,11 +120,13 @@ sub process
             if (defined $map{$videoid})
             {
                 # Rewrite to new video
-                substr($line, $match, 30 + length($videoid)) = "https://network.wwe.com/video/" . $map{$videoid};
+                substr($line, $match, 30 + length($videoid)) = "https://www.netflix.com/watch/" . $map{$videoid};
                 ++ $found;
             }
             $pos = $match + 30;
         }
+
+        # Version 2 ---
         while ((my $match = index($line, 'https://watch.wwe.com/', $pos)) != -1)
         {
             # Find the video number
@@ -115,11 +141,27 @@ sub process
             if (defined $mapv2{$videoid})
             {
                 # Rewrite to new video
-                substr($line, $match, 22 + $videoidlen) = "https://network.wwe.com/video/" . $mapv2{$videoid};
+                substr($line, $match, 22 + $videoidlen) = "https://www.netflix.com/watch/" . $mapv2{$videoid};
                 ++ $found;
             }
             $pos = $match + 22;
         }
+        # Version 3 ---
+        while ((my $match = index($line, 'https://network.wwe.com/video/', $pos)) != -1)
+        {
+            # Find the video number
+            my $videoidlen = 0;
+            (my $videoidstr, my $ignore) = split(/[^0-9]/, substr($line, $match + 30), 2);
+            my $videoid = int($videoidstr);
+            if (defined $map{$videoid})
+            {
+                # Rewrite to new video
+                substr($line, $match, 30 + length($videoid)) = "https://www.netflix.com/watch/" . $map{$videoid};
+                ++ $found;
+            }
+            $pos = $match + 30;
+        }
+
         # Write to output
         print $out $line;
     }

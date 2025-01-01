@@ -11,6 +11,11 @@ When the WWE Network version 3 was launched in August 2023, they again
 rendered all old video links invalid. I then updated the mapping to provide
 links from both version 1 and version 2 to the version 3 links.
 
+In January 2025, Netflix aquired all the assets of WWE Network where I
+live. The WWE Network links are still active for the territories where the
+Network is still live, but there is no transfer to Netflix for me, so I
+added another map.
+
 ## Current state
 
 The list is far from complete, it only contains the events that I had linked
@@ -35,7 +40,9 @@ The fields are as follows:
  5. Event title.
  6. Version 3 ID. This is with the prefix
    (`https://network.wwe.com/video/`) omitted. The name part after
-    the second slash is optional.
+    the second slash is optional (if included).
+ 7. Netflix ID. This is with the prefix
+   (`https://www.netflix.com/watch/`) omitted.
 
 ## Scripts
 
