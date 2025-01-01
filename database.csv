@@ -253,6 +253,7 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID
 -,WWE-NXT-196982,NXT,2023,NXT 2023-05-23,482150/wwe-nxt-may-23-2023
 -,NXT-Battleground-2023-196991,NXT,2023,NXT Battleground 2023,483601/nxt-battleground-2023
 -,The-Great-American-Bash-2023-199238,NXT,2023,Great American Bash 2023,504254/nxt-the-great-american-bash-2023
+-,NXT-The-Great-American-Bash-2023-Kickoff-199239,NXT,2023,Great American Bash 2023 Kickoff,504229
 31355209,Starrcade-1983-9538,WCW,1983,Starrcade 1983 - A Flair for the Gold,74773/starrcade-1983
 31345625,Starrcade-1984-9573,WCW,1984,Starrcade 1984 - The Million Dollar Challenge,74795/starrcade-1984
 31355197,Starrcade-1985-9605,WCW,1985,Starrcade 1985 - The Gathering,74720/starrcade-1985
@@ -261,7 +262,7 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID
 2525609383,/program/Legendary-teams-clash-in-Crockett-Cup-1986-99439,WCW,1986,Jim Crockett Sr. Memorial Cup,236309/crockett-cup-86
 2525697683,The-Great-American-Bash-1986-Charlotte-100135,WCW,1986,Great American Bash 1986-07-05,87467/jul-5-1986
 2525697783,The-Great-American-Bash-1986-Greensboro-100080,WCW,1986,Great American Bash 1986-07-26,86368/jul-26-1986
--,Crockett-Cup-86-166831,WCW,1986,Crockett Cup 86,236309/crockett-cup-86
+-,Crockett-Cup-86-166831,WCW,1986,Crockett Cup 86,-
 31662471,Starrcade-1987-9677,WCW,1987,Starrcade 1987 - Chi-Town Heat,74799/starrcade-1987
 31355097,Bunkhouse-Stampede-1988-10665,WCW,1988,The Bunkhouse Stampede,74731/wcw-bunkhouse-stampede-1988
 31355167,WCW-The-Great-American-Bash-1988-10248,WCW,1988,The Great American Bash 1988,70762/wcw-the-great-american-bash-1988
@@ -374,7 +375,7 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID
 31354977,Fall-Brawl-1998-9843,WCW,1998,Fall Brawl 1998,74703/fall-brawl-1998
 31355177,Spring-Stampede-1998-9811,WCW,1998,Spring Stampede 1998,74749/spring-stampede-1998
 31355181,Slamboree-1998-10096,WCW,1998,Slamboree 1998,74785/slamboree-1998
-31359919,Starrcade-1998-9219,WCW,1998,Starrcade 1998,74794/starrcade-1998
+31359919,Starrcade-1998-9219,WCW,1998,Starrcade 1998,74802/starrcade-1999
 31359957,Halloween-Havoc-1998-10375,WCW,1998,Halloween Havoc 1998,74763/halloween-havoc-1998
 31367861,Superbrawl-8-9679,WCW,1998,Superbrawl VIII,125684/superbrawl-8
 31370013,Uncensored-1998-10790,WCW,1998,Uncensored 1998,74748/uncensored-1998
@@ -530,7 +531,7 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID
 31327255,In-Your-House-Good-Friends-Better-Enemies-11769,WWE,1996,In Your House VII,70460/in-your-house-in-your-house-good-friends-better-enemies
 31326691,In-Your-House-Beware-of-Dog-11170,WWE,1996,In Your House VIII - Beware of dog,70481/in-your-house-in-your-house-beware-of-dog
 31326443,In-Your-House-International-Incident-11771,WWE,1996,In Your House IX - International Incident,70469/in-your-house-in-your-house-international-incident
-31317649,In-Your-House-Mind-Games-11773,WWE,1996,In Your House X - Mind Games,70469/in-your-house-in-your-house-international-incident
+31317649,In-Your-House-Mind-Games-11773,WWE,1996,In Your House X - Mind Games,70483
 31316275,In-Your-House-Buried-Alive-11142,WWE,1996,In Your House XI - Buried Alive,70462/in-your-house-in-your-house-buried-alive
 31304877,In-Your-House-Its-Time-11772,WWE,1996,In Your House XII,70461/in-your-house-in-your-house-its-time
 31348419,WrestleMania-12-5452,WWE,1996,Wrestlemania XII,67416/wrestlemania-12
