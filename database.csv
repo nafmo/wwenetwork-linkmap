@@ -436,29 +436,29 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 31367885,Superbrawl-Revenge-10757,WCW,2001,Superbrawl: Revenge 2001,72412/superbrawl-revenge,-
 -,/program/The-Brawl-to-End-It-All-105375,WWE,1984,The Brawl to End It All,-,-
 -,/program/The-War-to-Settle-the-Score-105374,WWE,1985,The War to Settle the Score,-,-
-31327261,The-Wrestling-Classic-1985-11786,WWE,1985,The Wrestling Classic,70988/the-wrestling-classic-1985,-
-31347203,WrestleMania-1-5510,WWE,1985,Wrestlemania I,67362/wrestlemania-1,-
+31327261,The-Wrestling-Classic-1985-11786,WWE,1985,The Wrestling Classic,70988/the-wrestling-classic-1985,81930586
+31347203,WrestleMania-1-5510,WWE,1985,Wrestlemania I,67362/wrestlemania-1,81929579
 33483585,Saturday-Nights-Main-Event-4153,WWE,1985,"Saturday Night's Main Event, May 1985",25019/saturday-nights-main-event-saturday-nights-main-event,-
 33483633,Saturday-Nights-Main-Event-4164,WWE,1985,"Saturday Night's Main Event, October 1985",25048/saturday-nights-main-event-saturday-nights-main-event,-
 33483691,Saturday-Nights-Main-Event-4175,WWE,1985,"Saturday Night's Main Event, November 1985",25020/saturday-nights-main-event-saturday-nights-main-event,-
 31314741,The-Big-Event-1986-10819,WWE,1986,The Big Event,70746/the-big-event-1986,-
-31347653,WrestleMania-2-7397,WWE,1986,Wrestlemania II,69694/wrestlemania-2,-
+31347653,WrestleMania-2-7397,WWE,1986,Wrestlemania II,69694/wrestlemania-2,81929580
 33483907,Saturday-Nights-Main-Event-4121,WWE,1986,"Saturday Night's Main Event, May 1986",25059/saturday-nights-main-event-saturday-nights-main-event,-
 33483927,Saturday-Nights-Main-Event-4098,WWE,1986,"Saturday Night's Main Event, January 1986",25023/saturday-nights-main-event-saturday-nights-main-event,-
 33484001,Saturday-Nights-Main-Event-4108,WWE,1986,"Saturday Night's Main Event, March 1986",25025/saturday-nights-main-event-saturday-nights-main-event,-
 33484097,Saturday-Nights-Main-Event-4147,WWE,1986,"Saturday Night's Main Event, November 1986",25060/saturday-nights-main-event-saturday-nights-main-event,-
 33484247,Saturday-Nights-Main-Event-4134,WWE,1986,"Saturday Night's Main Event, October 1986",25026/saturday-nights-main-event-saturday-nights-main-event,-
-31348409,WrestleMania-4-5539,WWE,1987,Wrestlemania III,67015/wrestlemania-3,-
-31355077,Survivor-Series-1987-9886,WWE,1987,Survivor Series I,70859/survivor-series-1987,-
+31348409,WrestleMania-3-5523,WWE,1987,Wrestlemania III,67015/wrestlemania-3,81929581
+31355077,Survivor-Series-1987-9886,WWE,1987,Survivor Series I,70859/survivor-series-1987,81930152
 33481033,Saturday-Nights-Main-Event-4901,WWE,1987,"Saturday Night's Main Event, November 1987",25027/saturday-nights-main-event-saturday-nights-main-event,-
 33481347,Saturday-Nights-Main-Event-4887,WWE,1987,"Saturday Night's Main Event, May 1987",25031/saturday-nights-main-event-saturday-nights-main-event,-
 33481899,Saturday-Nights-Main-Event-4893,WWE,1987,"Saturday Night's Main Event, October 1987",25032/saturday-nights-main-event-saturday-nights-main-event,-
 33484159,Saturday-Nights-Main-Event-4894,WWE,1987,"Saturday Night's Main Event, January 1987",25049/saturday-nights-main-event-saturday-nights-main-event,-
 33485141,Saturday-Nights-Main-Event-4880,WWE,1987,"Saturday Night's Main Event, March 1987",25034/saturday-nights-main-event-saturday-nights-main-event,-
-31326731,Survivor-Series-1988-9983,WWE,1988,Survivor Series 1988,70860/survivor-series-1988,-
-31350173,SummerSlam-1988-11819,WWE,1988,Summerslam 1988,70711/summerslam-1988,-
-31354523,Royal-Rumble-1988-11872,WWE,1988,Royal Rumble 1988,70656/royal-rumble-1988,-
-31356285,WrestleMania-3-5523,WWE,1988,Wrestlemania IV,67348/wrestlemania-4,-
+31326731,Survivor-Series-1988-9983,WWE,1988,Survivor Series 1988,70860/survivor-series-1988,81930153
+31350173,SummerSlam-1988-11819,WWE,1988,Summerslam 1988,70711/summerslam-1988,81929050
+31354523,Royal-Rumble-1988-11872,WWE,1988,Royal Rumble 1988,70656/royal-rumble-1988,81929668
+31356285,WrestleMania-4-5539,WWE,1988,Wrestlemania IV,67348/wrestlemania-4,81929582
 33481035,Saturday-Nights-Main-Event-4915,WWE,1988,"Saturday Night's Main Event, March 1988",25051/saturday-nights-main-event-saturday-nights-main-event,-
 33481251,Saturday-Nights-Main-Event-4898,WWE,1988,"Saturday Night's Main Event, December 1988",25064/saturday-nights-main-event-saturday-nights-main-event,-
 33481343,Saturday-Nights-Main-Event-4918,WWE,1988,"Saturday Night's Main Event, April 1988",25057/saturday-nights-main-event-saturday-nights-main-event,-
@@ -466,61 +466,61 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 33481845,Saturday-Nights-Main-Event-4910,WWE,1988,"Saturday Night's Main Event, January 1988",25058/saturday-nights-main-event-saturday-nights-main-event,-
 33481935,Saturday-Nights-Main-Event-4881,WWE,1988,"Saturday Night's Main Event, October 1988",25052/saturday-nights-main-event-saturday-nights-main-event,-
 33595255,The-Main-Event-1-10047,WWE,1988,"The Main Event, February 1988",72092/saturday-nights-main-event-the-main-event-1,-
-31336881,SummerSlam-1989-11829,WWE,1989,Summerslam 1989,70729/summerslam-1989,-
-31336887,Survivor-Series-1989-10116,WWE,1989,Survivor Series 1989,70877/survivor-series-1989,-
-31345253,Royal-Rumble-1989-11877,WWE,1989,Royal Rumble 1989,70657/royal-rumble-1989,-
-31347509,WrestleMania-5-5449,WWE,1989,Wrestlemania V,67154/wrestlemania-5,-
+31336881,SummerSlam-1989-11829,WWE,1989,Summerslam 1989,70729/summerslam-1989,81929052
+31336887,Survivor-Series-1989-10116,WWE,1989,Survivor Series 1989,70877/survivor-series-1989,81930154
+31345253,Royal-Rumble-1989-11877,WWE,1989,Royal Rumble 1989,70657/royal-rumble-1989,81929669
+31347509,WrestleMania-5-5449,WWE,1989,Wrestlemania V,67154/wrestlemania-5,81929583
 33481847,The-Main-Event-2-4884,WWE,1989,"Saturday Night's Main Event, February 1989",25055/saturday-nights-main-event-the-main-event-2,-
 33576015,Saturday-Nights-Main-Event-4966,WWE,1989,"Saturday Night's Main Event, October 1989",25024/saturday-nights-main-event-saturday-nights-main-event,-
 33576413,Saturday-Nights-Main-Event-4959,WWE,1989,"Saturday Night's Main Event, July 1989",25033/saturday-nights-main-event-saturday-nights-main-event,-
 33576589,Saturday-Nights-Main-Event-4963,WWE,1989,"Saturday Night's Main Event, September 1989",25021/saturday-nights-main-event-saturday-nights-main-event,-
 33577007,Saturday-Nights-Main-Event-4906,WWE,1989,"Saturday Night's Main Event, April 1989",25078/saturday-nights-main-event-saturday-nights-main-event,-
 33595407,Saturday-Nights-Main-Event-4903,WWE,1989,"Saturday Night's Main Event, February 1989",25063/saturday-nights-main-event-saturday-nights-main-event,-
-31304977,Survivor-Series-1990-10233,WWE,1990,Survivor Series 1990,70874/survivor-series-1990,-
-31336889,SummerSlam-1990-11837,WWE,1990,Summerslam 1990,70733/summerslam-1990,-
-31345259,Royal-Rumble-1990-11857,WWE,1990,Royal Rumble 1990,70660/royal-rumble-1990,-
-31356295,WrestleMania-6-5466,WWE,1990,Wrestlemania VI,67417/wrestlemania-6,-
+31304977,Survivor-Series-1990-10233,WWE,1990,Survivor Series 1990,70874/survivor-series-1990,81930155
+31336889,SummerSlam-1990-11837,WWE,1990,Summerslam 1990,70733/summerslam-1990,81929054
+31345259,Royal-Rumble-1990-11857,WWE,1990,Royal Rumble 1990,70660/royal-rumble-1990,81929670
+31356295,WrestleMania-6-5466,WWE,1990,Wrestlemania VI,67417/wrestlemania-6,81929584
 33574847,Saturday-Nights-Main-Event-4957,WWE,1990,"Saturday Night's Main Event, April 1990",25022/saturday-nights-main-event-saturday-nights-main-event,-
 33575579,Saturday-Nights-Main-Event-4971,WWE,1990,"Saturday Night's Main Event, January 1990",25062/saturday-nights-main-event-saturday-nights-main-event,-
 33576301,Saturday-Nights-Main-Event-4960,WWE,1990,"Saturday Night's Main Event, July 1990",25030/saturday-nights-main-event-saturday-nights-main-event,-
 33577127,Saturday-Nights-Main-Event-4964,WWE,1990,"Saturday Night's Main Event, September 1990",25056/saturday-nights-main-event-saturday-nights-main-event,-
 33595241,The-Main-Event-3-10081,WWE,1990,"Saturday Night's Main Event, February 1990",72145/saturday-nights-main-event-the-main-event-3,-
 33595593,The-Main-Event-4-9491,WWE,1990,"Saturday Night's Main Event, October 1990",72116/saturday-nights-main-event-the-main-event-4,-
-31303817,Survivor-Series-1991-10314,WWE,1991,Survivor Series 1991,70875/survivor-series-1991,-
-31304555,SummerSlam-1991-11807,WWE,1991,Summerslam 1991,70732/summerslam-1991,-
-31324315,This-Tuesday-in-Texas-1991-11831,WWE,1991,Tuesday In Texas,70800/this-tuesday-in-texas-1991,-
-31345879,Royal-Rumble-1991-11790,WWE,1991,Royal Rumble 1991,70661/royal-rumble-1991,-
-31356293,WrestleMania-7-5491,WWE,1991,Wrestlemania VII,67366/wrestlemania-7,-
+31303817,Survivor-Series-1991-10314,WWE,1991,Survivor Series 1991,70875/survivor-series-1991,81930156
+31304555,SummerSlam-1991-11807,WWE,1991,Summerslam 1991,70732/summerslam-1991,81929056
+31324315,This-Tuesday-in-Texas-1991-11831,WWE,1991,Tuesday In Texas,70800/this-tuesday-in-texas-1991,81930589
+31345879,Royal-Rumble-1991-11790,WWE,1991,Royal Rumble 1991,70661/royal-rumble-1991,81929671
+31356293,WrestleMania-7-5491,WWE,1991,Wrestlemania VII,67366/wrestlemania-7,81929585
 33575531,Saturday-Nights-Main-Event-4968,WWE,1991,Saturday Night's Main Event,25072/saturday-nights-main-event-saturday-nights-main-event,-
 33595749,The-Main-Event-5-9512,WWE,1991,"Saturday Night's Main Event, February 1991",72140/saturday-nights-main-event-the-main-event-5,-
 1873783083,/program/Battle-Royal-at-The-Royal-Albert-Hall-95174,WWE,1991,Battle Royal at The Albert Hall,87468/battle-royal-at-the-royal-albert-hall,-
-31303263,SummerSlam-1992-11816,WWE,1992,Summerslam 1992,70730/summerslam-1992,-
-31303821,Survivor-Series-1992-11871,WWE,1992,Survivor Series 1992,70918/survivor-series-1992,-
-31345295,Royal-Rumble-1992-11782,WWE,1992,Royal Rumble 1992,70652/royal-rumble-1992,-
-31348403,WrestleMania-8-5511,WWE,1992,Wrestlemania VIII,155226/wrestlemania-8,-
+31303263,SummerSlam-1992-11816,WWE,1992,Summerslam 1992,70730/summerslam-1992,81929058
+31303821,Survivor-Series-1992-11871,WWE,1992,Survivor Series 1992,70918/survivor-series-1992,81930157
+31345295,Royal-Rumble-1992-11782,WWE,1992,Royal Rumble 1992,70652/royal-rumble-1992,81929672
+31348403,WrestleMania-8-5511,WWE,1992,Wrestlemania VIII,155226/wrestlemania-8,81929586
 33595323,Saturday-Nights-Main-Event-4974,WWE,1992,Saturday Night's Main Event October 1992,25035/saturday-nights-main-event-saturday-nights-main-event,-
 33595871,Saturday-Nights-Main-Event-4972,WWE,1992,Saturday Night's Main Event February 1992,25067/saturday-nights-main-event-saturday-nights-main-event,-
 1873781283,/program/UK-Rampage-92-12353,WWE,1992,UK Rampage 1992,83228/uk-rampage-92,-
-31292541,Survivor-Series-1993-11915,WWE,1993,Survivor Series 1993,70878/survivor-series-1993,-
-31303265,King-of-the-Ring-1993-9604,WWE,1993,King of the Ring 1993,70530/king-of-the-ring-1993,-
-31303271,SummerSlam-1993-11826,WWE,1993,Summerslam 1993,70734/summerslam-1993,-
+31292541,Survivor-Series-1993-11915,WWE,1993,Survivor Series 1993,70878/survivor-series-1993,81930158
+31303265,King-of-the-Ring-1993-9604,WWE,1993,King of the Ring 1993,70530/king-of-the-ring-1993,81929812
+31303271,SummerSlam-1993-11826,WWE,1993,Summerslam 1993,70734/summerslam-1993,81929060
 31309111,Raw-5826,WWE,1993,RAW 1993-05-24,67191/raw-may-24-1993,-
 31309705,Raw-5735,WWE,1993,RAW 1993-09-27,67202/raw-sep-27-1993,-
 31309725,Raw-5695,WWE,1993,RAW 1993-05-10,67404/raw-may-10-1993,-
 31309833,Raw-6041,WWE,1993,RAW 1993-10-04,67391/raw-oct-04-1993,-
 31311699,Raw-6009,WWE,1993,RAW 1993-10-11,67196/raw-oct-11-1993,-
-31345323,Royal-Rumble-1993-11792,WWE,1993,Royal Rumble 1993,70649/royal-rumble-1993,-
-31347991,WrestleMania-9-5524,WWE,1993,Wrestlemania IX,67415/wrestlemania-9,-
+31345323,Royal-Rumble-1993-11792,WWE,1993,Royal Rumble 1993,70649/royal-rumble-1993,81929673
+31347991,WrestleMania-9-5524,WWE,1993,Wrestlemania IX,67415/wrestlemania-9,81929587
 1873630483,/program/UK-Rampage-93-12412,WWE,1993,UK Rampage 1993,83222/uk-rampage-93,-
 2524102483,/episode/Jim-Ross-calls-Papa-Shango-vs-El-Matador-in-debut-103473,WWE,1993,Wrestlemania IX dark match: El Matador vs. Papa Shango,88802/jim-ross-calls-papa-shango-vs-el-matador-in-debut,-
 -,Superstars-147617,WWE,1993,Superstars 1993-05-08,160176/superstars-may-08-1993,-
 -,Superstars-147619,WWE,1993,Superstars 1993-05-01,160175/superstars-may-01-1993,-
 -,Superstars-147620,WWE,1993,Superstars 1993-05-22,160174/superstars-may-22-1993,-
-31288939,SummerSlam-1994-11835,WWE,1994,Summerslam 1994,70725/summerslam-1994,-
-31288945,King-of-the-Ring-1994-9734,WWE,1994,King of the Ring 1994,70527/king-of-the-ring-1994,-
-31303601,Survivor-Series-1994-11784,WWE,1994,Survivor Series 1994,70921/survivor-series-1994,-
-31345831,Royal-Rumble-1994-11800,WWE,1994,Royal Rumble 1994,70658/royal-rumble-1994,-
-31355189,WrestleMania-10-5545,WWE,1994,Wrestlemania X,67151/wrestlemania-10,-
+31288939,SummerSlam-1994-11835,WWE,1994,Summerslam 1994,70725/summerslam-1994,81929062
+31288945,King-of-the-Ring-1994-9734,WWE,1994,King of the Ring 1994,70527/king-of-the-ring-1994,81929813
+31303601,Survivor-Series-1994-11784,WWE,1994,Survivor Series 1994,70921/survivor-series-1994,81930159
+31345831,Royal-Rumble-1994-11800,WWE,1994,Royal Rumble 1994,70658/royal-rumble-1994,81929674
+31355189,WrestleMania-10-5545,WWE,1994,Wrestlemania X,67151/wrestlemania-10,81929588
 32463987,Raw-6486,WWE,1994,RAW 1994-05-09,67394/raw-may-09-1994,-
 32463999,Raw-6522,WWE,1994,RAW 1994-05-23,67179/raw-may-23-1994,-
 32464033,Raw-6435,WWE,1994,RAW 1994-05-16,67207/raw-may-16-1994,-
@@ -532,19 +532,19 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 -,Superstars-175732,WWE,1994,Superstars 1994-12-17,284141/superstars-dec-17-1994,-
 -,Superstars-175744,WWE,1994,Superstars 1994-12-31,284146/superstars-dec-31-1994,-
 -,Superstars-175858,WWE,1994,Superstars 1994-12-24,284361/superstars-dec-24-1994,-
-31304779,SummerSlam-1995-11789,WWE,1995,Summerslam 1995,70790/summerslam-1995,-
-31314961,King-of-the-Ring-1995-9819,WWE,1995,King of the Ring 1995,70543/king-of-the-ring-1995,-
-31317997,In-Your-House-1-11756,WWE,1995,In Your House,70480/in-your-house-in-your-house-1,-
-31313113,In-Your-House-2-10046,WWE,1995,In Your House II,70484/in-your-house-in-your-house-2,-
-31317763,In-Your-House-3-11066,WWE,1995,In Your House III,70482/in-your-house-in-your-house-3,-
-31312957,In-Your-House-4-11127,WWE,1995,In Your House IV,70463/in-your-house-in-your-house-4,-
-31317909,In-Your-House-5-11136,WWE,1995,In Your House V,70477/in-your-house-in-your-house-5,-
-31339181,Survivor-Series-1995-11905,WWE,1995,Survivor Series 1995,70864/survivor-series-1995,-
-31345327,Royal-Rumble-1995-11810,WWE,1995,Royal Rumble 1995,70650/royal-rumble-1995,-
-31347211,WrestleMania-11-5558,WWE,1995,Wrestlemania XI,67013/wrestlemania-11,-
+31304779,SummerSlam-1995-11789,WWE,1995,Summerslam 1995,70790/summerslam-1995,81929064
+31314961,King-of-the-Ring-1995-9819,WWE,1995,King of the Ring 1995,70543/king-of-the-ring-1995,81929814
+31317997,In-Your-House-1-11756,WWE,1995,In Your House,70480/in-your-house-in-your-house-1,81930496
+31313113,In-Your-House-2-10046,WWE,1995,In Your House II,70484/in-your-house-in-your-house-2,81930497
+31317763,In-Your-House-3-11066,WWE,1995,In Your House III,70482/in-your-house-in-your-house-3,81930498
+31312957,In-Your-House-4-11127,WWE,1995,In Your House IV,70463/in-your-house-in-your-house-4,81930499
+31317909,In-Your-House-5-11136,WWE,1995,In Your House V,70477/in-your-house-in-your-house-5,81930500
+31339181,Survivor-Series-1995-11905,WWE,1995,Survivor Series 1995,70864/survivor-series-1995,81930160
+31345327,Royal-Rumble-1995-11810,WWE,1995,Royal Rumble 1995,70650/royal-rumble-1995,81929675
+31347211,WrestleMania-11-5558,WWE,1995,Wrestlemania XI,67013/wrestlemania-11,81929589
 34431719,Raw-5604,WWE,1995,RAW 1995-05-15,67232/raw-may-15-1995,-
 34580005,Raw-5549,WWE,1995,RAW 1995-05-29,67235/raw-may-29-1995,-
-34580037,Raw-5529,WWE,1995,RAW 1995-05-22,67447/raw-may-22-1995,-
+34580037,Raw-5529,WWE,1995,RAW 1995-05-22,67447/raw-may-22-1995,81937688
 34584041,Raw-5594,WWE,1995,RAW 1995-06-05,67230/raw-jun-05-1995,-
 34584669,Raw-5532,WWE,1995,RAW 1995-06-12,67507/raw-jun-12-1995,-
 -,Superstars-175859,WWE,1995,Superstars 1995-01-07,284360/superstars-jan-07-1995,-
@@ -552,19 +552,19 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 -,Superstars-WWF-179575,WWE,1995,Superstars 1995-06-03,347692/superstars-jun-03-1995,-
 -,Superstars-WWF-179576,WWE,1995,Superstars 1995-05-20,347687/superstars-may-20-1995,-
 -,Superstars-WWF-179711,WWE,1995,Superstars 1995-05-27,347880/superstars-may-27-1995,-
-31291109,Survivor-Series-1996-11907,WWE,1996,Survivor Series 1996,70920/survivor-series-1996,-
-31326439,In-Your-House-6-11140,WWE,1996,In Your House VI,70470/in-your-house-in-your-house-6,-
-31327255,In-Your-House-Good-Friends-Better-Enemies-11769,WWE,1996,In Your House VII,70460/in-your-house-in-your-house-good-friends-better-enemies,-
-31326691,In-Your-House-Beware-of-Dog-11170,WWE,1996,In Your House VIII - Beware of dog,70481/in-your-house-in-your-house-beware-of-dog,-
-31326443,In-Your-House-International-Incident-11771,WWE,1996,In Your House IX - International Incident,70469/in-your-house-in-your-house-international-incident,-
-31317649,In-Your-House-Mind-Games-11773,WWE,1996,In Your House X - Mind Games,70483,-
-31316275,In-Your-House-Buried-Alive-11142,WWE,1996,In Your House XI - Buried Alive,70462/in-your-house-in-your-house-buried-alive,-
-31304877,In-Your-House-Its-Time-11772,WWE,1996,In Your House XII,70461/in-your-house-in-your-house-its-time,-
-31348419,WrestleMania-12-5452,WWE,1996,Wrestlemania XII,67416/wrestlemania-12,-
-31354791,King-of-the-Ring-1996-10118,WWE,1996,King of the Ring 1996,70540/king-of-the-ring-1996,-
-31354991,SummerSlam-1996-11796,WWE,1996,Summerslam 1996,70722/summerslam-1996,-
-31355931,Royal-Rumble-1996-11798,WWE,1996,Royal Rumble 1996,70646/royal-rumble-1996,-
-37192537,Raw-5688,WWE,1996,RAW 1996-06-03,67257/raw-jun-03-1996,-
+31291109,Survivor-Series-1996-11907,WWE,1996,Survivor Series 1996,70920/survivor-series-1996,81930162
+31326439,In-Your-House-6-11140,WWE,1996,In Your House VI,70470/in-your-house-in-your-house-6,81930502
+31327255,In-Your-House-Good-Friends-Better-Enemies-11769,WWE,1996,In Your House VII,70460/in-your-house-in-your-house-good-friends-better-enemies,81930503
+31326691,In-Your-House-Beware-of-Dog-11170,WWE,1996,In Your House VIII - Beware of dog,70481/in-your-house-in-your-house-beware-of-dog,81930504
+31326443,In-Your-House-International-Incident-11771,WWE,1996,In Your House IX - International Incident,70469/in-your-house-in-your-house-international-incident,81930505
+31317649,In-Your-House-Mind-Games-11773,WWE,1996,In Your House X - Mind Games,70483,81930506
+31316275,In-Your-House-Buried-Alive-11142,WWE,1996,In Your House XI - Buried Alive,70462/in-your-house-in-your-house-buried-alive,81930507
+31304877,In-Your-House-Its-Time-11772,WWE,1996,In Your House XII,70461/in-your-house-in-your-house-its-time,81930508
+31348419,WrestleMania-12-5452,WWE,1996,Wrestlemania XII,67416/wrestlemania-12,81929590
+31354791,King-of-the-Ring-1996-10118,WWE,1996,King of the Ring 1996,70540/king-of-the-ring-1996,81929815
+31354991,SummerSlam-1996-11796,WWE,1996,Summerslam 1996,70722/summerslam-1996,81929066
+31355931,Royal-Rumble-1996-11798,WWE,1996,Royal Rumble 1996,70646/royal-rumble-1996,81929676
+37192537,Raw-5688,WWE,1996,RAW 1996-06-03,67257/raw-jun-03-1996,81937739
 37192541,Raw-5670,WWE,1996,RAW 1996-05-27,67539/raw-may-27-1996,-
 37222209,Raw-5714,WWE,1996,RAW 1996-06-17,67540/raw-jun-17-1996,-
 37222215,Raw-5700,WWE,1996,RAW 1996-06-10,67542/raw-jun-10-1996,-
@@ -583,84 +583,84 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 -,Superstars-192397,WWE,1996,Superstars 1996-06-01,436433/superstars-jun-01-1996,-
 -,Superstars-192409,WWE,1996,Superstars 1996-06-08,436437/superstars-jun-08-1996,-
 -,Superstars-192420,WWE,1996,Superstars 1996-06-15,436440/superstars-jun-15-1996,-
-31292539,SummerSlam-1997-11806,WWE,1997,Summerslam 1997: Hart &amp; Soul,70728/summerslam-1997,-
-31293447,King-of-the-Ring-1997-10201,WWE,1997,King of the Ring 1997,70544/king-of-the-ring-1997,-
-31304527,WWE-One-Night-Only-UK-1997-9323,WWE,1997,One Night Only,70626/wwe-one-night-only-uk-1997,-
-31327269,In-Your-House-Final-Four-11768,WWE,1997,In Your House XIII - Final Four,70459/in-your-house-in-your-house-final-four,-
-31317911,In-Your-House-Revenge-of-the-Taker-11774,WWE,1997,In Your House XIV - Revenge of the Taker,70464/in-your-house-in-your-house-revenge-of-the-taker,-
-31339107,In-Your-House-A-Cold-Day-in-Hell-11765,WWE,1997,In Your House XV - Cold day in Hell,70479/in-your-house-in-your-house-a-cold-day-in-hell,-
-31327267,In-Your-House-Canadian-Stampede-11766,WWE,1997,In Your House XVI - Canadian Stampede,70465/in-your-house-in-your-house-canadian-stampede,-
-31362275,In-Your-House-Ground-Zero-11770,WWE,1997,In Your House XVII - Ground Zero,70468/in-your-house-in-your-house-ground-zero,-
-31316311,In-Your-House-Badd-Blood-11157,WWE,1997,In Your House XVIII - Badd Blood,70472/in-your-house-in-your-house-badd-blood,-
-31339153,In-Your-House-D-Generation-X-11767,WWE,1997,In Your House XIX - Degeneration X,70471/in-your-house-in-your-house-d-generation-x,-
-31336873,Survivor-Series-1997-11910,WWE,1997,Survivor Series 1997 - Gang rulz,70863/survivor-series-1997,-
-31348181,Royal-Rumble-1997-11809,WWE,1997,Royal Rumble 1997,70653/royal-rumble-1997,-
-31366763,WrestleMania-13-5483,WWE,1997,Wrestlemania XIII,67364/wrestlemania-13,-
-32172527,Raw-6159,WWE,1997,RAW 1997-09-22,67603/raw-sep-22-1997,-
-121575683,Raw-6447,WWE,1997,RAW 1997-03-03,67593/raw-mar-03-1997,-
+31292539,SummerSlam-1997-11806,WWE,1997,Summerslam 1997: Hart &amp; Soul,70728/summerslam-1997,81929068
+31293447,King-of-the-Ring-1997-10201,WWE,1997,King of the Ring 1997,70544/king-of-the-ring-1997,81929816
+31304527,WWE-One-Night-Only-UK-1997-9323,WWE,1997,One Night Only,70626/wwe-one-night-only-uk-1997,81930619
+31327269,In-Your-House-Final-Four-11768,WWE,1997,In Your House XIII - Final Four,70459/in-your-house-in-your-house-final-four,81930518
+31317911,In-Your-House-Revenge-of-the-Taker-11774,WWE,1997,In Your House XIV - Revenge of the Taker,70464/in-your-house-in-your-house-revenge-of-the-taker,81930519
+31339107,In-Your-House-A-Cold-Day-in-Hell-11765,WWE,1997,In Your House XV - Cold day in Hell,70479/in-your-house-in-your-house-a-cold-day-in-hell,81930520
+31327267,In-Your-House-Canadian-Stampede-11766,WWE,1997,In Your House XVI - Canadian Stampede,70465/in-your-house-in-your-house-canadian-stampede,81930521
+31362275,In-Your-House-Ground-Zero-11770,WWE,1997,In Your House XVII - Ground Zero,70468/in-your-house-in-your-house-ground-zero,81930522
+31316311,In-Your-House-Badd-Blood-11157,WWE,1997,In Your House XVIII - Badd Blood,70472/in-your-house-in-your-house-badd-blood,81930523
+31339153,In-Your-House-D-Generation-X-11767,WWE,1997,In Your House XIX - Degeneration X,70471/in-your-house-in-your-house-d-generation-x,81930524
+31336873,Survivor-Series-1997-11910,WWE,1997,Survivor Series 1997 - Gang rulz,70863/survivor-series-1997,81930162
+31348181,Royal-Rumble-1997-11809,WWE,1997,Royal Rumble 1997,70653/royal-rumble-1997,81929677
+31366763,WrestleMania-13-5483,WWE,1997,Wrestlemania XIII,67364/wrestlemania-13,81929591
+32172527,Raw-6159,WWE,1997,RAW 1997-09-22,67603/raw-sep-22-1997,81937856
+121575683,Raw-6447,WWE,1997,RAW 1997-03-03,67593/raw-mar-03-1997,81937829
 274480883,Raw-6076,WWE,1997,RAW 1997-06-23,67300/raw-jun-23-1997,-
 274480983,Raw-7402,WWE,1997,RAW 1997-06-16,69696/raw-jun-16-1997,-
-274481283,Raw-6035,WWE,1997,RAW 1997-05-26,67298/raw-may-26-1997,-
+274481283,Raw-6035,WWE,1997,RAW 1997-05-26,67298/raw-may-26-1997,81937841
 274494083,Raw-6042,WWE,1997,RAW 1997-06-02,67605/raw-jun-02-1997,-
 274557883,Raw-6173,WWE,1997,RAW 1997-09-29,67602/raw-sep-29-1997,-
 286023683,Raw-6165,WWE,1997,RAW 1997-05-12,67253/raw-may-12-1997,-
 286045683,Raw-6027,WWE,1997,RAW 1997-05-19,67607/raw-may-19-1997,-
 301581183,Raw-6166,WWE,1997,RAW 1997-11-24,67262/raw-nov-24-1997,-
 301734283,Raw-6140,WWE,1997,RAW 1997-09-15,67617/raw-sep-15-1997,-
-301765683,Raw-6118,WWE,1997,RAW 1997-07-14,67267/raw-jul-14-1997,-
+301765683,Raw-6118,WWE,1997,RAW 1997-07-14,67267/raw-jul-14-1997,81937848
 302465983,Raw-6103,WWE,1997,RAW 1997-07-07,67265/raw-jul-07-1997,-
-302563383,Raw-6151,WWE,1997,RAW 1997-11-10,67342/raw-nov-10-1997,-
+302563383,Raw-6151,WWE,1997,RAW 1997-11-10,67342/raw-nov-10-1997,81937863
 304613383,Raw-6187,WWE,1997,RAW 1997-12-01,67632/raw-dec-01-1997,-
 304672983,Raw-6950,WWE,1997,RAW 1997-11-03,67619/raw-nov-03-1997,-
 304711583,Raw-6087,WWE,1997,RAW 1997-06-30,67339/raw-jun-30-1997,-
 312422683,Raw-6131,WWE,1997,RAW 1997-09-08,67336/raw-sep-08-1997,-
 312445283,Raw-7406,WWE,1997,RAW 1997-11-17,69556/raw-nov-17-1997,-
-31289543,King-of-the-Ring-1998-10251,WWE,1998,King of the Ring 1998 - Off with their heads!,70538/king-of-the-ring-1998,-
-31316165,Survivor-Series-1998-11912,WWE,1998,Survivor Series 1998 - Deadly Game,70861/survivor-series-1998,-
-31336879,SummerSlam-1998-11801,WWE,1998,Summerslam 1998 - Highway to hell,70718/summerslam-1998,-
-31339183,No-Way-Out-1998-9657,WWE,1998,In Your House XX - No Way Out Of Texas,70609/no-way-out-1998,-
+31289543,King-of-the-Ring-1998-10251,WWE,1998,King of the Ring 1998 - Off with their heads!,70538/king-of-the-ring-1998,81929817
+31316165,Survivor-Series-1998-11912,WWE,1998,Survivor Series 1998 - Deadly Game,70861/survivor-series-1998,81930164
+31336879,SummerSlam-1998-11801,WWE,1998,Summerslam 1998 - Highway to hell,70718/summerslam-1998,81929070
+31339183,No-Way-Out-1998-9657,WWE,1998,In Your House XX - No Way Out Of Texas,70609/no-way-out-1998,81929969
 31345293,Unforgiven-1998-10877,WWE,1998,In Your House XXI: Unforgiven,70787/unforgiven-1998,-
-31336885,Over-the-Edge-1998-9824,WWE,1998,In Your House XXII: Over the Edge,70628/over-the-edge-1998,-
-31356519,Fully-Loaded-1998-10263,WWE,1998,In Your House XXIII: Fully Loaded,70457/fully-loaded-1998,-
+31336885,Over-the-Edge-1998-9824,WWE,1998,In Your House XXII: Over the Edge,70628/over-the-edge-1998,81930538
+31356519,Fully-Loaded-1998-10263,WWE,1998,In Your House XXIII: Fully Loaded,70457/fully-loaded-1998,81929840
 31317819,Breakdown-1998-10418,WWE,1998,In Your House XXIV - Breakdown,72133/breakdown-1998,-
 31313021,Judgment-Day-1998-11902,WWE,1998,In Your House XXV - Judgment Day,70506/judgment-day-1998,-
-31348077,Rock-Bottom-1998-11797,WWE,1998,In Your House XXVI - Rock Bottom,70651/rock-bottom-1998,-
-31355669,Capital-Carnage-UK-1998-10261,WWE,1998,Capital Carnage,70397/capital-carnage-uk-1998,-
-31359907,WrestleMania-14-5504,WWE,1998,Wrestlemania XIV - X-raided,67363/wrestlemania-14,-
-31366765,Royal-Rumble-1998-11817,WWE,1998,Royal Rumble 1998,70659/royal-rumble-1998,-
+31348077,Rock-Bottom-1998-11797,WWE,1998,In Your House XXVI - Rock Bottom,70651/rock-bottom-1998,81930616
+31355669,Capital-Carnage-UK-1998-10261,WWE,1998,Capital Carnage,70397/capital-carnage-uk-1998,81930759
+31359907,WrestleMania-14-5504,WWE,1998,Wrestlemania XIV - X-raided,67363/wrestlemania-14,81929592
+31366765,Royal-Rumble-1998-11817,WWE,1998,Royal Rumble 1998,70659/royal-rumble-1998,81929678
 33878441,Raw-5824,WWE,1998,RAW 1998-10-12,67665/raw-oct-12-1998,-
 59739883,Raw-5730,WWE,1998,RAW 1998-06-01,67681/raw-jun-01-1998,-
 60094183,Raw-5762,WWE,1998,RAW 1998-06-22,67277/raw-jun-22-1998,-
 60094283,Raw-5737,WWE,1998,RAW 1998-07-20,67679/raw-jul-20-1998,-
 60094783,Raw-5772,WWE,1998,RAW 1998-08-10,67767/raw-aug-10-1998,-
 63441683,Raw-5743,WWE,1998,RAW 1998-06-08,67628/raw-jun-08-1998,-
-63442983,Raw-5754,WWE,1998,RAW 1998-06-15,67685/raw-jun-15-1998,-
+63442983,Raw-5754,WWE,1998,RAW 1998-06-15,67685/raw-jun-15-1998,81937895
 63510983,Raw-6987,WWE,1998,RAW 1998-08-03,67626/raw-aug-03-1998,-
 63512283,Raw-5713,WWE,1998,RAW 1998-07-06,67379/raw-jul-06-1998,-
 63513983,Raw-5725,WWE,1998,RAW 1998-07-13,67635/raw-jul-13-1998,-
 63517183,Raw-5758,WWE,1998,RAW 1998-07-27,67383/raw-jul-27-1998,-
 63823383,Raw-5696,WWE,1998,RAW 1998-08-17,67274/raw-aug-17-1998,-
 63831983,Raw-5710,WWE,1998,RAW 1998-08-24,67276/raw-aug-24-1998,-
-64714883,Raw-5699,WWE,1998,RAW 1998-06-29,67682/raw-jun-29-1998,-
+64714883,Raw-5699,WWE,1998,RAW 1998-06-29,67682/raw-jun-29-1998,81937897
 1991815983,Heat-11249,WWE,1998,Heat 1998-10-18,71469/heat-oct-18-1998,-
 1991824983,Heat-11251,WWE,1998,Heat 1998-12-13,71464/heat-dec-13-1998,-
 1998859483,Heat-11247,WWE,1998,Heat 1998-08-30,71461/heat-aug-30-1998,-
 2002600283,Heat-11250,WWE,1998,Heat 1998-11-15,71447/heat-nov-15-1998,-
 19955941832,Heat-11248,WWE,1998,Heat 1998-09-27,71446/heat-sep-27-1998,-
-31303589,WWE-Rebellion-UK-1999-11823,WWE,1999,Rebellion 1999,70641/wwe-rebellion-uk-1999,-
-31303797,No-Mercy-UK-1999-9629,WWE,1999,No Mercy,70585/no-mercy-uk-1999,-
+31303589,WWE-Rebellion-UK-1999-11823,WWE,1999,Rebellion 1999,70641/wwe-rebellion-uk-1999,81930385
+31303797,No-Mercy-UK-1999-9629,WWE,1999,No Mercy,70585/no-mercy-uk-1999,81930621
 31303833,Armageddon-1999-5677,WWE,1999,Armageddon,66448/armageddon-1999,-
-31314957,King-of-the-Ring-1999-10325,WWE,1999,King of the Ring 1999,70537/king-of-the-ring-1999,-
-31316161,Survivor-Series-1999-11818,WWE,1999,Survivor Series 1999,70882/survivor-series-1999,-
-31327257,Fully-Loaded-1999-10070,WWE,1999,Fully Loaded,70478/fully-loaded-1999,-
-31327259,Backlash-1999-11890,WWE,1999,In Your House XXVIII - Backlash,70370/backlash-1999,-
-31347669,St-Valentines-Day-Massacre-1999-9732,WWE,1999,In Your House XXVII - St. Valentine's Day Massacre,70713/st-valentines-day-massacre-1999,-
-31353513,Royal-Rumble-1999-11828,WWE,1999,Royal Rumble 1999 - No Chance in Hell,70654/royal-rumble-1999,-
-31354497,SummerSlam-1999-9826,WWE,1999,Summerslam 1999,70724/summerslam-1999,-
+31314957,King-of-the-Ring-1999-10325,WWE,1999,King of the Ring 1999,70537/king-of-the-ring-1999,81929818
+31316161,Survivor-Series-1999-11818,WWE,1999,Survivor Series 1999,70882/survivor-series-1999,81930164
+31327257,Fully-Loaded-1999-10070,WWE,1999,Fully Loaded,70478/fully-loaded-1999,81929841
+31327259,Backlash-1999-11890,WWE,1999,In Your House XXVIII - Backlash,70370/backlash-1999,81940772
+31347669,St-Valentines-Day-Massacre-1999-9732,WWE,1999,In Your House XXVII - St. Valentine's Day Massacre,70713/st-valentines-day-massacre-1999,81930592
+31353513,Royal-Rumble-1999-11828,WWE,1999,Royal Rumble 1999 - No Chance in Hell,70654/royal-rumble-1999,81929679
+31354497,SummerSlam-1999-9826,WWE,1999,Summerslam 1999,70724/summerslam-1999,81929072
 31359925,Unforgiven-1999-11813,WWE,1999,Unforgiven,71764/unforgiven-1999,-
-31360325,WrestleMania-15-5522,WWE,1999,Wrestlemania XV,67152/wrestlemania-15,-
-31366785,No-Mercy-1999-10861,WWE,1999,No Mercy II,70588/no-mercy-1999,-
-31367621,Over-the-Edge-1999-9916,WWE,1999,Over the Edge,70629/over-the-edge-1999,-
+31360325,WrestleMania-15-5522,WWE,1999,Wrestlemania XV,67152/wrestlemania-15,81929593
+31366785,No-Mercy-1999-10861,WWE,1999,No Mercy II,70588/no-mercy-1999,81929925
+31367621,Over-the-Edge-1999-9916,WWE,1999,Over the Edge,70629/over-the-edge-1999,81930539
 312186183,Raw-5853,WWE,1999,RAW 1999-08-23,67308/raw-aug-23-1999,-
 1991824683,Heat-11721,WWE,1999,Heat 1999-01-24,71479/heat-jan-24-1999,-
 1995108783,Heat-11243,WWE,1999,Heat 1999-04-25,71487/heat-apr-25-1999,-
@@ -671,19 +671,19 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 1998756383,Heat-11748,WWE,1999,Heat 1999-05-30,71504/heat-may-30-1999,-
 1998764383,Heat-11245,WWE,1999,Heat 1999-06-27,71518/heat-jun-27-1999,-
 1998764983,Heat-11750,WWE,1999,Heat 1999-06-06,71491/heat-jun-06-1999,-
-31303613,No-Way-Out-2000-9777,WWE,2000,No Way Out,70608/no-way-out-2000,-
-31317799,No-Mercy-2000-11887,WWE,2000,No Mercy 2000,70589/no-mercy-2000,-
+31303613,No-Way-Out-2000-9777,WWE,2000,No Way Out,70608/no-way-out-2000,81929970
+31317799,No-Mercy-2000-11887,WWE,2000,No Mercy 2000,70589/no-mercy-2000,81929926
 31326763,Judgment-Day-2000-11838,WWE,2000,Judgment Day,70512/judgment-day-2000,-
-31336867,King-of-the-Ring-2000-10412,WWE,2000,King of the Ring 2000,70541/king-of-the-ring-2000,-
+31336867,King-of-the-Ring-2000-10412,WWE,2000,King of the Ring 2000,70541/king-of-the-ring-2000,81929819
 31336877,Survivor-Series-2000-11824,WWE,2000,Survivor Series 2000,70873/survivor-series-2000,-
-31336883,Backlash-2000-11897,WWE,2000,Backlash,70371/backlash-2000,-
+31336883,Backlash-2000-11897,WWE,2000,Backlash,70371/backlash-2000,81929465
 31345325,Unforgiven-2000-11825,WWE,2000,Unforgiven 2000,70760/unforgiven-2000,-
-31345331,WWE-Rebellion-UK-2000-11830,WWE,2000,Rebellion 2000,70642/wwe-rebellion-uk-2000,-
-31345807,Royal-Rumble-2000-11778,WWE,2000,Royal Rumble 2000,70655/royal-rumble-2000,-
-31354593,SummerSlam-2000-9998,WWE,2000,Summerslam 2000,70715/summerslam-2000,-
-31356305,WrestleMania-2000-5538,WWE,2000,Wrestlemania XVI,135074/wrestlemania-2000,-
+31345331,WWE-Rebellion-UK-2000-11830,WWE,2000,Rebellion 2000,70642/wwe-rebellion-uk-2000,81930386
+31345807,Royal-Rumble-2000-11778,WWE,2000,Royal Rumble 2000,70655/royal-rumble-2000,81929680
+31354593,SummerSlam-2000-9998,WWE,2000,Summerslam 2000,70715/summerslam-2000,81929074
+31356305,WrestleMania-2000-5538,WWE,2000,Wrestlemania XVI,135074/wrestlemania-2000,81929594
 31363931,Armageddon-2000-5701,WWE,2000,Armageddon 2000,66447/armageddon-2000,-
-31367907,Fully-Loaded-2000-10181,WWE,2000,Fully Loaded 2000,70466/fully-loaded-2000,-
+31367907,Fully-Loaded-2000-10181,WWE,2000,Fully Loaded 2000,70466/fully-loaded-2000,81929842
 31379323,Insurrextion-UK-2000-10016,WWE,2000,Insurrextion,70499/insurrextion-uk-2000,-
 535821583,Raw-5948,WWE,2000,RAW 2000-06-26,67518/raw-jun-26-2000,-
 535827383,Raw-6020,WWE,2000,RAW 2000-06-19,67717/raw-jun-19-2000,-
@@ -694,37 +694,37 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 636043083,SmackDown-4314,WWE,2000,SmackDown 2000-06-15,24940/smackdown-jun-15-2000,-
 1214481983,Raw-5999,WWE,2000,RAW 2000-05-29,67816/raw-may-29-2000,-
 31305053,Insurrextion-UK-2001-10151,WWE,2001,Insurrextion 2001,70498/insurrextion-uk-2001,-
-31317757,No-Way-Out-2001-9887,WWE,2001,No Way Out 2001,70615/no-way-out-2001,-
-31324297,WWE-Rebellion-UK-2001-11888,WWE,2001,Rebellion 2001,70644/wwe-rebellion-uk-2001,-
+31317757,No-Way-Out-2001-9887,WWE,2001,No Way Out 2001,70615/no-way-out-2001,81929971
+31324297,WWE-Rebellion-UK-2001-11888,WWE,2001,Rebellion 2001,70644/wwe-rebellion-uk-2001,81930387
 31336869,Judgment-Day-2001-11845,WWE,2001,Judgment Day 2001,70507/judgment-day-2001,-
-31336871,No-Mercy-2001-11795,WWE,2001,No Mercy 2001,70590/no-mercy-2001,-
-31339179,King-of-the-Ring-2001-11883,WWE,2001,King of the Ring 2001,70542/king-of-the-ring-2001,-
-31345263,Royal-Rumble-2001-11802,WWE,2001,Royal Rumble 2001,70648/royal-rumble-2001,-
-31348415,Backlash-2001-11882,WWE,2001,Backlash 2001,70375/backlash-2001,-
-31353599,Invasion-2001-10165,WWE,2001,WWE Invasion,70504/invasion-2001,-
+31336871,No-Mercy-2001-11795,WWE,2001,No Mercy 2001,70590/no-mercy-2001,81929927
+31339179,King-of-the-Ring-2001-11883,WWE,2001,King of the Ring 2001,70542/king-of-the-ring-2001,81929820
+31345263,Royal-Rumble-2001-11802,WWE,2001,Royal Rumble 2001,70648/royal-rumble-2001,81929681
+31348415,Backlash-2001-11882,WWE,2001,Backlash 2001,70375/backlash-2001,81929468
+31353599,Invasion-2001-10165,WWE,2001,WWE Invasion,70504/invasion-2001,81930624
 31355123,Unforgiven-2001-11743,WWE,2001,Unforgiven 2001,70755/unforgiven-2001,-
-31356267,SummerSlam-2001-10203,WWE,2001,Summerslam 2001,70723/summerslam-2001,-
+31356267,SummerSlam-2001-10203,WWE,2001,Summerslam 2001,70723/summerslam-2001,81929076
 31356605,Survivor-Series-2001-11834,WWE,2001,Survivor Series 2001,70883/survivor-series-2001,-
 31365257,Vengeance-2001-11097,WWE,2001,Vengeance 2001,72191/vengeance-2001,-
-31599441,WrestleMania-17-5556,WWE,2001,Wrestlemania XVII - X-Seven,67167/wrestlemania-17,-
+31599441,WrestleMania-17-5556,WWE,2001,Wrestlemania XVII - X-Seven,67167/wrestlemania-17,81929595
 535771283,Raw-5933,WWE,2001,RAW 2001-06-04,67801/raw-jun-04-2001,-
 536456983,Raw-5897,WWE,2001,RAW 2001-06-18,67806/raw-jun-18-2001,-
 536941483,Raw-5887,WWE,2001,RAW 2001-06-11,67556/raw-jun-11-2001,-
 590089783,SmackDown-4784,WWE,2001,SmackDown 2001-06-07,23795/smackdown-jun-07-2001,-
 636109783,SmackDown-3916,WWE,2001,SmackDown 2001-06-14,23891/smackdown-jun-14-2001,-
 31337809,Armageddon-2002-6756,WWE,2002,Armageddon 2002,66461/armageddon-2002,-
-31345297,No-Mercy-2002-11850,WWE,2002,No Mercy 2002,70598/no-mercy-2002,-
-31348385,Survivor-Series-2002-11843,WWE,2002,Survivor Series 2002,70870/survivor-series-2002,-
-31352019,WWE-Rebellion-UK-2002-11894,WWE,2002,Rebellion 2002 (SmackDown),70647/wwe-rebellion-uk-2002,-
+31345297,No-Mercy-2002-11850,WWE,2002,No Mercy 2002,70598/no-mercy-2002,81929928
+31348385,Survivor-Series-2002-11843,WWE,2002,Survivor Series 2002,70870/survivor-series-2002,81930167
+31352019,WWE-Rebellion-UK-2002-11894,WWE,2002,Rebellion 2002 (SmackDown),70647/wwe-rebellion-uk-2002,81930388
 31352037,Insurrextion-UK-2002-10249,WWE,2002,Insurrextion 2002 (Raw),70500/insurrextion-uk-2002,-
-31352065,SummerSlam-2002-10323,WWE,2002,Summerslam 2002,70726/summerslam-2002,-
-31352185,Royal-Rumble-2002-11840,WWE,2002,Royal Rumble 2002,70691/royal-rumble-2002,-
-31356687,WrestleMania-18-5527,WWE,2002,Wrestlemania XVIII - X8,67023/wrestlemania-18,-
-31363379,No-Way-Out-2002-10004,WWE,2002,No Way Out 2002,70614/no-way-out-2002,-
+31352065,SummerSlam-2002-10323,WWE,2002,Summerslam 2002,70726/summerslam-2002,81929078
+31352185,Royal-Rumble-2002-11840,WWE,2002,Royal Rumble 2002,70691/royal-rumble-2002,81929682
+31356687,WrestleMania-18-5527,WWE,2002,Wrestlemania XVIII - X8,67023/wrestlemania-18,81929596
+31363379,No-Way-Out-2002-10004,WWE,2002,No Way Out 2002,70614/no-way-out-2002,81929972
 31365513,Unforgiven-2002-11763,WWE,2002,Unforgiven 2002,70756/unforgiven-2002,-
 31523051,Vengeance-2002-11192,WWE,2002,Vengeance 2002,72189/vengeance-2002,-
-31523389,Backlash-2002-11886,WWE,2002,Backlash 2002,70374/backlash-2002,-
-31523619,King-of-the-Ring-2002-11739,WWE,2002,WWE King of the Ring 2002,70539/king-of-the-ring-2002,-
+31523389,Backlash-2002-11886,WWE,2002,Backlash 2002,70374/backlash-2002,81929470
+31523619,King-of-the-Ring-2002-11739,WWE,2002,WWE King of the Ring 2002,70539/king-of-the-ring-2002,81929821
 31524935,Judgment-Day-2002-11859,WWE,2002,WWE Judgment Day 2002,70505/judgment-day-2002,-
 522104383,Raw-5915,WWE,2002,RAW 2002-06-10,67491/raw-jun-10-2002,-
 522108083,Raw-5905,WWE,2002,RAW 2002-06-03,67695/raw-jun-03-2002,-
@@ -736,18 +736,18 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 -,SmackDown-4621,WWE,2002,SmackDown 2002-10-10,23849/smackdown-oct-10-2002,-
 -,SmackDown-4634,WWE,2002,SmackDown 2002-10-17,23823/smackdown-oct-17-2002,-
 -,/program/Global-Warning-12420,WWE,2002,Global Warning Tour: Melbourne,83259/global-warning,-
-31288919,No-Mercy-2003-11316,WWE,2003,No Mercy 2003 (SmackDown),70596/no-mercy-2003,-
-31292537,SummerSlam-2003-11860,WWE,2003,Summerslam 2003,70721/summerslam-2003,-
-31293433,Survivor-Series-2003-11799,WWE,2003,Survivor Series 2003,70919/survivor-series-2003,-
-31299879,Backlash-2003-11873,WWE,2003,Backlash 2003,70372/backlash-2003,-
+31288919,No-Mercy-2003-11316,WWE,2003,No Mercy 2003 (SmackDown),70596/no-mercy-2003,81929929
+31292537,SummerSlam-2003-11860,WWE,2003,Summerslam 2003,70721/summerslam-2003,81929081
+31293433,Survivor-Series-2003-11799,WWE,2003,Survivor Series 2003,70919/survivor-series-2003,81930168
+31299879,Backlash-2003-11873,WWE,2003,Backlash 2003,70372/backlash-2003,81929472
 31322561,Judgment-Day-2003-11864,WWE,2003,Judgment Day 2003,70502/judgment-day-2003,-
 31351999,Insurrextion-UK-2003-10324,WWE,2003,Insurrextion 2003 (Raw),70513/insurrextion-uk-2003,-
 31352039,Bad-Blood-2003-5734,WWE,2003,Bad Blood (Raw),66485/bad-blood-2003,-
 31352231,Armageddon-2003-5717,WWE,2003,Armageddon 2003 (Raw),66459/armageddon-2003,-
-31353939,Royal-Rumble-2003-9956,WWE,2003,Royal Rumble 2003,83950/royal-rumble-2003,-
+31353939,Royal-Rumble-2003-9956,WWE,2003,Royal Rumble 2003,83950/royal-rumble-2003,81929683
 31354589,Unforgiven-2003-11764,WWE,2003,Unforgiven 2003 (Raw),70751/unforgiven-2003,-
 31355713,Vengeance-2003-11194,WWE,2003,Vengeance 2003 (SmackDown),72190/vengeance-2003,-
-31524667,WrestleMania-19-5548,WWE,2003,Wrestlemania XIX,67368/wrestlemania-19,-
+31524667,WrestleMania-19-5548,WWE,2003,Wrestlemania XIX,67368/wrestlemania-19,81929597
 31585691,No-Way-Out-2003-11906,WWE,2003,No Way Out 2003,70612/no-way-out-2003,-
 -,SmackDown-4208,WWE,2003,SmackDown 2003-06-19,54482/smackdown-jun-19-2003,-
 -,SmackDown-4223,WWE,2003,SmackDown 2003-06-26,23924/smackdown-jun-26-2003,-
@@ -756,31 +756,31 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 -,SmackDown-4264,WWE,2003,SmackDown 2003-07-17,23919/smackdown-jul-17-2003,-
 31288413,Armageddon-2004-5731,WWE,2004,Armageddon 2004 (SmackDown),66470/armageddon-2004,-
 31288917,Judgment-Day-2004-11874,WWE,2004,Judgment Day 2004 (SmackDown),70503/judgment-day-2004,-
-31289111,No-Way-Out-2004-9123,WWE,2004,No Way Out 2004 (SmackDown),70611/no-way-out-2004,-
-31292533,Taboo-Tuesday-2004-9763,WWE,2004,Taboo Tuesday 2004 (Raw),70750/taboo-tuesday-2004,-
+31289111,No-Way-Out-2004-9123,WWE,2004,No Way Out 2004 (SmackDown),70611/no-way-out-2004,81929974
+31292533,Taboo-Tuesday-2004-9763,WWE,2004,Taboo Tuesday 2004 (Raw),70750/taboo-tuesday-2004,81930577
 31303591,WWE-Great-American-Bash-2004-9680,WWE,2004,Great American Bash (SmackDown),70776/wwe-great-american-bash-2004,-
 31305059,Vengeance-2004-11196,WWE,2004,Vengeance 2004 (Raw),72209/vengeance-2004,-
-31317943,No-Mercy-2004-11893,WWE,2004,No Mercy 2004 (SmackDown),70595/no-mercy-2004,-
+31317943,No-Mercy-2004-11893,WWE,2004,No Mercy 2004 (SmackDown),70595/no-mercy-2004,81929930
 31345275,Survivor-Series-2004-11808,WWE,2004,Survivor Series 2004,70881/survivor-series-2004,-
-31345329,Backlash-2004-11880,WWE,2004,Backlash 2004 (Raw),70373/backlash-2004,-
-31352261,SummerSlam-2004-11866,WWE,2004,Summerslam 2004,70716/summerslam-2004,-
+31345329,Backlash-2004-11880,WWE,2004,Backlash 2004 (Raw),70373/backlash-2004,81929474
+31352261,SummerSlam-2004-11866,WWE,2004,Summerslam 2004,70716/summerslam-2004,81929083
 31352311,Bad-Blood-2004-7212,WWE,2004,Bad Blood 2004 (Raw),69670/bad-blood-2004,-
 31355671,Unforgiven-2004-10138,WWE,2004,Unforgiven 2004 (Raw),70754/unforgiven-2004,-
-31356695,Royal-Rumble-2004-11851,WWE,2004,Royal Rumble 2004,70692/royal-rumble-2004,-
-31362293,WrestleMania-20-5563,WWE,2004,Wrestlemania XX,67171/wrestlemania-20,-
+31356695,Royal-Rumble-2004-11851,WWE,2004,Royal Rumble 2004,70692/royal-rumble-2004,81929684
+31362293,WrestleMania-20-5563,WWE,2004,Wrestlemania XX,67171/wrestlemania-20,81929598
 -,SmackDown-4275,WWE,2004,SmackDown 2004-01-08,23900/smackdown-jan-08-2004,-
 31288911,Judgment-Day-2005-11878,WWE,2005,Judgment Day 2005 (SmackDown),70508/judgment-day-2005,-
 31289187,WWE-Great-American-Bash-2005-9780,WWE,2005,The Great American Bash (SmackDown),70777/wwe-great-american-bash-2005,-
-31291027,Taboo-Tuesday-2005-9859,WWE,2005,Taboo Tuesday 2005 (Raw),70748/taboo-tuesday-2005,-
+31291027,Taboo-Tuesday-2005-9859,WWE,2005,Taboo Tuesday 2005 (Raw),70748/taboo-tuesday-2005,81930579
 31299883,Armageddon-2005-6782,WWE,2005,Armageddon 2005 (SmackDown),66466/armageddon-2005,-
-31300561,Backlash-2005-11432,WWE,2005,Backlash 2005 (Raw),70378/backlash-2005,-
-31301521,New-Years-Revolution-2005-10184,WWE,2005,New Year's Revolution 2005 (Raw),70573/new-years-revolution-2005,-
-31303277,Royal-Rumble-2005-11842,WWE,2005,Royal Rumble 2005,70697/royal-rumble-2005,-
-31304775,No-Way-Out-2005-11911,WWE,2005,No Way Out 2005 (SmackDown),70617/no-way-out-2005,-
-31305371,WrestleMania-21-5580,WWE,2005,Wrestlemania 21,67164/wrestlemania-21,-
-31352275,SummerSlam-2005-11875,WWE,2005,Summerslam 2005,70735/summerslam-2005,-
-31357241,No-Mercy-2005-11898,WWE,2005,No Mercy 2005 (SmackDown),70593/no-mercy-2005,-
-31365101,Survivor-Series-2005-11815,WWE,2005,Survivor Series 2005,70869/survivor-series-2005,-
+31300561,Backlash-2005-11432,WWE,2005,Backlash 2005 (Raw),70378/backlash-2005,81929476
+31301521,New-Years-Revolution-2005-10184,WWE,2005,New Year's Revolution 2005 (Raw),70573/new-years-revolution-2005,81930393
+31303277,Royal-Rumble-2005-11842,WWE,2005,Royal Rumble 2005,70697/royal-rumble-2005,81929685
+31304775,No-Way-Out-2005-11911,WWE,2005,No Way Out 2005 (SmackDown),70617/no-way-out-2005,81929975
+31305371,WrestleMania-21-5580,WWE,2005,Wrestlemania 21,67164/wrestlemania-21,81929599
+31352275,SummerSlam-2005-11875,WWE,2005,Summerslam 2005,70735/summerslam-2005,81929085
+31357241,No-Mercy-2005-11898,WWE,2005,No Mercy 2005 (SmackDown),70593/no-mercy-2005,81929931
+31365101,Survivor-Series-2005-11815,WWE,2005,Survivor Series 2005,70869/survivor-series-2005,81930170
 31365159,Vengeance-2005-9698,WWE,2005,Vengeance 2005 (Raw),72213/vengeance-2005,-
 31368967,Unforgiven-2005-11787,WWE,2005,Unforgiven 2005 (Raw),70789/unforgiven-2005,-
 31370753,ECW-One-Night-Stand-2005-9402,WWE,2005,ECW One Night Stand,70625/ecw-one-night-stand-2005,-
@@ -788,21 +788,21 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 -,SmackDown-3861,WWE,2005,SmackDown 2005-02-10,https://network.wwe.com/video/23969/smackdown-feb-10-2005,-
 -,SmackDown-3868,WWE,2005,SmackDown 2005-02-17,https://network.wwe.com/video/23971/smackdown-feb-17-2005,-
 31288927,No-Way-Out-2006-11827,WWE,2006,No Way Out 2006 (SmackDown),70618/no-way-out-2006,-
-31289551,Cyber-Sunday-2006-11839,WWE,2006,Cyber Sunday (Raw),70399/cyber-sunday-2006,-
+31289551,Cyber-Sunday-2006-11839,WWE,2006,Cyber Sunday (Raw),70399/cyber-sunday-2006,81930370
 31290969,Judgment-Day-2006-9187,WWE,2006,Judgment Day 2006 (SmackDown),70501/judgment-day-2006,-
-31290971,Royal-Rumble-2006-11849,WWE,2006,Royal Rumble 2006,70698/royal-rumble-2006,-
-31292531,SummerSlam-2006-10273,WWE,2006,Summerslam 2006,70736/summerslam-2006,-
-31299877,Backlash-2006-11881,WWE,2006,Backlash 2006 (Raw),70377/backlash-2006,-
+31290971,Royal-Rumble-2006-11849,WWE,2006,Royal Rumble 2006,70698/royal-rumble-2006,81929686
+31292531,SummerSlam-2006-10273,WWE,2006,Summerslam 2006,70736/summerslam-2006,81929087
+31299877,Backlash-2006-11881,WWE,2006,Backlash 2006 (Raw),70377/backlash-2006,81929478
 31299881,Armageddon-2006-5638,WWE,2006,Armageddon 2006 (SmackDown),66460/armageddon-2006,-
-31301539,New-Years-Revolution-2006-11896,WWE,2006,New Year's Revolution 2006 (Raw),70572/new-years-revolution-2006,-
-31303597,Survivor-Series-2006-11821,WWE,2006,Survivor Series 2006,70880/survivor-series-2006,-
+31301539,New-Years-Revolution-2006-11896,WWE,2006,New Year's Revolution 2006 (Raw),70572/new-years-revolution-2006,81930394
+31303597,Survivor-Series-2006-11821,WWE,2006,Survivor Series 2006,70880/survivor-series-2006,81930172
 31303851,Unforgiven-2006-11793,WWE,2006,Unforgiven 2006 (Raw),70757/unforgiven-2006,-
 31304975,Vengeance-2006-9781,WWE,2006,Vengeance 2006,72239/vengeance-2006,-
 31313015,Great-American-Bash-2006-9852,WWE,2006,The Great American Bash (SmackDown),70770/wwe-great-american-bash-2006,-
-31322549,ECW-December-to-Dismember-2006-10434,WWE,2006,ECW December To Dismember 2006,74722/ecw-december-to-dismember-2006,-
-31324317,WrestleMania-22-5597,WWE,2006,WrestleMania 22,67064/wrestlemania-22,-
+31322549,ECW-December-to-Dismember-2006-10434,WWE,2006,ECW December To Dismember 2006,74722/ecw-december-to-dismember-2006,81930771
+31324317,WrestleMania-22-5597,WWE,2006,WrestleMania 22,67064/wrestlemania-22,81929600
 31339151,ECW-One-Night-Stand-2006-9495,WWE,2006,ECW One Night Stand,70639/ecw-one-night-stand-2006,-
-31378627,No-Mercy-2006-9279,WWE,2006,No Mercy 2006 (SmackDown),70591/no-mercy-2006,-
+31378627,No-Mercy-2006-9279,WWE,2006,No Mercy 2006 (SmackDown),70591/no-mercy-2006,81929932
 33595821,Saturday-Nights-Main-Event-4005,WWE,2006,"Saturday Night's Main Event, July 2006",25053/saturday-nights-main-event-saturday-nights-main-event,-
 33596063,Saturday-Nights-Main-Event-3994,WWE,2006,"Saturday Night's Main Event, March 2006",25036/saturday-nights-main-event-saturday-nights-main-event,-
 1215286483,SmackDown-4754,WWE,2006,SmackDown 2006-04-14,23977/smackdown-apr-14-2006,-
@@ -817,142 +817,142 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 -,Raw-5350,WWE,2006,Monday Night Raw 2006-10-30,67723/raw-oct-30-2006,-
 -,Raw-7044,WWE,2006,Monday Night Raw 2006-10-16,68026/raw-oct-16-2006,-
 -,WWE-ECW-11617,WWE,2006,WWE vs. ECW Head-to-Head,71021/wwe-ecw-jun-07-2006,-
-31288139,SummerSlam-2007-9414,WWE,2007,Summerslam 2007,70719/summerslam-2007,-
-31289127,New-Years-Revolution-2007-11847,WWE,2007,New Year's Revolution 2007 (Raw),70576/new-years-revolution-2007,-
+31288139,SummerSlam-2007-9414,WWE,2007,Summerslam 2007,70719/summerslam-2007,81929123
+31289127,New-Years-Revolution-2007-11847,WWE,2007,New Year's Revolution 2007 (Raw),70576/new-years-revolution-2007,81930395
 31290963,Judgment-Day-2007-9292,WWE,2007,Judgment Day 2007,70510/judgment-day-2007,-
 31291023,One-Night-Stand-2007-9601,WWE,2007,One Night Stand,70630/one-night-stand-2007,-
 31294251,Unforgiven-2007-9671,WWE,2007,Unforgiven 2007,70747/unforgiven-2007,-
 31294287,Vengeance-2007-9893,WWE,2007,Vengeance 2007: Night of Champions,72243/vengeance-2007,-
-31296365,Survivor-Series-2007-11836,WWE,2007,Survivor Series 2007,70866/survivor-series-2007,-
-31299871,Backlash-2007-11188,WWE,2007,Backlash 2007,70379/backlash-2007,-
-31303253,Royal-Rumble-2007-11856,WWE,2007,Royal Rumble 2007,70700/royal-rumble-2007,-
+31296365,Survivor-Series-2007-11836,WWE,2007,Survivor Series 2007,70866/survivor-series-2007,81930172
+31299871,Backlash-2007-11188,WWE,2007,Backlash 2007,70379/backlash-2007,81929480
+31303253,Royal-Rumble-2007-11856,WWE,2007,Royal Rumble 2007,70700/royal-rumble-2007,81929687
 31303259,Armageddon-2007-5662,WWE,2007,Armageddon 2007,66488/armageddon-2007,-
 31303273,WWE-Great-American-Bash-2007-9773,WWE,2007,The Great American Bash,70772/wwe-great-american-bash-2007,-
-31305099,No-Mercy-2007-9329,WWE,2007,No Mercy 2007,70599/no-mercy-2007,-
+31305099,No-Mercy-2007-9329,WWE,2007,No Mercy 2007,70599/no-mercy-2007,81929933
 31336875,No-Way-Out-2007-11832,WWE,2007,No Way Out 2007 (SmackDown),70619/no-way-out-2007,-
-31352107,Cyber-Sunday-2007-11884,WWE,2007,Cyber Sunday,70394/cyber-sunday-2007,-
-31371411,WrestleMania-23-5608,WWE,2007,WrestleMania 23: All Grown Up,67166/wrestlemania-23,-
+31352107,Cyber-Sunday-2007-11884,WWE,2007,Cyber Sunday,70394/cyber-sunday-2007,81930371
+31371411,WrestleMania-23-5608,WWE,2007,WrestleMania 23: All Grown Up,67166/wrestlemania-23,81929601
 31371427,SmackDown-4579,WWE,2007,SmackDown 2007-05-11,24003/smackdown-may-11-2007,-
 33595325,Saturday-Nights-Main-Event-4017,WWE,2007,"Saturday Night's Main Event, June 2007",25079/saturday-nights-main-event-saturday-nights-main-event,-
 33598607,Saturday-Nights-Main-Event-4031,WWE,2007,"Saturday Night's Main Event, August 2007",25050/saturday-nights-main-event-saturday-nights-main-event,-
 981590783,Raw-5401,WWE,2007,RAW 2007-05-07,67864/raw-may-07-2007,-
-31273127,Backlash-2008-11900,WWE,2008,Backlash 2008,70381/backlash-2008,-
-31277487,No-Mercy-2008-9408,WWE,2008,No Mercy 2008,70597/no-mercy-2008,-
+31273127,Backlash-2008-11900,WWE,2008,Backlash 2008,70381/backlash-2008,81929482
+31277487,No-Mercy-2008-9408,WWE,2008,No Mercy 2008,70597/no-mercy-2008,81929934
 31284707,Armageddon-2008-5678,WWE,2008,Armageddon 2008,66473/armageddon-2008,-
-31287989,SummerSlam-2008-9602,WWE,2008,Summerslam 2008,70813/summerslam-2008,-
+31287989,SummerSlam-2008-9602,WWE,2008,Summerslam 2008,70813/summerslam-2008,81929125
 31288145,No-Way-Out-2008-9265,WWE,2008,No Way Out 2008,70613/no-way-out-2008,-
-31288271,Royal-Rumble-2008-10141,WWE,2008,Royal Rumble 2008,70701/royal-rumble-2008,-
+31288271,Royal-Rumble-2008-10141,WWE,2008,Royal Rumble 2008,70701/royal-rumble-2008,81929688
 31288933,Great-American-Bash-2008-9867,WWE,2008,The Great American Bash,70765/wwe-great-american-bash-2008,-
-31289587,WrestleMania-24-5622,WWE,2008,WrestleMania XXIV,67367/wrestlemania-24,-
+31289587,WrestleMania-24-5622,WWE,2008,WrestleMania XXIV,67367/wrestlemania-24,81929602
 31294195,One-Night-Stand-2008-9748,WWE,2008,One Night Stand,70631/one-night-stand-2008,-
 31294239,Unforgiven-2008-11803,WWE,2008,Unforgiven 2008,70752/unforgiven-2008,-
-31294289,Survivor-Series-2008-11844,WWE,2008,Survivor Series 2008,70862/survivor-series-2008,-
+31294289,Survivor-Series-2008-11844,WWE,2008,Survivor Series 2008,70862/survivor-series-2008,81930173
 31296015,Night-of-Champions-2008-9740,WWE,2008,Night of Champions 2008,70583/night-of-champions-2008,-
-31331003,Cyber-Sunday-2008-11891,WWE,2008,Cyber Sunday,70392/cyber-sunday-2008,-
+31331003,Cyber-Sunday-2008-11891,WWE,2008,Cyber Sunday,70392/cyber-sunday-2008,81930372
 -,-,WWE,2008,SmackDown 2008-05-09,24218,-
 31277141,Judgment-Day-2008-9374,WWE,2008,Judgment Day 2008,70511/judgment-day-2008,-
 33595447,Saturday-Nights-Main-Event-7213,WWE,2008,"Saturday Night's Main Event, August 2008",25085/saturday-nights-main-event-saturday-nights-main-event,-
 1181286983,Raw-5973,WWE,2008,RAW 2008-04-21,67978/raw-apr-21-2008,-
 1181318283,Raw-7140,WWE,2008,RAW 2008-06-30,68198/raw-jun-30-2008,-
-31275277,Hell-in-a-Cell-2009-5547,WWE,2009,Hell in a Cell 2009,66556/hell-in-a-cell-2009,-
-31356693,Judgment-Day-2009-9470,WWE,2009,Judgment Day 2009,70509/judgment-day-2009,-
-31277561,WWE-Extreme-Rules-2009-11899,WWE,2009,Extreme Rules,70423/wwe-extreme-rules-2009,-
-31277563,WWE-The-Bash-2009-11914,WWE,2009,The Bash,70793/wwe-the-bash-2009,-
+31275277,Hell-in-a-Cell-2009-5547,WWE,2009,Hell in a Cell 2009,66556/hell-in-a-cell-2009,81929869
+31356693,Judgment-Day-2009-9470,WWE,2009,Judgment Day 2009,70509/judgment-day-2009,81929789
+31277561,WWE-Extreme-Rules-2009-11899,WWE,2009,Extreme Rules,70423/wwe-extreme-rules-2009,81929764
+31277563,WWE-The-Bash-2009-11914,WWE,2009,The Bash,70793/wwe-the-bash-2009,81930631
 31280133,Night-of-Champions-2009-9770,WWE,2009,Night of Champions 2009,70578/night-of-champions-2009,-
 31287991,Survivor-Series-2009-11853,WWE,2009,Survivor Series 2009,70876/survivor-series-2009,-
-31288285,SummerSlam-2009-9759,WWE,2009,Summerslam 2009,70717/summerslam-2009,-
-31288345,Royal-Rumble-2009-11794,WWE,2009,Royal Rumble 2009,70696/royal-rumble-2009,-
-31293439,WWE-Bragging-Rights-2009-5755,WWE,2009,Bragging Rights,66472/wwe-bragging-rights-2009,-
+31288285,SummerSlam-2009-9759,WWE,2009,Summerslam 2009,70717/summerslam-2009,81929127
+31288345,Royal-Rumble-2009-11794,WWE,2009,Royal Rumble 2009,70696/royal-rumble-2009,81929689
+31293439,WWE-Bragging-Rights-2009-5755,WWE,2009,Bragging Rights,66472/wwe-bragging-rights-2009,81930583
 31294249,TLC-Tables-Ladders-and-Chairs-2009-6363,WWE,2009,"TLC - Tables, Ladders and Chairs",66753/tlc-tables-ladders--chairs-2009,-
-31305869,WrestleMania-25-5526,WWE,2009,WrestleMania XXV,67168/wrestlemania-25,-
-31340363,Backlash-2009-11901,WWE,2009,Backlash 2009,70380/backlash-2009,-
-31342163,WWE-Breaking-Point-2009-11146,WWE,2009,Breaking Point,70398/wwe-breaking-point-2009,-
-31354701,No-Way-Out-2009-9306,WWE,2009,No Way Out 2009,70620/no-way-out-2009,-
+31305869,WrestleMania-25-5526,WWE,2009,WrestleMania XXV,67168/wrestlemania-25,81929605
+31340363,Backlash-2009-11901,WWE,2009,Backlash 2009,70380/backlash-2009,81929484
+31342163,WWE-Breaking-Point-2009-11146,WWE,2009,Breaking Point,70398/wwe-breaking-point-2009,81930754
+31354701,No-Way-Out-2009-9306,WWE,2009,No Way Out 2009,70620/no-way-out-2009,81929979
 31273101,Fatal-4-Way-2010-9411,WWE,2010,Fatal 4-Way,70458/fatal-4-way-2010,-
 31274225,Elimination-Chamber-2010-11814,WWE,2010,Elimination Chamber 2010,70402/elimination-chamber-2010,-
-31274227,WWE-Bragging-Rights-2010-5642,WWE,2010,Bragging Rights,66471/wwe-bragging-rights-2010,-
-31274247,WWE-Extreme-Rules-2010-11861,WWE,2010,Extreme Rules,70422/wwe-extreme-rules-2010,-
-31277317,Money-in-the-Bank-2010-5634,WWE,2010,Money In The Bank,66701/money-in-the-bank-2010,-
+31274227,WWE-Bragging-Rights-2010-5642,WWE,2010,Bragging Rights,66471/wwe-bragging-rights-2010,81930584
+31274247,WWE-Extreme-Rules-2010-11861,WWE,2010,Extreme Rules,70422/wwe-extreme-rules-2010,81929765
+31277317,Money-in-the-Bank-2010-5634,WWE,2010,Money In The Bank,66701/money-in-the-bank-2010,81929898
 31287423,Night-of-Champions-2010-9806,WWE,2010,Night of Champions 2010,70575/night-of-champions-2010,-
-31288319,Survivor-Series-2010-11858,WWE,2010,Survivor Series 2010,70872/survivor-series-2010,-
-31288351,Over-the-Limit-2010-10019,WWE,2010,WWE Over The Limit,70634/over-the-limit-2010,-
+31288319,Survivor-Series-2010-11858,WWE,2010,Survivor Series 2010,70872/survivor-series-2010,81930175
+31288351,Over-the-Limit-2010-10019,WWE,2010,WWE Over The Limit,70634/over-the-limit-2010,81930550
 31288935,TLC-Tables-Ladders-and-Chairs-2010-6717,WWE,2010,"TLC - Tables, Ladders and Chairs 2010",66330/tlc-tables-ladders--chairs-2010,-
-31294193,SummerSlam-2010-9900,WWE,2010,Summerslam 2010,70731/summerslam-2010,-
-31294203,WrestleMania-26-5541,WWE,2010,WrestleMania XXVI,67060/wrestlemania-26,-
-31357369,Hell-in-a-Cell-2010-5564,WWE,2010,Hell in a Cell 2010,66558/hell-in-a-cell-2010,-
-31362289,Royal-Rumble-2010-11804,WWE,2010,Royal Rumble 2010,70694/royal-rumble-2010,-
+31294193,SummerSlam-2010-9900,WWE,2010,Summerslam 2010,70731/summerslam-2010,81929129
+31294203,WrestleMania-26-5541,WWE,2010,WrestleMania XXVI,67060/wrestlemania-26,81929606
+31357369,Hell-in-a-Cell-2010-5564,WWE,2010,Hell in a Cell 2010,66558/hell-in-a-cell-2010,81929870
+31362289,Royal-Rumble-2010-11804,WWE,2010,Royal Rumble 2010,70694/royal-rumble-2010,81929690
 1214293183,Raw-6693,WWE,2010,RAW 2010-11-22,68230/raw-nov-22-2010,-
 1214294883,Raw-6092,WWE,2010,RAW 2010-11-29,68240/raw-nov-29-2010,-
 1223585983,SmackDown-4482,WWE,2010,SmackDown 2010-04-02,24064/smackdown-apr-02-2010,-
 1224094583,SmackDown-5013,WWE,2010,SmackDown 2010-11-26,54534/smackdown-nov-26-2010,-
-31274229,WWE-Capitol-Punishment-2011-11854,WWE,2011,Capitol Punishment,70393/wwe-capitol-punishment-2011,-
+31274229,WWE-Capitol-Punishment-2011-11854,WWE,2011,Capitol Punishment,70393/wwe-capitol-punishment-2011,81930765
 31274231,Elimination-Chamber-2011-11909,WWE,2011,Elimination Chamber 2011,70403/elimination-chamber-2011,-
-31277139,Hell-in-a-Cell-2011-7048,WWE,2011,Hell in a Cell 2011,66332/hell-in-a-cell-2011,-
-31277143,WWE-Extreme-Rules-2011-11805,WWE,2011,Extreme Rules,70426/wwe-extreme-rules-2011,-
+31277139,Hell-in-a-Cell-2011-7048,WWE,2011,Hell in a Cell 2011,66332/hell-in-a-cell-2011,81929871
+31277143,WWE-Extreme-Rules-2011-11805,WWE,2011,Extreme Rules,70426/wwe-extreme-rules-2011,81929766
 31277667,Night-of-Champions-2011-9833,WWE,2011,Night of Champions 2011,70574/night-of-champions-2011,-
-31287925,SummerSlam-2011-10049,WWE,2011,Summerslam 2011,70727/summerslam-2011,-
-31288283,Over-the-Limit-2011-10136,WWE,2011,WWE Over The Limit,70633/over-the-limit-2011,-
+31287925,SummerSlam-2011-10049,WWE,2011,Summerslam 2011,70727/summerslam-2011,81929131
+31288283,Over-the-Limit-2011-10136,WWE,2011,WWE Over The Limit,70633/over-the-limit-2011,81930551
 31288941,TLC-Tables-Ladders-and-Chairs-2011-6374,WWE,2011,"TLC - Tables, Ladders and Chairs 2011",66638/tlc-tables-ladders--chairs-2011,-
-31294205,WrestleMania-27-5557,WWE,2011,WrestleMania XXVII,67063/wrestlemania-27,-
+31294205,WrestleMania-27-5557,WWE,2011,WrestleMania XXVII,67063/wrestlemania-27,81929607
 31294295,Survivor-Series-2011-11833,WWE,2011,Survivor Series 2011,70865/survivor-series-2011,-
 31296115,Vengeance-2011-10002,WWE,2011,Vengeance 2011,72261/vengeance-2011,-
-31301541,Royal-Rumble-2011-11811,WWE,2011,Royal Rumble 2011,70788/royal-rumble-2011,-
-31359911,Money-in-the-Bank-2011-7146,WWE,2011,Money in the Bank,66341/money-in-the-bank-2011,-
+31301541,Royal-Rumble-2011-11811,WWE,2011,Royal Rumble 2011,70788/royal-rumble-2011,81929691
+31359911,Money-in-the-Bank-2011-7146,WWE,2011,Money in the Bank,66341/money-in-the-bank-2011,81929898
 1214578383,Raw-6721,WWE,2011,RAW 2011-07-25,68322/raw-jul-25-2011,-
-31277509,WWE-Extreme-Rules-2012-11885,WWE,2012,Extreme Rules,70427/wwe-extreme-rules-2012,-
-31277565,No-Way-Out-2012-9336,WWE,2012,No Way Out 2012,70616/no-way-out-2012,-
-31280127,Survivor-Series-2012-11841,WWE,2012,Survivor Series 2012,70884/survivor-series-2012,-
+31277509,WWE-Extreme-Rules-2012-11885,WWE,2012,Extreme Rules,70427/wwe-extreme-rules-2012,81929767
+31277565,No-Way-Out-2012-9336,WWE,2012,No Way Out 2012,70616/no-way-out-2012,81929980
+31280127,Survivor-Series-2012-11841,WWE,2012,Survivor Series 2012,70884/survivor-series-2012,81930177
 31288929,TLC-Tables-Ladders-and-Chairs-2012-6389,WWE,2012,"TLC - Tables, Ladders and Chairs 2012",66642/tlc-tables-ladders--chairs-2012,-
-31294231,WrestleMania-28-5575,WWE,2012,WrestleMania XXVIII,67165/wrestlemania-28,-
-31294245,Over-the-Limit-2012-10246,WWE,2012,Over the Limit,70635/over-the-limit-2012,-
-31294291,Royal-Rumble-2012-11822,WWE,2012,Royal Rumble 2012,70699/royal-rumble-2012,-
-31294293,SummerSlam-2012-10226,WWE,2012,Summerslam 2012,70791/summerslam-2012,-
+31294231,WrestleMania-28-5575,WWE,2012,WrestleMania XXVIII,67165/wrestlemania-28,81929608
+31294245,Over-the-Limit-2012-10246,WWE,2012,Over the Limit,70635/over-the-limit-2012,81930553
+31294291,Royal-Rumble-2012-11822,WWE,2012,Royal Rumble 2012,70699/royal-rumble-2012,81929692
+31294293,SummerSlam-2012-10226,WWE,2012,Summerslam 2012,70791/summerslam-2012,81929133
 31303275,Elimination-Chamber-2012-11904,WWE,2012,Elimination Chamber 2012,70414/elimination-chamber-2012,-
 31319249,Raw-6754,WWE,2012,RAW 2012-07-23,68256/raw-jul-23-2012,-
 31340257,Night-of-Champions-2012-9940,WWE,2012,Night of Champions 2012,70577/night-of-champions-2012,-
-31342173,Hell-in-a-Cell-2012-5579,WWE,2012,Hell in a Cell 2012,66492/hell-in-a-cell-2012,-
-31345257,Money-in-the-Bank-2012-7156,WWE,2012,Money in the Bank,66340/money-in-the-bank-2012,-
+31342173,Hell-in-a-Cell-2012-5579,WWE,2012,Hell in a Cell 2012,66492/hell-in-a-cell-2012,81929872
+31345257,Money-in-the-Bank-2012-7156,WWE,2012,Money in the Bank,66340/money-in-the-bank-2012,81929898
 31277145,Night-of-Champions-2013-10066,WWE,2013,Night of Champions 2013,70579/night-of-champions-2013,-
-31280129,SummerSlam-2013-10406,WWE,2013,Summerslam 2013,70745/summerslam-2013,-
-31284675,WWE-Battleground-2013-6808,WWE,2013,Battleground,66474/wwe-battleground-2013,-
+31280129,SummerSlam-2013-10406,WWE,2013,Summerslam 2013,70745/summerslam-2013,81929135
+31284675,WWE-Battleground-2013-6808,WWE,2013,Battleground,66474/wwe-battleground-2013,81929524
 31288931,Survivor-Series-2013-11848,WWE,2013,Survivor Series 2013,70917/survivor-series-2013,-
-31288937,Royal-Rumble-2013-11779,WWE,2013,Royal Rumble 2013,83954/royal-rumble-2013,-
+31288937,Royal-Rumble-2013-11779,WWE,2013,Royal Rumble 2013,83954/royal-rumble-2013,81929693
 31289075,WWE-Payback-2013-11852,WWE,2013,Payback,70636/wwe-payback-2013,-
-31289579,WrestleMania-29-5589,WWE,2013,WrestleMania XXIX,67061/wrestlemania-29,-
-31313017,Hell-in-a-Cell-2013-5592,WWE,2013,Hell in a Cell 2013,66703/hell-in-a-cell-2013,-
+31289579,WrestleMania-29-5589,WWE,2013,WrestleMania XXIX,67061/wrestlemania-29,81929609
+31313017,Hell-in-a-Cell-2013-5592,WWE,2013,Hell in a Cell 2013,66703/hell-in-a-cell-2013,81929873
 31316163,TLC-Tables-Ladders-and-Chairs-2013-6739,WWE,2013,"TLC - Tables, Ladders and Chairs 2013",66328/tlc-tables-ladders--chairs-2013,-
 31324299,Raw-6801,WWE,2013,RAW 2013-04-08,68411/raw-apr-08-2013,-
 31326699,Raw-6795,WWE,2013,RAW 2013-10-28,68428/raw-oct-28-2013,-
-31345243,Money-in-the-Bank-2013-5657,WWE,2013,Money in the Bank,66582/money-in-the-bank-2013,-
+31345243,Money-in-the-Bank-2013-5657,WWE,2013,Money in the Bank,66582/money-in-the-bank-2013,81929898
 31350177,Elimination-Chamber-2013-11908,WWE,2013,Elimination Chamber 2013,70405/elimination-chamber-2013,-
-31357435,WWE-Extreme-Rules-2013-11189,WWE,2013,Extreme Rules,70425/wwe-extreme-rules-2013,-
-31392017,Royal-Rumble-2014-1765,WWE,2014,Royal Rumble 2014,20331/royal-rumble-2014,-
+31357435,WWE-Extreme-Rules-2013-11189,WWE,2013,Extreme Rules,70425/wwe-extreme-rules-2013,81929768
+31392017,Royal-Rumble-2014-1765,WWE,2014,Royal Rumble 2014,20331/royal-rumble-2014,81929694
 31678253,Elimination-Chamber-2014-11903,WWE,2014,Elimination Chamber 2014,70415/elimination-chamber-2014,-
-31920091,WrestleMania-30-95219,WWE,2014,WrestleMania XXX,67369/wrestlemania-30,-
+31920091,WrestleMania-30-95219,WWE,2014,WrestleMania XXX,67369/wrestlemania-30,81929610
 31973929,/program/WrestleMania-30-Kickoff-Show-12506,WWE,2014,WrestleMania XXX pre-show,83674/-2014-04-06,-
 32680887,/program/Extreme-Rules-2014-Kickoff-Show-12498,WWE,2014,Extreme Rules pre-show,83463/-2014-05-04,-
-32714887,WWE-Extreme-Rules-2014-11210,WWE,2014,Extreme Rules,70424/wwe-extreme-rules-2014,-
+32714887,WWE-Extreme-Rules-2014-11210,WWE,2014,Extreme Rules,70424/wwe-extreme-rules-2014,81929769
 33397847,WWE-Payback-2014-10388,WWE,2014,Payback,70632/wwe-payback-2014,-
 33460663,/program/Payback-2014-Kickoff-Show-12507,WWE,2014,Payback pre-show,83492/-2014-06-01,-
-34230589,Money-in-the-Bank-2014-5675,WWE,2014,Money in the Bank,66581/money-in-the-bank-2014,-
+34230589,Money-in-the-Bank-2014-5675,WWE,2014,Money in the Bank,66581/money-in-the-bank-2014,81929902
 34711531,/program/WWE-Battleground-2014-Kickoff-Show-12072,WWE,2014,Battleground 2014 pre-show,83442/-2014-07-20,-
-34716371,WWE-Battleground-2014-5703,WWE,2014,Battleground,66462/wwe-battleground-2014,-
+34716371,WWE-Battleground-2014-5703,WWE,2014,Battleground,66462/wwe-battleground-2014,81929526
 35358449,/program/SummerSlam-2014-Kickoff-Show-12120,WWE,2014,Summerslam 2014 pre-show,83715/-2014-08-17,-
-35548257,SummerSlam-2014-11203,WWE,2014,Summerslam 2014,70749/summerslam-2014,-
+35548257,SummerSlam-2014-11203,WWE,2014,Summerslam 2014,70749/summerslam-2014,81929137
 36581891,Night-of-Champions-2014-10182,WWE,2014,Night of Champions 2014,70582/night-of-champions-2014,-
 36847649,/program/Hell-in-a-Cell-2014-Kickoff-Show-12033,WWE,2014,Hell in a Cell 2014 pre-show,83454/hell-in-a-cell-2014-kickoff-2014-10-26,-
-36875215,Hell-in-a-Cell-2014-4956,WWE,2014,Hell in a Cell 2014,66702/hell-in-a-cell-2014,-
+36875215,Hell-in-a-Cell-2014-4956,WWE,2014,Hell in a Cell 2014,66702/hell-in-a-cell-2014,81929874
 36950041,/program/Survivor-Series-2014-Kickoff-Show-12214,WWE,2014,Survivor Series 2014 pre-show,83691/-2014-11-23,-
 36986389,Survivor-Series-2014-10028,WWE,2014,Survivor Series 2014,70871/survivor-series-2014,-
 37045715,/program/TLCS-2014-Kickoff-12496,WWE,2014,TLC(S) 2014 pre-show,83692/tlcs-2014-kickoff-2014-12-14,-
 37056067,TLC-Tables-Ladders-Chairs-and-Stairs-2014-6755,WWE,2014,"TLC - Tables, Ladders, Chairs (and Stairs) 2014",66401/tlc-tables-ladders-chairs--stairs-2014,-
-37161153,Royal-Rumble-2015-1771,WWE,2015,Royal Rumble 2015,87647/royal-rumble-2015,-
+37161153,Royal-Rumble-2015-1771,WWE,2015,Royal Rumble 2015,87647/royal-rumble-2015,81929695
 37187553,/program/Royal-Rumble-2015-Kickoff-Show-95202,WWE,2015,Royal Rumble pre-show,83686/-2015-01-25,-
 38424783,WWE-Fastlane-2015-9986,WWE,2015,Fastlane,72311/wwe-fastlane-2015,-
 55572483,/program/WrestleMania-31-Kickoff-Show-12503,WWE,2015,Wrestlemania 31 pre-show,83588/-2015-03-29,-
-57482783,WrestleMania-31-1762,WWE,2015,WrestleMania XXXI,67170/wrestlemania-31,-
+57482783,WrestleMania-31-1762,WWE,2015,WrestleMania XXXI,67170/wrestlemania-31,81929611
 85793383,/program/Extreme-Rules-2015-Kickoff-Show-12162,WWE,2015,Extreme Rules pre-show,83436/-2015-04-26,-
-91232083,WWE-Extreme-Rules-2015-11211,WWE,2015,Extreme Rules,70428/wwe-extreme-rules-2015,-
+91232083,WWE-Extreme-Rules-2015-11211,WWE,2015,Extreme Rules,70428/wwe-extreme-rules-2015,81929770
 92583283,/program/King-of-the-Ring-Live-95209,WWE,2015,WWE King of the Ring 2015,86565/king-of-the-ring-live,-
 116218283,/program/Payback-2015-Kickoff-Show-12508,WWE,2015,Payback pre-show,83472/-2015-05-17,-
 120851083,WWE-Payback-2015-11202,WWE,2015,Payback,70640/wwe-payback-2015,-
@@ -960,15 +960,15 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 135102583,/program/Elimination-Chamber-2015-Kickoff-Show-12183,WWE,2015,Elimination Chamber pre-show,83495/elimination-chamber-2015-kickoff-show-2015-05-31,-
 140527683,Elimination-Chamber-2015-1783,WWE,2015,Elimination Chamber 2015,70416/elimination-chamber-2015,-
 156996383,/program/Money-in-the-Bank-2015-Kickoff-Show-11993,WWE,2015,Money In The Bank pre-show,83480/-2015-06-14,-
-157002383,Money-in-the-Bank-2015-7166,WWE,2015,Money in the Bank,66294/money-in-the-bank-2015,-
+157002383,Money-in-the-Bank-2015-7166,WWE,2015,Money in the Bank,66294/money-in-the-bank-2015,81929902
 224466983,/program/Beast-in-the-East-12347,WWE,2015,The Beast in the East,83162/beast-in-the-east,-
 263552183,/program/WWE-Battleground-2015-Kickoff-Show-12079,WWE,2015,Battleground 2015 pre-show,83471/-2015-07-19,-
-274459983,WWE-Battleground-2015-7383,WWE,2015,Battleground,69668/wwe-battleground-2015,-
-406459383,SummerSlam-2015-11208,WWE,2015,Summerslam 2015,70758/summerslam-2015,-
+274459983,WWE-Battleground-2015-7383,WWE,2015,Battleground,69668/wwe-battleground-2015,81929528
+406459383,SummerSlam-2015-11208,WWE,2015,Summerslam 2015,70758/summerslam-2015,81929139
 487217383,Night-of-Champions-2015-10274,WWE,2015,Night of Champions 2015,70584/night-of-champions-2015,-
 513773583,/program/WWE-Live-From-MSG-2015-95207,WWE,2015,Live from MSG,86029/wwe-live-from-msg-2015,-
 525510283,/program/Hell-in-a-Cell-2015-Kickoff-Show-12042,WWE,2015,Hell in a Cell 2015 pre-show,83500/-2015-10-25,-
-525510583,Hell-in-a-Cell-2015-5619,WWE,2015,Hell in a Cell 2015,66704/hell-in-a-cell-2015,-
+525510583,Hell-in-a-Cell-2015-5619,WWE,2015,Hell in a Cell 2015,66704/hell-in-a-cell-2015,81929875
 528418483,This-Week-in-WWE-10996,WWE,2015,This Week 2015-11-07,74206/november-7-2015-this-week-in-wwe,-
 -,/program/Survivor-Series-2015-Kickoff-Show-12223,WWE,2015,Survivor Series 2015 pre-show,83668/-2015-11-22,-
 531252383,Survivor-Series-2015-10179,WWE,2015,Survivor Series 2015,70868/survivor-series-2015,-
@@ -979,32 +979,32 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 534076683,TLC-Tables-Ladders-and-Chairs-2015-6303,WWE,2015,"TLC - Tables, Ladders and Chairs 2015",66735/tlc-tables-ladders--chairs-2015,-
 638566583,/program/Payback-2016-Kickoff-Show-11963,WWE,2016,Payback pre-show,84533/payback-2016-kickoff-show-2016-05-01,-
 539767183,/program/Royal-Rumble-2016-Kickoff-Show-12239,WWE,2016,Royal Rumble pre-show,83666/-2016-01-24,-
-539767983,Royal-Rumble-2016-1776,WWE,2016,Royal Rumble 2016,70702/royal-rumble-2016,-
+539767983,Royal-Rumble-2016-1776,WWE,2016,Royal Rumble 2016,70702/royal-rumble-2016,81929696
 543568683,/program/Fastlane-2016-Kickoff-Show-12170,WWE,2016,Fastlane pre-show,84509/fastlane-2016-kickoff-show-2016-02-21,-
 543568883,WWE-Fastlane-2016-1773,WWE,2016,Fastlane,20286/wwe-fastlane-2016,-
 551511583,WWE-Roadblock-2016-10684,WWE,2016,Roadblock,73343/wwe-roadblock-2016,-
 569243383,/program/WrestleMania-32-Kickoff-Show-12174,WWE,2016,Wrestlemania 32 pre-show,84549/wrestlemania-32-kickoff-show-2016-04-03,-
-569259683,WrestleMania-32-1811,WWE,2016,WrestleMania XXXII,67461/wrestlemania-32,-
+569259683,WrestleMania-32-1811,WWE,2016,WrestleMania XXXII,67461/wrestlemania-32,81929612
 648782183,WWE-Payback-2016-11855,WWE,2016,Payback,70638/wwe-payback-2016,-
-716964983,WWE-Extreme-Rules-2016-11788,WWE,2016,Extreme Rules,70433/wwe-extreme-rules-2016,-
+716964983,WWE-Extreme-Rules-2016-11788,WWE,2016,Extreme Rules,70433/wwe-extreme-rules-2016,81929771
 728187683,/program/Extreme-Rules-2016-Kickoff-Show-12184,WWE,2016,Extreme Rules pre-show,84506/extreme-rules-2016-kickoff-show-2016-05-22,-
 821280183,/program/Money-in-the-Bank-2016-Kickoff-Show-12007,WWE,2016,Money In The Bank pre-show,84497/money-in-the-bank-2016-kickoff-show-2016-06-19,-
-821280783,Money-in-the-Bank-2016-7370,WWE,2016,Money in the Bank,69652/money-in-the-bank-2016,-
+821280783,Money-in-the-Bank-2016-7370,WWE,2016,Money in the Bank,69652/money-in-the-bank-2016,81929904
 924921083,Week-1-10392,WWE,2016,Cruiserweight Classic 2016-07-13,73359/cruiserweight-classic-s1--e1-week-1,-
 948453083,Week-2-10407,WWE,2016,Cruiserweight Classic 2016-07-20,73511/cruiserweight-classic-s1--e2-week-2,-
 955679683,/program/Battleground-2016-Kickoff-Show-12082,WWE,2016,Battleground 2016 pre-show,84543/battleground-2016-kickoff-show-2016-07-24,-
-955683083,WWE-Battleground-2016-7390,WWE,2016,Battleground,69671/wwe-battleground-2016,-
+955683083,WWE-Battleground-2016-7390,WWE,2016,Battleground,69671/wwe-battleground-2016,81929530
 977705083,Week-3-10424,WWE,2016,Cruiserweight Classic 2016-07-27,73411/cruiserweight-classic-s1--e3-week-3,-
 1004183583,Week-4-10440,WWE,2016,Cruiserweight Classic 2016-08-03,73510/cruiserweight-classic-s1--e4-week-4,-
 1033746783,Week-5-10453,WWE,2016,Cruiserweight Classic 2016-08-10,73860/cruiserweight-classic-s1--e5-week-5,-
 1061073483,Week-6-10469,WWE,2016,Cruiserweight Classic 2016-08-17,73482/cruiserweight-classic-s1--e6-week-6,-
 1065166583,/program/SummerSlam-2016-Kickoff-Show-12194,WWE,2016,Summerslam 2016 pre-show,84809/summerslam-2016-kickoff-show-2016-08-21,-
-1068937183,SummerSlam-2016-11889,WWE,2016,Summerslam 2016,90171/summerslam-2016,-
+1068937183,SummerSlam-2016-11889,WWE,2016,Summerslam 2016,90171/summerslam-2016,81929141
 1089859583,Week-7-10485,WWE,2016,Cruiserweight Classic 2016-08-24,73413/cruiserweight-classic-s1--e7-week-7,-
 1118866183,Week-8-10499,WWE,2016,Cruiserweight Classic 2016-08-31,73357/cruiserweight-classic-s1--e8-week-8,-
 1147019783,Week-9-10513,WWE,2016,Cruiserweight Classic 2016-09-07,73360/cruiserweight-classic-s1--e9-week-9,-
 1151813083,/program/Backlash-2016-Kickoff-Show-11933,WWE,2016,Backlash 2016 pre-show,84494/backlash-2016-kickoff-show-2016-09-11,-
-1151813883,Backlash-2016-11895,WWE,2016,Backlash 2016 (SmackDown),70382/backlash-2016,-
+1151813883,Backlash-2016-11895,WWE,2016,Backlash 2016 (SmackDown),70382/backlash-2016,81929486
 1164966383,SmackDown-3981,WWE,2016,Smackdown 2016-08-23,54813/smackdown-aug-23-2016,-
 1164986283,Week-10-Finals-10529,WWE,2016,Cruiserweight Classic 2016,73520/cruiserweight-classic-s1--e10-week-10-finals,-
 1165062183,SmackDown-3997,WWE,2016,SmackDown 2016-08-30,54819/smackdown-aug-30-2016,-
@@ -1012,9 +1012,9 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 1181318683,/program/Clash-of-Champions-2016-Kickoff-Show-12008,WWE,2016,Clash of Champions 2016 pre-show,84532/clash-of-champions-2016-kickoff-show-2016-09-25,-
 1188965783,Clash-of-Champions-2016-10390,WWE,2016,Clash of Champions 2016 (Raw),70395/clash-of-champions-2016,-
 1203064483,/program/No-Mercy-2016-Kickoff-Show-12048,WWE,2016,No Mercy 2016 pre-show,84525/no-mercy-2016-kickoff-show-2016-10-09,-
-1203066483,No-Mercy-2016-9449,WWE,2016,No Mercy 2016 (SmackDown),70592/no-mercy-2016,-
+1203066483,No-Mercy-2016-9449,WWE,2016,No Mercy 2016 (SmackDown),70592/no-mercy-2016,81929935
 1209521383,/program/Hell-in-a-Cell-2016-Kickoff-Show-12047,WWE,2016,Hell in a Cell 2016 pre-show,84514/hell-in-a-cell-2016-kickoff-show-2016-10-30,-
-1210386483,Hell-in-a-Cell-2016-7391,WWE,2016,Hell in a Cell (Raw),69674/hell-in-a-cell-2016,-
+1210386483,Hell-in-a-Cell-2016-7391,WWE,2016,Hell in a Cell (Raw),69674/hell-in-a-cell-2016,81929876
 1212970983,/program/Survivor-Series-2016-Kickoff-Show-12226,WWE,2016,Survivor Series 2016 pre-show,84510/survivor-series-2016-kickoff-show-2016-11-20,-
 1212971383,Survivor-Series-2016-10271,WWE,2016,Survivor Series 2016,70914/survivor-series-2016,-
 1214479783,/program/TLC-Tables-Ladders-and-Chairs-2016-Kickoff-12215,WWE,2016,TLC 2016 pre-show,84541/tlc-tables-ladders--chairs-2016-kickoff-2016-12-04,-
@@ -1025,28 +1025,28 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 1219563983,United-Kingdom-Championship-Tournament-Part-1-94332,WWE,2017,United Kingdom Championship tournament part I,86078/wwe-uk-championship-tournament-s1--e1-united-kingdom-championship-tournament-part-1,-
 1219724383,United-Kingdom-Championship-Tournament-Part-2-12676,WWE,2017,United Kingdom Championship tournament part II,86742/wwe-uk-championship-tournament-s1--e2-united-kingdom-championship-tournament-part-2,-
 1221426183,/program/Royal-Rumble-2017-Kickoff-Show-12054,WWE,2017,Royal Rumble pre-show,84518/royal-rumble-2017-kickoff-show-2017-01-29,-
-1221432183,Royal-Rumble-2017-1780,WWE,2017,Royal Rumble 2017,70703/royal-rumble-2017,-
+1221432183,Royal-Rumble-2017-1780,WWE,2017,Royal Rumble 2017,70703/royal-rumble-2017,81929697
 1223078683,/program/Elimination-Chamber-2017-Kickoff-Show-12201,WWE,2017,Elimination Chamber pre-show,84511/elimination-chamber-2017-kickoff-show-2017-02-12,-
 1223552483,Elimination-Chamber-2017-1761,WWE,2017,Elimination Chamber 2017 (SmackDown),70411/elimination-chamber-2017,-
 1229270983,/program/Fastlane-2017-Kickoff-Show-12181,WWE,2017,Fastlane pre-show,84542/fastlane-2017-kickoff-show-2017-03-05,-
 1229274583,WWE-Fastlane-2017-1778,WWE,2017,Fastlane (Raw),72343/wwe-fastlane-2017,-
 1252072283,/program/WrestleMania-33-Kickoff-Show-12175,WWE,2017,Wrestlemania 33 pre-show,84537/wrestlemania-33-kickoff-show-2017-04-02,-
-1252266283,WrestleMania-33-1768,WWE,2017,WrestleMania XXXIII,67126/wrestlemania-33,-
+1252266283,WrestleMania-33-1768,WWE,2017,WrestleMania XXXIII,67126/wrestlemania-33,81929613
 1331576483,/program/Payback-2017-Kickoff-Show-12100,WWE,2017,Payback pre-show,84522/payback-2017-kickoff-show-2017-04-30,-
 1331577783,WWE-Payback-2017-11862,WWE,2017,Payback (Raw),70637/wwe-payback-2017,-
 1400735683,/program/Backlash-2017-Kickoff-Show-12060,WWE,2017,Backlash 2017 pre-show,84493/backlash-2017-kickoff-show-2017-05-21,-
-1401729283,Backlash-2017-11781,WWE,2017,Backlash 2017 (SmackDown),70383/backlash-2017,-
+1401729283,Backlash-2017-11781,WWE,2017,Backlash 2017 (SmackDown),70383/backlash-2017,81929488
 1451563483,/program/Extreme-Rules-2017-Kickoff-Show-12234,WWE,2017,Extreme Rules pre-show,84503/extreme-rules-2017-kickoff-show-2017-06-04,-
-1451569383,WWE-Extreme-Rules-2017-11867,WWE,2017,Extreme Rules (Raw),70432/wwe-extreme-rules-2017,-
+1451569383,WWE-Extreme-Rules-2017-11867,WWE,2017,Extreme Rules (Raw),70432/wwe-extreme-rules-2017,81929772
 1501343683,/program/Money-in-the-Bank-2017-Kickoff-Show-12198,WWE,2017,Money In The Bank pre-show,84508/money-in-the-bank-2017-kickoff-show-2017-06-18,-
-1501435583,Money-in-the-Bank-2017-7399,WWE,2017,Money in the Bank (SmackDown),69687/money-in-the-bank-2017,-
+1501435583,Money-in-the-Bank-2017-7399,WWE,2017,Money in the Bank (SmackDown),69687/money-in-the-bank-2017,81929905
 1556080283,SmackDown-4826,WWE,2017,SmackDown 2017-06-20,54831/smackdown-jun-20-2017,-
 1579575483,/program/Great-Balls-of-Fire-2017-Kickoff-Show-12232,WWE,2017,Great Balls of Fire pre-show,84523/great-balls-of-fire-2017-kickoff-show-2017-07-09,-
 1579578383,Great-Balls-of-Fire-2017-10034,WWE,2017,Great Balls of Fire (Raw),70476/great-balls-of-fire-2017,-
-1627366883,WWE-Battleground-2017-5721,WWE,2017,Battleground (SmackDown),66528/wwe-battleground-2017,-
+1627366883,WWE-Battleground-2017-5721,WWE,2017,Battleground (SmackDown),66528/wwe-battleground-2017,81929533
 1645320483,SmackDown-4777,WWE,2017,SmackDown 2017-06-27,54832/smackdown-jun-27-2017,-
 1738080783,/program/SummerSlam-2017-Kickoff-Show-12188,WWE,2017,Summerslam 2017 pre-show,84517/summerslam-2017-kickoff-show-2017-08-20,-
-1738089083,SummerSlam-2017-10389,WWE,2017,Summerslam 2017,70798/summerslam-2017,-
+1738089083,SummerSlam-2017-10389,WWE,2017,Summerslam 2017,70798/summerslam-2017,81929143
 1794133283,SmackDown-4774,WWE,2017,SmackDown 2017-08-15,54925/smackdown-aug-15-2017,-
 1769459783,Episode-2-7495,WWE,2017,Mae Young Classic 2017:2,69982/the-mae-young-classic-s1--e2-episode-2,-
 1769459983,Episode-1-7492,WWE,2017,Mae Young Classic 2017:1,69975/the-mae-young-classic-s1--e1-episode-1,-
@@ -1058,9 +1058,9 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 1801298583,Episode-8-The-Final-Four-1032,WWE,2017,Mae Young Classic 2017:8,69985/the-mae-young-classic-s1--e8-episode-8-the-final-four,-
 1828134583,Episode-9-The-Finals-1035,WWE,2017,Mae Young Classic 2017:9,71759/the-mae-young-classic-s1--e9-episode-9-the-finals,-
 1843224383,/program/No-Mercy-2017-Kickoff-Show-12116,WWE,2017,No Mercy 2017 pre-show,84529/no-mercy-2017-kickoff-show-2017-09-24,-
-1849136683,No-Mercy-2017-9565,WWE,2017,No Mercy 2017 (SmackDown),70594/no-mercy-2017,-
+1849136683,No-Mercy-2017-9565,WWE,2017,No Mercy 2017 (SmackDown),70594/no-mercy-2017,81929936
 1860470083,/program/Hell-in-a-Cell-2017-Kickoff-Show-12044,WWE,2017,Hell in a Cell 2017 pre-show,84500/hell-in-a-cell-2017-kickoff-show-2017-10-08,-
-1860483683,Hell-in-a-Cell-2017-5535,WWE,2017,Hell in a Cell (SmackDown),66569/hell-in-a-cell-2017,-
+1860483683,Hell-in-a-Cell-2017-5535,WWE,2017,Hell in a Cell (SmackDown),66569/hell-in-a-cell-2017,81929877
 1864493983,/program/TLC-Tables-Ladders-and-Chairs-2017-Kickoff-12138,WWE,2017,TLC 2017 pre-show,84524/tlc-tables-ladders--chairs-2017-kickoff-show-2017-10-22,-
 1864495283,TLC-Tables-Ladders-and-Chairs-2017-6670,WWE,2017,"TLC - Tables, Ladders and Chairs 2017 (Raw)",66358/tlc-tables-ladders--chairs-2017,-
 1867210483,/program/Survivor-Series-2017-Kickoff-Show-12231,WWE,2017,Survivor Series 2017 pre-show,84538/survivor-series-2017-kickoff-show-2017-11-19,-
@@ -1072,7 +1072,7 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 1873177483,SmackDown-3896,WWE,2017,SmackDown 2017-12-26,54918/smackdown-dec-26-2017,-
 1873176683,SmackDown-3907,WWE,2018,SmackDown 2018-01-02,54947/smackdown-jan-02-2018,-
 1873285683,/program/Royal-Rumble-2018-Kickoff-Show-12128,WWE,2018,Royal Rumble pre-show,84548/royal-rumble-2018-kickoff-show-2018-01-28,-
-1873289283,Royal-Rumble-2018-1784,WWE,2018,Royal Rumble 2018,70704/royal-rumble-2018,-
+1873289283,Royal-Rumble-2018-1784,WWE,2018,Royal Rumble 2018,70704/royal-rumble-2018,81929698
 1873694083,205-Live-2016,WWE,2018,205Live 2018-01-30,20738/205-live-jan-30-2018,-
 1874291283,SmackDown-3926,WWE,2018,SmackDown 2018-01-09,54966/smackdown-jan-09-2018,-
 1874302483,205-Live-2019,WWE,2018,205Live 2018-02-06,20739/205-live-feb-06-2018,-
@@ -1087,22 +1087,22 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 1886974483,205-Live-2007,WWE,2018,205Live 2018-03-13,20744/205-live-mar-13-2018,-
 1891770983,205-Live-2013,WWE,2018,205Live 2018-03-20,20745/205-live-mar-20-2018,-
 1907368883,/program/WrestleMania-34-Kickoff-12176,WWE,2018,Wrestlemania 34 pre-show,84516/wrestlemania-34-kickoff-2018-04-08,-
-1907375883,WrestleMania-34-1775,WWE,2018,WrestleMania XXXIV,67137/wrestlemania-34,-
+1907375883,WrestleMania-34-1775,WWE,2018,WrestleMania XXXIV,67137/wrestlemania-34,81929614
 1978048883,Greatest-Royal-Rumble-2018-9307,WWE,2018,Greatest Royal Rumble,70474/greatest-royal-rumble-2018,-
 1992299983,SmackDown-4035,WWE,2018,SmackDown 2018-04-10,54971/smackdown-apr-10-2018,-
 2003142383,/program/Backlash-2018-Kickoff-Show-12068,WWE,2018,Backlash 2018 pre-show,84521/backlash-2018-kickoff-show-2018-05-06,-
-2003143783,Backlash-2018-11892,WWE,2018,Backlash 2018,98836/backlash-2018,-
+2003143783,Backlash-2018-11892,WWE,2018,Backlash 2018,98836/backlash-2018,81929490
 2154517683,/program/Money-in-the-Bank-2018-Kickoff-Show-12199,WWE,2018,Money In The Bank pre-show,84520/money-in-the-bank-2018-kickoff-show-2018-06-17,-
-2154519283,Money-in-the-Bank-2018-7411,WWE,2018,Money in the Bank,69691/money-in-the-bank-2018,-
+2154519283,Money-in-the-Bank-2018-7411,WWE,2018,Money in the Bank,69691/money-in-the-bank-2018,81929906
 2195713783,2018-WWE-UK-Championship-Tournament-94322,WWE,2018,United Kingdom Championship tournament,86751/wwe-uk-championship-tournament-s2--e1-2018-wwe-uk-championship-tournament,-
 2260385383,/program/Extreme-Rules-2018-Kickoff-Show-12134,WWE,2018,Extreme Rules pre-show,23690/extreme-rules-kicko-2018-07-15,-
-2275864683,WWE-Extreme-Rules-2018-945,WWE,2018,Extreme Rules,91654/wwe-extreme-rules-2018,-
+2275864683,WWE-Extreme-Rules-2018-945,WWE,2018,Extreme Rules,91654/wwe-extreme-rules-2018,81929773
 2391998483,/program/SummerSlam-2018-Kickoff-Show-12205,WWE,2018,Summerslam 2018 pre-show,84519/summerslam-2018-kickoff-show-2018-08-19,-
-2392000983,SummerSlam-2018-11785,WWE,2018,Summerslam 2018,70799/summerslam-2018,-
+2392000983,SummerSlam-2018-11785,WWE,2018,Summerslam 2018,70799/summerslam-2018,81929143
 2469692583,Episode-1-7475,WWE,2018,Mae Young Classic 2018:1,70018/the-mae-young-classic-s2--e1-episode-1,-
 2481924583,Episode-2-7483,WWE,2018,Mae Young Classic 2018:2,69988/the-mae-young-classic-s2--e2-episode-2,-
 2485743883,/program/Hell-in-a-Cell-2018-Kickoff-Show-12049,WWE,2018,Hell in a Cell 2018 pre-show,84499/hell-in-a-cell-2018-kickoff-show-2018-09-16,-
-2485744783,Hell-in-a-Cell-2018-5550,WWE,2018,Hell in a Cell,66713/hell-in-a-cell-2018,-
+2485744783,Hell-in-a-Cell-2018-5550,WWE,2018,Hell in a Cell,66713/hell-in-a-cell-2018,81929878
 2495252083,Episode-3-7493,WWE,2018,Mae Young Classic 2018:3,69990/the-mae-young-classic-s2--e3-episode-3,-
 2505207583,Episode-4-7500,WWE,2018,Mae Young Classic 2018:4,69991/the-mae-young-classic-s4--e4-episode-4,-
 2513360183,Episode-5-7506,WWE,2018,Mae Young Classic 2018:5,69992/the-mae-young-classic-s2--e5-episode-5,-
@@ -1110,10 +1110,10 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 2515390183,Episode-6-6844,WWE,2018,Mae Young Classic 2018:6,66325/the-mae-young-classic-s2--e6-episode-6,-
 2516594883,Episode-7-The-Quarterfinals-5704,WWE,2018,Mae Young Classic 2018:7,66564/the-mae-young-classic-s2--e7-episode-7-the-quarterfinals,-
 2517604783,Episode-8-The-Semifinals-6853,WWE,2018,Mae Young Classic 2018:8,66326/the-mae-young-classic-s2--e8-episode-8-the-semifinals,-
-2518405283,WWE-Evolution-2018-11876,WWE,2018,Evolution,70780/wwe-evolution-2018,-
+2518405283,WWE-Evolution-2018-11876,WWE,2018,Evolution,70780/wwe-evolution-2018,81930846
 2518422083,Raw-7155,WWE,2018,RAW 2018-10-08,68587/raw-oct-08-2018,-
 2518498683,/program/Crown-Jewel-2018-Kickoff-12165,WWE,2018,Crown Jewel pre-show,84530/crown-jewel-2018-kickoff-show-2018-11-02,-
-2518554183,WWE-Crown-Jewel-2018-10258,WWE,2018,WWE Crown Jewel,71904/wwe-crown-jewel-2018,-
+2518554183,WWE-Crown-Jewel-2018-10258,WWE,2018,WWE Crown Jewel,71904/wwe-crown-jewel-2018,81930085
 2518835583,SmackDown-4050,WWE,2018,SmackDown 2018-10-09,54968/smackdown-oct-09-2018,-
 2518962083,Raw-7161,WWE,2018,RAW 2018-10-15,68591/raw-oct-15-2018,-
 2519303083,SmackDown-4183,WWE,2018,SmackDown 2018-10-16,54920/smackdown-oct-16-2018,-
@@ -1123,23 +1123,23 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 2521176383,TLC-Tables-Ladders-and-Chairs-2018-6698,WWE,2018,"TLC - Tables, Ladders and Chairs 2018",66322/tlc-tables-ladders--chairs-2018,-
 -,Raw-7173,WWE,2018,Raw 2018-10-29,68589/raw-oct-29-2018,-
 2522323883,/program/Royal-Rumble-2019-Kickoff-Show-12189,WWE,2019,Royal Rumble pre-show,84539/royal-rumble-2019-kickoff-show-2019-01-27,-
-2522324783,Royal-Rumble-2019-11214,WWE,2019,Royal Rumble 2019,92282/royal-rumble-2019,-
+2522324783,Royal-Rumble-2019-11214,WWE,2019,Royal Rumble 2019,92282/royal-rumble-2019,81929699
 2522729983,/program/Elimination-Chamber-2019-Kickoff-Show-12220,WWE,2019,Elimination Chamber pre-show,84808/elimination-chamber-2019-kickoff-show-2019-02-17,-
 2522730883,Elimination-Chamber-2019-11865,WWE,2019,Elimination Chamber 2019,70412/elimination-chamber-2019,-
 2523402783,/program/Fastlane-2019-Kickoff-12225,WWE,2019,Fastlane pre-show,84512/fastlane-2019-kickoff-2019-03-10,-
 2523403683,WWE-Fastlane-2019-10115,WWE,2019,Fastlane,72385/wwe-fastlane-2019,-
 2524135183,/program/WrestleMania-35-Kickoff-12137,WWE,2019,Wrestlemania 35 pre-show,84815/wrestlemania-35-kickoff-2019-04-07,-
-2524218983,WrestleMania-35-9199,WWE,2019,WrestleMania XXXV,84196/wrestlemania-35,-
+2524218983,WrestleMania-35-9199,WWE,2019,WrestleMania XXXV,84196/wrestlemania-35,81929615
 2525057883,/program/Money-in-the-Bank-2019-Kickoff-8446,WWE,2019,Money In The Bank pre-show,86022/money-in-the-bank-2019-kickoff-2019-05-19,-
-2525058783,Money-in-the-Bank-2019-9423,WWE,2019,Money in the Bank,85386/money-in-the-bank-2019,-
+2525058783,Money-in-the-Bank-2019-9423,WWE,2019,Money in the Bank,85386/money-in-the-bank-2019,81929907
 2525408283,/program/WWE-Super-ShowDown-2019-Kickoff-12653,WWE,2019,Super ShowDown pre-show,86686/wwe-super-showdown-2019-kickoff-2019-06-07,-
 2525408383,WWE-Super-ShowDown-2019-12654,WWE,2019,Super ShowDown,86595/wwe-super-showdown-2019,-
 2525612483,/program/WWE-Stomping-Grounds-2019-Kickoff-94433,WWE,2019,Stomping Grounds pre-show,86684/wwe-stomping-grounds-2019-kickoff-2019-06-23,-
 2525643083,WWE-Stomping-Grounds-2019-94436,WWE,2019,Stomping Grounds,86059/wwe-stomping-grounds-2019,-
 2525722083,/program/WWE-Extreme-Rules-2019-Kickoff-95189,WWE,2019,Extreme Rules pre-show,86691/wwe-extreme-rules-2019-kickoff-2019-07-14,-
-2525722983,WWE-Extreme-Rules-2019-95188,WWE,2019,Extreme Rules,86989/wwe-extreme-rules-2019,-
+2525722983,WWE-Extreme-Rules-2019-95188,WWE,2019,Extreme Rules,86989/wwe-extreme-rules-2019,81929774
 -,/program/SummerSlam-2019-Kickoff-102317,WWE,2019,Summerslam 2019 pre-show,90104/summerslam-2019-kickoff-2019-08-11,-
--,SummerSlam-2019-102329,WWE,2019,Summerslam 2019,90100/summerslam-2019,-
+-,SummerSlam-2019-102329,WWE,2019,Summerslam 2019,90100/summerslam-2019,81929147
 -,/program/Clash-of-Champions-2019-Kickoff-105410,WWE,2019,Clash of Champions 2019 pre-show,92404/clash-of-champions-2019-kickoff-2019-09-15,-
 -,Clash-of-Champions-2019-105415,WWE,2019,Clash of Champions 2019,93388/clash-of-champions-2019,-
 -,Raw-106399,WWE,2019,Raw 2019-08-19,92112/raw-aug-19-2019,-
@@ -1148,29 +1148,29 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 -,SmackDown-107063,WWE,2019,SmackDown 2019-08-27,93331/smackdown-aug-27-2019,-
 -,/program/Hell-in-a-Cell-2019-Kickoff-107210,WWE,2019,Hell in a Cell 2019 pre-show,98497/hell-in-a-cell-2019-kickoff-2019-10-06,-
 -,Raw-107409,WWE,2019,Raw 2019-09-02,94234/raw-sep-02-2019,-
--,Hell-in-a-Cell-2019-107415,WWE,2019,Hell in a Cell,98830/hell-in-a-cell-2019,-
+-,Hell-in-a-Cell-2019-107415,WWE,2019,Hell in a Cell,98830/hell-in-a-cell-2019,81929879
 -,SmackDown-107421,WWE,2019,SmackDown 2019-09-03,95739/smackdown-sep-03-2019,-
 -,Raw-108700,WWE,2019,Raw 2019-09-16,98321/raw-sep-16-2019,-
 -,Raw-108707,WWE,2019,Raw 2019-09-09,97731/raw-sep-09-2019,-
 -,SmackDown-108780,WWE,2019,SmackDown 2019-09-10,97871/smackdown-sep-10-2019,-
 -,/program/WWE-Crown-Jewel-2019-Kickoff-110589,WWE,2019,Crown Jewel pre-show,101393/wwe-crown-jewel-2019-kickoff-2019-10-31,-
--,WWE-Crown-Jewel-2019-111010,WWE,2019,WWE Crown Jewel,101250/wwe-crown-jewel-2019,-
+-,WWE-Crown-Jewel-2019-111010,WWE,2019,WWE Crown Jewel,101250/wwe-crown-jewel-2019,81930086
 -,/program/Survivor-Series-2019-Kickoff-112263,WWE,2019,Survivor Series 2019 pre-show,106352/survivor-series-2019-kickoff-2019-11-24,-
 -,Survivor-Series-2019-112628,WWE,2019,Survivor Series 2019,104702/survivor-series-2019,-
 -,/program/TLC-Tables-Ladders-and-Chairs-2019-Kickoff-113974,WWE,2019,TLC 2019 pre-show,109097/tlc-tables-ladders--chairs-2019-kickoff-2019-12-15,-
 -,TLC-Tables-Ladders-and-Chairs-2019-114034,WWE,2019,"TLC - Tables, Ladders and Chairs 2019",108412/tlc-tables-ladders--chairs-2019,-
 -,/program/Royal-Rumble-2020-Kickoff-Show-117075,WWE,2020,Royal Rumble pre-show,113120/royal-rumble-2020-kickoff-show-2020-01-26,-
--,Royal-Rumble-2020-117386,WWE,2020,Royal Rumble 2020,115194/royal-rumble-2020,-
+-,Royal-Rumble-2020-117386,WWE,2020,Royal Rumble 2020,115194/royal-rumble-2020,81929700
 -,/program/WWE-Super-ShowDown-2020-Kickoff-130820,WWE,2020,Super ShowDown pre-show,135675/wwe-super-showdown-2020-kickoff-2020-02-27,-
 -,WWE-Super-ShowDown-2020-130888,WWE,2020,Super ShowDown,130667/wwe-super-showdown-2020,-
 -,/program/Elimination-Chamber-2020-Kickoff-131238,WWE,2020,Elimination Chamber pre-show,130622/elimination-chamber-2019-kickoff-2020-03-08,-
 -,Elimination-Chamber-2020-131306,WWE,2020,Elimination Chamber 2020,130922/elimination-chamber-2020,-
 -,/program/WrestleMania-36-Kickoff-Part-1-133671,WWE,2020,WrestleMania 36 Part 1 pre-show,135673/wrestlemania-36-kickoff-part-1-2020-04-04,-
 -,/program/WrestleMania-36-Kickoff-Part-2-133681,WWE,2020,WrestleMania 36 Part 2 pre-show,135671/wrestlemania-36-part-2-kickoff-part-2-2020-04-05,-
--,WrestleMania-36-Part-1-134168,WWE,2020,WrestleMania XXXVI Part 1,139301/wrestlemania-36-part-1,-
--,WrestleMania-36-Part-2-134169,WWE,2020,WrestleMania XXXVI Part 2,135494/wrestlemania-36-part-2,-
+-,WrestleMania-36-Part-1-134168,WWE,2020,WrestleMania XXXVI Part 1,139301/wrestlemania-36-part-1,81929616
+-,WrestleMania-36-Part-2-134169,WWE,2020,WrestleMania XXXVI Part 2,135494/wrestlemania-36-part-2,81929620
 -,/program/WWE-Money-in-the-Bank-2020-Kickoff-Show-136363,WWE,2020,Money In The Bank pre-show,144789/wwe-money-in-the-bank-2020-kickoff-show-2020-05-10,-
--,WWE-Money-in-the-Bank-2020-136533,WWE,2020,Money in the Bank,144803/money-in-the-bank-2020,-
+-,WWE-Money-in-the-Bank-2020-136533,WWE,2020,Money in the Bank,144803/money-in-the-bank-2020,81929908
 -,Raw-136842,WWE,2020,RAW 2020-05-11,152834/raw-may-11-2020,-
 -,Raw-155881,WWE,2020,RAW 2020-12-28,196831/raw-dec-28-2020,-
 -,SmackDown-136843,WWE,2020,SmackDown 2020-05-15,153502/smackdown-may-15-2020,-
@@ -1178,22 +1178,22 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 -,SmackDown-137725,WWE,2020,SmackDown 2020-05-29,154559/smackdown-may-29-2020,-
 -,SmackDown-144005,WWE,2020,SmackDown 2020-06-12,156222/smackdown-jun-12-2020,-
 -,/program/Backlash-2020-Kickoff-Show-144007,WWE,2020,Backlash 2020 pre-show,153668/backlash-2020-kickoff-show-2020-06-14,-
--,Backlash-2020-144348,WWE,2020,Backlash 2020,153663/backlash-2020,-
--,The-Horror-Show-at-WWE-Extreme-Rules-145897,WWE,2020,The Horror Show at Extreme Rules,157257/the-horror-show-at-wwe-extreme-rules,-
+-,Backlash-2020-144348,WWE,2020,Backlash 2020,153663/backlash-2020,81929492
+-,The-Horror-Show-at-WWE-Extreme-Rules-145897,WWE,2020,The Horror Show at Extreme Rules,157257/the-horror-show-at-wwe-extreme-rules,81929775
 -,/program/The-Horror-Show-at-WWE-Extreme-Rules-Kickoff-145898,WWE,2020,The Horror Show at Extreme Rules pre-show,157236/the-horror-show-at-wwe-extreme-rules-kickoff-2020-07-19,-
 -,/program/SummerSlam-2020-Kickoff-Show-147670,WWE,2020,Summerslam 2020 pre-show,162171/summerslam-2020-kickoff-2020-08-23,-
--,SummerSlam-2020-147732,WWE,2020,Summerslam 2020,162185/summerslam-2020,-
+-,SummerSlam-2020-147732,WWE,2020,Summerslam 2020,162185/summerslam-2020,81929149
 -,/program/WWE-Payback-2020-Kickoff-148196,WWE,2020,Payback pre-show,163036/wwe-payback-2020-kickoff-2020-08-30,-
 -,WWE-Payback-2020-148415,WWE,2020,Payback 2020,163053/wwe-payback-2020,-
 -,/program/Clash-of-Champions-2020-Kickoff-149610,WWE,2020,Clash of Champions 2020 pre-show,168076/clash-of-champions-2020-kickoff-2020-09-27,-
--,Clash-of-Champions-2020-149916,WWE,2020,Clash of Champions 2020: Gold Rush,168093/clash-of-champions-2020,-
+-,Clash-of-Champions-2020-149916,WWE,2020,Clash of Champions 2020: Gold Rush,168093/clash-of-champions-2020,81930361
 -,/program/Hell-in-a-Cell-2020-Kickoff-151400,WWE,2020,Hell in a Cell 2020 pre-show,173698/hell-in-a-cell-2020-kickoff-2020-10-25,-
--,Hell-in-a-Cell-2020-151650,WWE,2020,Hell in a Cell 2020,173719/hell-in-a-cell-2020,-
+-,Hell-in-a-Cell-2020-151650,WWE,2020,Hell in a Cell 2020,173719/hell-in-a-cell-2020,81929880
 -,/program/Survivor-Series-2020-Kickoff-153296,WWE,2020,Survivor Series 2020 pre-show,179582/survivor-series-2020-kickoff-2020-11-22,-
 -,Survivor-Series-2020-153372,WWE,2020,Survivor Series 2020: Best of the Best,179604/survivor-series-2020,-
 -,/program/TLC-Tables-Ladders-and-Chairs-2020-Kickoff-154908,WWE,2020,TLC 2020 pre-show,189222/tlc-tables-ladders--chairs-2020-kickoff-2020-12-20,-
 -,TLC-Tables-Ladders-and-Chairs-2020-154952,WWE,2020,"TLC - Tables, Ladders and Chairs 2020",202790/tlc-tables-ladders--chairs-2020,-
--,Royal-Rumble-2021-157315,WWE,2021,Royal Rumble 2021,198404/royal-rumble-2021,-
+-,Royal-Rumble-2021-157315,WWE,2021,Royal Rumble 2021,198404/royal-rumble-2021,81929701
 -,/program/WWE-Superstar-Spectacle-157389,WWE,2021,Superstar Spectacle 2021,196378/wwe-superstar-spectacle,-
 -,/program/Royal-Rumble-2021-Kickoff-157390,WWE,2021,Royal Rumble 2021 pre-show,198358/royal-rumble-2021-kickoff-2021-01-31,-
 -,/program/Elimination-Chamber-2021-Kickoff-158534,WWE,2021,Elimination Chamber 2021 pre-show,206020/elimination-chamber-2021-kickoff-2021-02-21,-
@@ -1202,104 +1202,104 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID
 -,/program/WWE-Fastlane-2021-Kickoff-160437,WWE,2021,Fastlane pre-show,212091/wwe-fastlane-2021-kickoff-2021-03-21,-
 -,/program/WrestleMania-37-Night-1-Kickoff-161662,WWE,2021,WrestleMania 37 Night 1 pre-show,215617/wrestlemania-37-night-1-kickoff-2021-04-10,-
 -,/program/WrestleMania-37-Night-2-Kickoff-161663,WWE,2021,WrestleMania 37 Night 2 pre-show,215766/wrestlemania-37-night-2-kickoff-2021-04-11,-
--,WrestleMania-37-Night-2-161944,WWE,2021,WrestleMania XXXVII Night 2,215787/wrestlemania-37-night-2,-
--,WrestleMania-37-Night-1-161945,WWE,2021,WrestleMania XXXVII Night 1,215656/wrestlemania-37-night-1,-
--,WrestleMania-Backlash-164020,WWE,2021,WrestleMania Backlash,223304/wrestlemania-backlash,-
+-,WrestleMania-37-Night-2-161944,WWE,2021,WrestleMania XXXVII Night 2,215787/wrestlemania-37-night-2,81929621
+-,WrestleMania-37-Night-1-161945,WWE,2021,WrestleMania XXXVII Night 1,215656/wrestlemania-37-night-1,81929617
+-,WrestleMania-Backlash-164020,WWE,2021,WrestleMania Backlash,223304/wrestlemania-backlash,81929494
 -,/program/WrestleMania-Backlash-Kickoff-164025,WWE,2021,WrestleMania Backlash pre-show,223275/wrestlemania-backlash-kickoff-2021-05-16,-
 -,/program/Hell-in-a-Cell-2021-Kickoff-165667,WWE,2021,Hell in a Cell 2021 pre-show,232302/hell-in-a-cell-2021-kickoff-2021-06-20,-
--,Hell-in-a-Cell-2021-165878,WWE,2021,Hell in a Cell 2021,232314/hell-in-a-cell-2021,-
+-,Hell-in-a-Cell-2021-165878,WWE,2021,Hell in a Cell 2021,232314/hell-in-a-cell-2021,81929881
 -,/program/Money-in-the-Bank-2021-Kickoff-166813,WWE,2021,Money In The Bank pre-show,237934/money-in-the-bank-2021-kickoff-2021-07-18,-
--,Money-in-the-Bank-2021-166817,WWE,2021,Money in the Bank,237955/money-in-the-bank-2021,-
+-,Money-in-the-Bank-2021-166817,WWE,2021,Money in the Bank,237955/money-in-the-bank-2021,81929909
 -,/program/SummerSlam-2021-Kickoff-168332,WWE,2021,Summerslam 2021 pre-show,244742/summerslam-2021-kickoff-2021-08-22,-
--,SummerSlam-2021-168705,WWE,2021,Summerslam 2021,244828/summerslam-2021,-
+-,SummerSlam-2021-168705,WWE,2021,Summerslam 2021,244828/summerslam-2021,81929152
 -,/program/WWE-Extreme-Rules-2021-Kickoff-169812,WWE,2021,Extreme Rules pre-show,255175/wwe-extreme-rules-2021-kickoff-2021-09-26,-
--,WWE-Extreme-Rules-2021-170208,WWE,2021,Extreme Rules,255199/wwe-extreme-rules-2021,-
+-,WWE-Extreme-Rules-2021-170208,WWE,2021,Extreme Rules,255199/wwe-extreme-rules-2021,81929776
 -,SmackDown-170592,WWE,2021,SmackDown 2021-10-08,263417/smackdown-oct-08-2021,-
 -,SmackDown-170739,WWE,2021,SmackDown 2021-10-15,267271/smackdown-oct-15-2021,-
 -,Raw-170740,WWE,2021,Raw 2021-10-11,266435/raw-oct-11-2021,-
 -,/program/WWE-Crown-Jewel-2021-Kickoff-171128,WWE,2021,Crown Jewel pre-show,261087/wwe-crown-jewel-2021-kickoff-2021-10-21,-
 -,Raw-171131,WWE,2021,Raw 2021-10-18,268225/raw-oct-18-2021,-
--,WWE-Crown-Jewel-2021-171159,WWE,2021,WWE Crown Jewel,261167/wwe-crown-jewel-2021,-
+-,WWE-Crown-Jewel-2021-171159,WWE,2021,WWE Crown Jewel,261167/wwe-crown-jewel-2021,81930087
 -,/program/Survivor-Series-2021-Kickoff-172377,WWE,2021,Survivor Series 2021 pre-show,269773/survivor-series-2021-kickoff-2021-11-21,-
 -,Survivor-Series-2021-172405,WWE,2021,Survivor Series 2021,269802/survivor-series-2021,-
 -,Raw-169604,WWE,2021,RAW 2021-09-13,257510/raw-sep-13-2021,-
 -,Raw-167062,WWE,2021,RAW 2021-07-19,242580/raw-jul-19-2021,-
 -,SmackDown-161855,WWE,2021,SmackDown 2021-04-09,219680/smackdown-apr-09-2021,-
 -,/program/WWE-Day-1-2022-Kickoff-174479,WWE,2022,Day 1 pre-show,279840/wwe-day-1-2022-kickoff-2022-01-01,-
--,WWE-Day-1-2022-174482,WWE,2022,WWE Day 1,279869/wwe-day-1-2022,-
+-,WWE-Day-1-2022-174482,WWE,2022,WWE Day 1,279869/wwe-day-1-2022,81930768
 -,/program/Royal-Rumble-2022-Kickoff-175952,WWE,2022,Royal Rumble pre-show,289823/royal-rumble-2022-01-29,-
--,Royal-Rumble-2022-176250,WWE,2022,Royal Rumble 2022,289855/royal-rumble-2022,-
+-,Royal-Rumble-2022-176250,WWE,2022,Royal Rumble 2022,289855/royal-rumble-2022,81929702
 -,/program/Elimination-Chamber-2022-Kickoff-176798,WWE,2022,Elimination Chamber pre-show,295290/elimination-chamber-2022-kickoff-2022-02-19,-
 -,Elimination-Chamber-2022-176850,WWE,2022,Elimination Chamber 2022,295439/elimination-chamber-2022,-
--,WrestleMania-38-Saturday-178545,WWE,2022,WrestleMania XXXVIII Saturday,344235/wrestlemania-38-saturday,-
--,WrestleMania-38-Sunday-178550,WWE,2022,WrestleMania XXXVIII Sunday,344518/wrestlemania-38-sunday,-
+-,WrestleMania-38-Saturday-178545,WWE,2022,WrestleMania XXXVIII Saturday,344235/wrestlemania-38-saturday,81929618
+-,WrestleMania-38-Sunday-178550,WWE,2022,WrestleMania XXXVIII Sunday,344518/wrestlemania-38-sunday,81929622
 -,/program/WrestleMania-38-Sunday-Kickoff-178662,WWE,2022,WrestleMania 38 Sunday pre-show,344452/wrestlemania-38-sunday-kickoff-2022-04-03,-
 -,/program/WrestleMania-38-Saturday-Kickoff-178781,WWE,2022,WrestleMania 38 Saturday pre-show,344180/wrestlemania-38-saturday-kickoff-2022-04-02,-
--,WrestleMania-Backlash-2022-180078,WWE,2022,WrestleMania Backlash,355053/wrestlemania-backlash-2022,-
+-,WrestleMania-Backlash-2022-180078,WWE,2022,WrestleMania Backlash,355053/wrestlemania-backlash-2022,81929496
 -,/program/WrestleMania-Backlash-2022-Kickoff-180081,WWE,2022,WrestleMania Backlash pre-show,355035/wrestlemania-backlash-2022-kickoff-2022-05-08,-
--,Hell-in-a-Cell-2022-181347,WWE,2022,Hell in a Cell,366463/hell-in-a-cell-2022,-
+-,Hell-in-a-Cell-2022-181347,WWE,2022,Hell in a Cell,366463/hell-in-a-cell-2022,81929882
 -,/program/Hell-in-a-Cell-2022-Kickoff-181348,WWE,2022,Hell in a Cell 2022 pre-show,366374/wwe-premium-live-events-kickoff,-
--,Money-in-the-Bank-2022-182463,WWE,2022,Money in the Bank,373665/money-in-the-bank-2022,-
+-,Money-in-the-Bank-2022-182463,WWE,2022,Money in the Bank,373665/money-in-the-bank-2022,81929909
 -,/program/Money-in-the-Bank-Kickoff-2022-182464,WWE,2022,Money in the Bank 2022 pre-show,373618/money-in-the-bank-kickoff-2022-2022-07-02,-
--,SummerSlam-2022-183479,WWE,2022,Summerslam 2022,379306/summerslam-2022,-
+-,SummerSlam-2022-183479,WWE,2022,Summerslam 2022,379306/summerslam-2022,81929152
 -,/program/SummerSlam-2022-Kickoff-183481,WWE,2022,Summerslam 2022 pre-show,379227/wwe-premium-live-events-kickoff,-
--,SmackDown-184336,WWE,2022,SmackDown 2022-08-12,390062/smackdown-aug-12-2022,-
--,Raw-184338,WWE,2022,Raw 2022-08-08,387050/raw-aug-08-2022,-
--,Raw-184464,WWE,2022,Raw 2022-08-15,390065/raw-aug-15-2022,-
--,SmackDown-184466,WWE,2022,SmackDown 2022-08-19,391632/smackdown-aug-19-2022,-
--,Raw-184704,WWE,2022,Raw 2022-08-22,391364/raw-aug-22-2022,-
--,SmackDown-184705,WWE,2022,SmackDown 2022-08-26,393867/smackdown-aug-26-2022,-
+-,SmackDown-178555,WWE,2022,SmackDown 2022-04-01,350258/smackdown-apr-01-2022,81924211
+-,SmackDown-184336,WWE,2022,SmackDown 2022-08-12,390062/smackdown-aug-12-2022,81924230
+-,Raw-184338,WWE,2022,Raw 2022-08-08,387050/raw-aug-08-2022,81924109
+-,Raw-184464,WWE,2022,Raw 2022-08-15,390065/raw-aug-15-2022,81924110
+-,SmackDown-184466,WWE,2022,SmackDown 2022-08-19,391632/smackdown-aug-19-2022,81924231
+-,Raw-184704,WWE,2022,Raw 2022-08-22,391364/raw-aug-22-2022,81924111
+-,SmackDown-184705,WWE,2022,SmackDown 2022-08-26,393867/smackdown-aug-26-2022,81924232
 -,/program/WWE-Clash-at-the-Castle-2022-Kickoff-185111,WWE,2022,Clash at the Castle pre-show,390312/wwe-premium-live-events-kickoff,-
--,Raw-185112,WWE,2022,Raw 2022-08-29,395813/raw-aug-29-2022,-
--,WWE-Clash-at-the-Castle-2022-185553,WWE,2022,Clash at the Castle,390586/wwe-clash-at-the-castle-2022,-
--,WWE-Extreme-Rules-2022-186484,WWE,2022,Extreme Rules,402027/wwe-extreme-rules-2022,-
+-,Raw-185112,WWE,2022,Raw 2022-08-29,395813/raw-aug-29-2022,81924112
+-,WWE-Clash-at-the-Castle-2022-185553,WWE,2022,Clash at the Castle,390586/wwe-clash-at-the-castle-2022,81930763
+-,WWE-Extreme-Rules-2022-186484,WWE,2022,Extreme Rules,402027/wwe-extreme-rules-2022,81929777
 -,/program/WWE-Extreme-Rules-2022-Kickoff-186485,WWE,2022,Extreme Rules pre-show,401315/wwe-premium-live-events-kickoff,-
--,SmackDown-187885,WWE,2022,SmackDown 2022-11-11,422745/smackdown-nov-11-2022,-
--,WWE-Crown-Jewel-2022-187891,WWE,2022,WWE Crown Jewel,414890/wwe-crown-jewel-2022,-
--,SmackDown-188082,WWE,2022,SmackDown 2022-11-18,424592/smackdown-nov-18-2022,-
--,SmackDown-188331,WWE,2022,SmackDown 2022-11-25,426537/smackdown-nov-25-2022,-
--,Survivor-Series-WarGames-2022-188350,WWE,2022,Survivor Series 2022 - War Games,421194/survivor-series-wargames-2022,-
--,SmackDown-188598,WWE,2022,SmackDown 2022-12-02,428108/smackdown-dec-02-2022,-
+-,SmackDown-187885,WWE,2022,SmackDown 2022-11-11,422745/smackdown-nov-11-2022,81924243
+-,WWE-Crown-Jewel-2022-187891,WWE,2022,WWE Crown Jewel,414890/wwe-crown-jewel-2022,81930088
+-,SmackDown-188082,WWE,2022,SmackDown 2022-11-18,424592/smackdown-nov-18-2022,81924244
+-,SmackDown-188331,WWE,2022,SmackDown 2022-11-25,426537/smackdown-nov-25-2022,81924245
+-,Survivor-Series-WarGames-2022-188350,WWE,2022,Survivor Series 2022 - War Games,421194/survivor-series-wargames-2022,81930187
+-,SmackDown-188598,WWE,2022,SmackDown 2022-12-02,428108/smackdown-dec-02-2022,81924246
 -,/program/Survivor-Series-WarGames-2022-Kickoff-188603,WWE,2022,Survivor Series 2022 pre-show,421140/wwe-premium-live-events-kickoff,-
--,Raw-187886,WWE,2022,RAW 2022-11-07,421822/raw-nov-07-2022,-
--,SmackDown-178555,2022,WWE,SmackDown 2022-04-01,350258/smackdown-apr-01-2022,-
--,Royal-Rumble-2023-192184,WWE,2023,Royal Rumble 2023,439364/royal-rumble-2023,-
+-,Raw-187886,WWE,2022,RAW 2022-11-07,421822/raw-nov-07-2022,81924122
+-,Royal-Rumble-2023-192184,WWE,2023,Royal Rumble 2023,439364/royal-rumble-2023,81929703
 -,/program/Royal-Rumble-2023-Kickoff-192543,WWE,2023,Royal Rumble pre-show,439293/royal-rumble-2023-kickoff-2023-01-28,-
 -,Elimination-Chamber-2023-193090,WWE,2023,Elimination Chamber 2023,446337/elimination-chamber-2023,-
 -,/program/Elimination-Chamber-2023-Kickoff-193091,WWE,2023,Elimination Chamber pre-show,446275/elimination-chamber-2023-kickoff-2023-02-18,-
--,WrestleMania-39-Saturday-194804,WWE,2023,WrestleMania XXXIX Saturday,461734/wrestlemania-39-saturday,-
--,WrestleMania-39-Sunday-194805,WWE,2023,WrestleMania XXXIX Sunday,462556/wrestlemania-39-sunday,-
--,Backlash-2023-196250,WWE,2023,Backlash,475255/backlash-2023,-
+-,WrestleMania-39-Saturday-194804,WWE,2023,WrestleMania XXXIX Saturday,461734/wrestlemania-39-saturday,81929619
+-,WrestleMania-39-Sunday-194805,WWE,2023,WrestleMania XXXIX Sunday,462556/wrestlemania-39-sunday,81929619
+-,Backlash-2023-196250,WWE,2023,Backlash,475255/backlash-2023,81929498
 -,Night-of-Champions-2023-196987,WWE,2023,Night of Champions,483069/night-of-champions-2023,-
--,Money-in-the-Bank-2023-198280,WWE,2023,Money in the Bank,495654/money-in-the-bank-2023,-
--,SmackDown-194807,WWE,2023,SmackDown 2023-03-31,468113/smackdown-mar-31-2023,-
--,-,WWE,2023,Raw 2023-05-08,480548,-
--,-,WWE,2023,SmackDown 2023-05-12,485102,-
--,-,WWE,2023,Summerslam 2023,506228,-
--,-,WWE,2023,Payback,516561,-
--,-,WWE,2023,Fastlane,530182,-
+-,Money-in-the-Bank-2023-198280,WWE,2023,Money in the Bank,495654/money-in-the-bank-2023,81929911
+-,SmackDown-194807,WWE,2023,SmackDown 2023-03-31,468113/smackdown-mar-31-2023,81924264
+-,-,WWE,2023,Raw 2023-05-08,480548,81924149
+-,-,WWE,2023,SmackDown 2023-05-12,485102,81924270
+-,-,WWE,2023,Summerslam 2023,506228,81929156
+-,-,WWE,2023,Payback,516561,81929995
+-,-,WWE,2023,Fastlane,530182,81929519
 -,-,WWE,2023,Crown Jewel pre-show,541687,-
--,-,WWE,2023,WWE Crown Jewel,541846,-
--,-,WWE,2023,Survivor Series 2023,551981,-
--,-,WWE,2024,Royal Rumble 2024,576857,-
+-,-,WWE,2023,WWE Crown Jewel,541846,81930089
+-,-,WWE,2023,Survivor Series 2023,551981,81930188
+-,-,WWE,2024,Royal Rumble 2024,576857,81929666
 -,-,WWE,2024,Elimination Chamber pre-show,588411,-
--,-,WWE,2024,Elimination Chamber,588441,-
--,-,WWE,2024,WrestleMania XL Saturday,606095,-
--,-,WWE,2024,WrestleMania XL Sunday,606456,-
--,-,WWE,2024,WrestleMania XL Saturday,606794,-
--,-,WWE,2024,WrestleMania XL Sunday,606812,-
--,-,WWE,2024,Backlash,619297,-
--,-,WWE,2024,Raw 2024-05-06,637122,-
--,-,WWE,2024,SmackDown 2024-05-10,638844,-
+-,-,WWE,2024,Elimination Chamber,588441,81929747
+-,-,WWE,2024,WrestleMania XL Saturday,606095,81772731
+-,-,WWE,2024,WrestleMania XL Sunday,606456,81772732
+-,-,WWE,2024,WrestleMania XL Saturday,606794,81772731
+-,-,WWE,2024,WrestleMania XL Sunday,606812,81772732
+-,-,WWE,2024,Backlash,619297,81940772
+-,-,WWE,2024,Raw 2024-05-06,637122,81937464
+-,-,WWE,2024,SmackDown 2024-05-10,638844,81937504
 -,-,WWE,2024,King &amp; Queen of the Ring pre-show,640181,-
--,-,WWE,2024,King &amp; Queen of the Ring,640262,-
--,-,WWE,2024,SmackDown 2024-05-17,647423,-
--,-,WWE,2024,Raw 2024-05-13,648793,-
--,-,WWE,2024,Raw 2024-05-20,648794,-
--,-,WWE,2024,SmackDown 2024-05-24,649699,-
--,-,WWE,2024,Clash at the Castle,650086,-
--,-,WWE,2024,Money in the Bank,657572,-
--,-,WWE,2024,Summerslam 2024,673588,-
--,-,WWE,2024,Bash in Berlin,682286,-
--,-,WWE,2024,Bad Blood,696187,-
--,-,WWE,2024,Survivor Series 2024,726815,-
+-,-,WWE,2024,King &amp; Queen of the Ring,640262,81939861
+-,-,WWE,2024,SmackDown 2024-05-17,647423,81937505
+-,-,WWE,2024,Raw 2024-05-13,648793,81937465
+-,-,WWE,2024,Raw 2024-05-20,64879481937466-
+-,-,WWE,2024,SmackDown 2024-05-24,649699,81937506
+-,-,WWE,2024,Clash at the Castle,650086,81940778
+-,-,WWE,2024,Money in the Bank,657572,81940782
+-,-,WWE,2024,Summerslam 2024,673588,81940784
+-,-,WWE,2024,Bash in Berlin,682286,81940802
+-,-,WWE,2024,Bad Blood,696187,81940785
+-,-,WWE,2024,Survivor Series 2024,726815,81940789
