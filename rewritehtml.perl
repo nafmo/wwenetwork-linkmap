@@ -150,13 +150,26 @@ sub process
         while ((my $match = index($line, 'https://network.wwe.com/video/', $pos)) != -1)
         {
             # Find the video number
-            my $videoidlen = 0;
-            (my $videoidstr, my $ignore) = split(/[^0-9]/, substr($line, $match + 30), 2);
+            my ($videoidstr, $ignore) = split(/[^0-9]/, substr($line, $match + 30), 2);
             my $videoid = int($videoidstr);
-            if (defined $map{$videoid})
+            my $videoidlen = length($videoid);
+            if (substr($line, $match + 30 + length($videoid), 1) eq '/')
+            {
+                # Early WWE Network v3 links added the event name after the video ID,
+                # find the remaining length of the link to ignore
+                my $remainder = substr($line, $match + 30 + length($videoid));
+                if ($remainder =~ /([-\/0-9A-Za-z]+)/)
+                {
+                    my $idlen = length($1);
+                    $videoidlen += $idlen;
+                }
+                
+            }
+            
+            if (defined $mapv3{$videoid})
             {
                 # Rewrite to new video
-                substr($line, $match, 30 + length($videoid)) = "https://www.netflix.com/watch/" . $map{$videoid};
+                substr($line, $match, 30 + $videoidlen) = "https://www.netflix.com/watch/" . $mapv3{$videoid};
                 ++ $found;
             }
             $pos = $match + 30;
