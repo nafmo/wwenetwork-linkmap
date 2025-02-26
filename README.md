@@ -14,12 +14,16 @@ links from both version 1 and version 2 to the version 3 links.
 In January 2025, Netflix aquired all the assets of WWE Network where I
 live. The WWE Network links are still active for the territories where the
 Network is still live, but there is no transfer to Netflix for me, so I
-added another map.
+added another map. Not all videos seem to be transferred to Netflix, some
+might show up later, but some are on YouTube, so there is a column for
+those as well.
 
 ## Current state
 
 The list is far from complete, it only contains the events that I had linked
 in my database. Additions are welcome.
+
+The Netflix index is missing entries. Help welcome.
 
 ## File format
 
@@ -30,8 +34,6 @@ The fields are as follows:
 
  1. Version 1 ID. This is just the numerical ID, the initial link part
    (often `http://network.wwe.com/video/v`) is omitted.
-    If this field is `-` the video did not exist in version 1, or if I
-    do not have the version 1 video ID available.
  2. Version 2 ID. This is with the prefix
    (`https://watch.wwe.com/episode/`) omitted. If starting with a /,
     relative to `https://watch.wwe.com/`.
@@ -43,6 +45,11 @@ The fields are as follows:
     the second slash is optional (if included).
  7. Netflix ID. This is with the prefix
    (`https://www.netflix.com/watch/`) omitted.
+ 8. YouTube ID. This is with the prefix
+   (`https://www.youtube.com/watch?v=`) ommitted.
+
+Fields contain `-` if the video does not exist in that index,
+or if I do not have the version ID available.
 
 ## Scripts
 

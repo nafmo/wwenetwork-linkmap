@@ -43,7 +43,15 @@ sub readdatabase
         my @tokens = $csv->fields();
         # TODO: Add commmand-line switch to rewrite to v3 links, we might
         # need this if the Netflix deal expires and they go back again...
-        my $target = $tokens[6];
+        my $target = '';
+        if ($tokens[6] ne '' && $tokens[6] ne '-')
+        {
+            $target = 'https://www.netflix.com/watch/' . $tokens[6];
+        }
+        elsif ($tokens[7] ne '' && $tokens[7] ne '-')
+        {
+            $target = 'https://www.youtube.com/watch/?v=' . $tokens[7];
+        }
         # Map if we have something to map to
         if ($tokens[0] ne '-')
         {
@@ -120,7 +128,7 @@ sub process
             if (defined $map{$videoid})
             {
                 # Rewrite to new video
-                substr($line, $match, 30 + length($videoid)) = "https://www.netflix.com/watch/" . $map{$videoid};
+                substr($line, $match, 30 + length($videoid)) = $map{$videoid};
                 ++ $found;
             }
             $pos = $match + 30;
@@ -141,7 +149,7 @@ sub process
             if (defined $mapv2{$videoid})
             {
                 # Rewrite to new video
-                substr($line, $match, 22 + $videoidlen) = "https://www.netflix.com/watch/" . $mapv2{$videoid};
+                substr($line, $match, 22 + $videoidlen) = $mapv2{$videoid};
                 ++ $found;
             }
             $pos = $match + 22;
@@ -169,7 +177,7 @@ sub process
             if (defined $mapv3{$videoid})
             {
                 # Rewrite to new video
-                substr($line, $match, 30 + $videoidlen) = "https://www.netflix.com/watch/" . $mapv3{$videoid};
+                substr($line, $match, 30 + $videoidlen) = $mapv3{$videoid};
                 ++ $found;
             }
             $pos = $match + 30;
