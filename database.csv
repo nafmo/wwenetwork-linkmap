@@ -932,7 +932,7 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID,YouTube ID
 31973929,/program/WrestleMania-30-Kickoff-Show-12506,WWE,2014,WrestleMania XXX pre-show,83674/-2014-04-06,-,-
 32680887,/program/Extreme-Rules-2014-Kickoff-Show-12498,WWE,2014,Extreme Rules pre-show,83463/-2014-05-04,-,-
 32714887,WWE-Extreme-Rules-2014-11210,WWE,2014,Extreme Rules,70424/wwe-extreme-rules-2014,81929769,-
-33397847,WWE-Payback-2014-10388,WWE,2014,Payback,70632/wwe-payback-201481929990-,-
+33397847,WWE-Payback-2014-10388,WWE,2014,Payback,70632/wwe-payback-201481929990,-,-
 33460663,/program/Payback-2014-Kickoff-Show-12507,WWE,2014,Payback pre-show,83492/-2014-06-01,-,-
 34230589,Money-in-the-Bank-2014-5675,WWE,2014,Money in the Bank,66581/money-in-the-bank-2014,81929902,-
 34711531,/program/WWE-Battleground-2014-Kickoff-Show-12072,WWE,2014,Battleground 2014 pre-show,83442/-2014-07-20,-,-
@@ -1295,7 +1295,7 @@ V1 ID,V2 ID,Promotion,Year,Title,V3 ID,Netflix ID,YouTube ID
 -,-,WWE,2024,King &amp; Queen of the Ring,640262,81939861,-
 -,-,WWE,2024,SmackDown 2024-05-17,647423,81937505,-
 -,-,WWE,2024,Raw 2024-05-13,648793,81937465,-
--,-,WWE,2024,Raw 2024-05-20,64879481937466-,-
+-,-,WWE,2024,Raw 2024-05-20,648794,81937466-,-
 -,-,WWE,2024,SmackDown 2024-05-24,649699,81937506,-
 -,-,WWE,2024,Clash at the Castle,650086,81940778,-
 -,-,WWE,2024,Money in the Bank,657572,81940782,-
